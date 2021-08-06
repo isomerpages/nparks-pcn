@@ -16,8 +16,8 @@ sections:
         - title: OUR PCN
           description: Get to know about recreational routes at green spaces in Singapore
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: The PCN Experience
+          description: Explore different loops and trails! Connect digitally via our app
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
