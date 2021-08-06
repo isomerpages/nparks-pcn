@@ -2,4 +2,4 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - our-pcn-loops.md
+      - our-park-connector-network-loops.md
