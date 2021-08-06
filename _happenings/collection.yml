@@ -1,4 +1,5 @@
 collections:
   happenings:
     output: true
-    order: []
+    order:
+      - whats-happening.md
