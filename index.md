@@ -26,11 +26,13 @@ sections:
           description: What's happening on our PCNs and take part in making it better
           url: ""
   - infopic:
-      title: Park Connector Network
+      title: Routes & Trails
       subtitle: Overview Map
-      description: Take a look at our PCNS
-      alt: Image alt text
+      description: Take a look at our recreational network!
+      alt: Map of all routes
       image: /images/PCN%20sg%20map.png
+      button: Let's Go
+      url: /page-2/
   - infobar:
       title: About our PCNs
       subtitle: Park Connector Network
