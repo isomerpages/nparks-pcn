@@ -25,6 +25,12 @@ sections:
         - title: Events
           description: What's happening on our PCNs and take part in making it better
           url: ""
+  - infopic:
+      title: Park Connector Network
+      subtitle: Overview Map
+      description: Take a look at our PCNS
+      alt: Image alt text
+      image: /images/PCN%20sg%20map.png
   - infobar:
       title: About our PCNs
       subtitle: Park Connector Network
@@ -32,10 +38,4 @@ sections:
         park hop while indulging in various fun and recreational activities.
       button: Find out more
       url: /faq/
-  - infopic:
-      title: Park Connector Network
-      subtitle: Overview Map
-      description: Take a look at our PCNS
-      alt: Image alt text
-      image: /images/PCN%20sg%20map.png
 ---
