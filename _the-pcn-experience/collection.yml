@@ -2,4 +2,4 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - experience-the-park-connectors.md
+      - island-wide-pcn-loops.md
