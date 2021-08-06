@@ -41,4 +41,5 @@ sections:
       subtitle: Overview Map
       description: Take a look at our PCNS
       alt: Image alt text
+      image: /images/PCN%20sg%20map.png
 ---
