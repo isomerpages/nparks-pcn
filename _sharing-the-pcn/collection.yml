@@ -1,4 +1,5 @@
 collections:
   sharing-the-pcn:
     output: true
-    order: []
+    order:
+      - sharing-the-pcn.md
