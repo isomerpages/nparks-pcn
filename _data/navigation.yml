@@ -7,10 +7,6 @@ links:
   - title: Sharing The Pcn
     collection: sharing-the-pcn
   - title: What's Happening
-    url: /page-4/
+    collection: do-more
   - title: Contact Us
     url: /contact-us/
-  - title: Media
-    resource_room: true
-  - title: Do More
-    collection: do-more
