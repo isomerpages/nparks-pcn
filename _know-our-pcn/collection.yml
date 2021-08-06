@@ -1,4 +1,5 @@
 collections:
   know-our-pcn:
     output: true
-    order: []
+    order:
+      - know-our-pcn.md
