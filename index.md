@@ -36,4 +36,9 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Park Connector Network
+      subtitle: Overview Map
+      description: Take a look at our PCNS
+      alt: Image alt text
 ---
