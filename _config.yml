@@ -2,17 +2,17 @@ title: Title
 url: ""
 favicon: /images/NParks%20Logo.png
 colors:
-  primary-color: "#1A5632"
-  secondary-color: "#FF9E18"
+  primary-color: "#FF9E18"
+  secondary-color: "#789904"
   media-colors:
     - title: media-color-one
-      color: "#1A5632"
+      color: "#789904"
     - title: media-color-two
       color: "#FF9E18"
     - title: media-color-three
-      color: "#00838f"
+      color: "#1A5632"
     - title: media-color-four
-      color: "#00838f"
+      color: "#B2292E"
     - title: media-color-five
       color: "#00838f"
 resources_name: media
