@@ -1,18 +1,12 @@
 logo: /images/PCN%20Logo.png
 links:
-  - title: Know Our PCN
-    url: /page-1/
-  - title: The PCN Experience
-    url: /page-2/
-  - title: Sharing the PCN
-    url: /page-3/
+  - title: Know Our Pcn
+    collection: know-our-pcn
+  - title: The Pcn Experience
+    collection: the-pcn-experience
   - title: What's Happening
     url: /page-4/
   - title: Contact Us
     url: /contact-us/
   - title: Media
     resource_room: true
-  - title: Know Our Pcn
-    collection: know-our-pcn
-  - title: The Pcn Experience
-    collection: the-pcn-experience
