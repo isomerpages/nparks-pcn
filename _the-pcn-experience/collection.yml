@@ -1,4 +1,5 @@
 collections:
   the-pcn-experience:
     output: true
-    order: []
+    order:
+      - the-pcn-experience.md
