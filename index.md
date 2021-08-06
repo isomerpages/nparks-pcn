@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Park Connector Network
       subtitle: Connecting you to our parks and nature spaces
-      background: /images/hero-banner.png
+      background: /images/Ulu%20Pandan%20The%20Park%20Connector%20Network%20Brings%20People%20Together.jpeg
       button: Learn More
       url: /contact-us/
       key_highlights:
