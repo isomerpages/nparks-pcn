@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - our-park-connector-network.md
+      - central-urban-loop.md
