@@ -2,4 +2,4 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - the-pcn-experience.md
+      - the-park-connector-experience.md
