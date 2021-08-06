@@ -22,6 +22,9 @@ sections:
         - title: Sharing the PCN
           description: Learn the PCN etiquette and using our routes and trails safely
           url: /privacy/
+        - title: Events
+          description: What's happening on our PCNs and take part in making it better
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
