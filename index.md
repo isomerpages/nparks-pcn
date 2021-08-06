@@ -11,7 +11,7 @@ sections:
       subtitle: Connecting you to our parks and nature spaces
       background: /images/Ulu%20Pandan%20The%20Park%20Connector%20Network%20Brings%20People%20Together.jpeg
       button: Learn More
-      url: /contact-us/
+      url: /page-1/
       key_highlights:
         - title: OUR PCN
           description: Get to know about recreational routes at green spaces in Singapore
