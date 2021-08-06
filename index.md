@@ -18,10 +18,10 @@ sections:
           url: /page-1
         - title: The PCN Experience
           description: Explore different loops and trails! Connect digitally via our app
-          url: https://gmail.com
+          url: /page-2
         - title: Sharing the PCN
           description: Learn the PCN etiquette and using our routes and trails safely
-          url: /privacy/
+          url: /page-3
         - title: Events
           description: What's happening on our PCNs. Take part in making it better!
           url: ""
