@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: OUR PCN
           description: Get to know about recreational routes at green spaces in Singapore
-          url: https://google.com
+          url: /page-1
         - title: The PCN Experience
           description: Explore different loops and trails! Connect digitally via our app
           url: https://gmail.com
