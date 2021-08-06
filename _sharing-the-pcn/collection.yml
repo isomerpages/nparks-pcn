@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - using-our-routes-and-trails-safely.md
+      - types-of-paths.md
