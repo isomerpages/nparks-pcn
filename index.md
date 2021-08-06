@@ -19,8 +19,8 @@ sections:
         - title: The PCN Experience
           description: Explore different loops and trails! Connect digitally via our app
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Sharing the PCN
+          description: Learn the PCN etiquette and using our routes and trails safely
           url: /privacy/
   - infobar:
       title: Infobar title
