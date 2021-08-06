@@ -2,4 +2,4 @@ collections:
   happenings:
     output: true
     order:
-      - whats-happening.md
+      - events.md
