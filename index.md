@@ -32,10 +32,6 @@ sections:
         park hop while indulging in various fun and recreational activities.
       button: Find out more
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Park Connector Network
       subtitle: Overview Map
