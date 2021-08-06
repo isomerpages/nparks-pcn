@@ -23,7 +23,7 @@ sections:
           description: Learn the PCN etiquette and using our routes and trails safely
           url: /privacy/
         - title: Events
-          description: What's happening on our PCNs. Take part in making it better
+          description: What's happening on our PCNs. Take part in making it better!
           url: ""
   - infopic:
       title: Routes & Trails
