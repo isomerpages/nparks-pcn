@@ -1,5 +1,5 @@
 collections:
-  know-our-pcn:
+  our-pcn:
     output: true
     order:
       - know-our-pcn.md
