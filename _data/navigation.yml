@@ -4,11 +4,11 @@ links:
     collection: know-our-pcn
   - title: The Pcn Experience
     collection: the-pcn-experience
+  - title: Sharing The Pcn
+    collection: sharing-the-pcn
   - title: What's Happening
     url: /page-4/
   - title: Contact Us
     url: /contact-us/
   - title: Media
     resource_room: true
-  - title: Sharing The Pcn
-    collection: sharing-the-pcn
