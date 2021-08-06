@@ -26,10 +26,11 @@ sections:
           description: What's happening on our PCNs and take part in making it better
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: About our PCNs
+      subtitle: Park Connector Network
+      description: A large interlinking network of park connectors, you can easily
+        park hop while indulging in various fun and recreational activities.
+      button: Find out more
       url: /faq/
   - resources:
       title: Media
