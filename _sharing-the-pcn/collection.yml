@@ -2,4 +2,4 @@ collections:
   sharing-the-pcn:
     output: true
     order:
-      - sharing-the-pcn.md
+      - using-our-routes-and-trails-safely.md
