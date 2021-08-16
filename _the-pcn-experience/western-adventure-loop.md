@@ -14,4 +14,4 @@ A respite from the monotomy of city life, a journey along the loop is perfect fo
 
 For more information, download the brochure here:
 
-[Example Filename](/files/PCN%20WAL%20Brochure.pdf)
+[PCN Western Adventure Loop](/files/PCN%20WAL%20Brochure.pdf)
