@@ -2,7 +2,6 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - our-park-connector-network.md
       - central-urban-loop.md
       - eastern-coastal-loop.md
       - northern-explorer-loop.md
