@@ -7,4 +7,4 @@ permalink: /the-pcn-experience/ecl
 
 For more information, download the brochure here:
 
-[Example Filename](/files/ECL%20Brochure%20Map.pdf)
+[PCN - Eastern Coastal Loop](/files/ECL%20Brochure%20Map.pdf)
