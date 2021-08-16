@@ -21,6 +21,3 @@ Bukit Timah - Rochor Green Corridor | 11 | Phase 1 - To be completed by 2025
 C2C Southern | 62 | Longest route after the RIR. From Changi Beach to Tuas, via the Botanic Gardens. Phase 1 - To be completed in 2025 |
 C2C Northern | 25 | From Khatib Bongsu to Sungei Buloh, linking uo the Central and Sungei Buloh Nature Park Networks. Phase 1 - To be completed in 2026. Overall completion by 2030 |
 | Total | 360 |
-
-
-
