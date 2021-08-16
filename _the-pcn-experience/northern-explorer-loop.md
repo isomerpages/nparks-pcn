@@ -13,4 +13,4 @@ The Northern Explorer Loop promises ample opportunities for venturing off the be
 
 For more information, download the brochure here:
 
-[PCN Northern Explorer Loop](/files/PCN%20NEL%20Brochure.pdf)
+[PCN - Northern Explorer Loop](/files/PCN%20NEL%20Brochure.pdf)
