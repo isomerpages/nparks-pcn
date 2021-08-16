@@ -14,16 +14,16 @@ sections:
       url: /page-1/
       key_highlights:
         - title: OUR PCN
-          description: Get to know about recreational routes at green spaces in Singapore
+          description: Get to know about the curated recreational connectivity in Singapore
           url: /page-1
         - title: The PCN Experience
-          description: Explore different loops and trails! Connect digitally via our app
+          description: Explore our parks and nature areas through PCN Loops!
           url: /page-2
         - title: Sharing the PCN
           description: Learn the PCN etiquette and using our routes and trails safely
           url: /page-3
         - title: Events
-          description: What's happening on our PCNs. Take part in making it better!
+          description: What's happening on our PCNs. Join us in making it better!
           url: ""
   - infopic:
       title: Routes & Trails
