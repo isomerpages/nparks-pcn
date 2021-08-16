@@ -32,7 +32,7 @@ sections:
       alt: Map of all routes
       image: /images/PCN%20sg%20map.png
       button: Let's Go
-      url: /page-2/
+      url: /sland-wide-routes
   - infobar:
       title: About our PCNs
       subtitle: Park Connector Network
