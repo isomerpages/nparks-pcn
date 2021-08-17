@@ -2,11 +2,11 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: National Parks Board
+agency_name: NParks
 contacts:
   - content:
       - phone: ""
-      - email: programming_events@nparks.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - email: nparks_programmes_events@nparks.gov.sg
+      - other: For more information, visit <i>www.nparks.gov.sg</i>
     title: Enquiries & Feedback
 ---
