@@ -2,10 +2,10 @@ collections:
   the-pcn-experience:
     output: true
     order:
+      - pcn-loops.md
       - western-adventure-loop.md
       - northern-explorer-loop.md
       - north-eastern-riverine-loop.md
       - central-urban-loop.md
       - eastern-coastal-loop.md
       - southern-ridges-loop.md
-      - pcn-loops.md
