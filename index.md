@@ -24,7 +24,7 @@ sections:
           url: /page-3
         - title: Events
           description: What's happening on our PCNs. Join us in making it better!
-          url: /
+          url: /events
   - infopic:
       title: Routes & Trails
       subtitle: Overview Map
