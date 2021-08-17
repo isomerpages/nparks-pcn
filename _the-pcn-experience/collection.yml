@@ -2,7 +2,7 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - loops-in-park-connector-network.md
+      - park-connector-network.md
       - western-adventure-loop.md
       - northern-explorer-loop.md
       - north-eastern-riverine-loop.md
