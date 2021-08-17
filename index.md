@@ -26,9 +26,9 @@ sections:
           description: What's happening on our PCNs. Join us in making it better!
           url: /events
   - infopic:
-      title: Routes & Trails
-      subtitle: Overview Map
-      description: Take a look at our recreational network!
+      title: Recreational Connectivity
+      subtitle: Island-Wide ROutes
+      description: Take a look at the curated routes!
       alt: Map of all routes
       image: /images/Island%20Wide%20Routes.jpeg
       button: Let's Go
