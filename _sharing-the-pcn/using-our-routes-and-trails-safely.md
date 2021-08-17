@@ -1,7 +1,8 @@
 ---
 title: Using Our Routes and Trails Safely
-permalink: /uorts
+permalink: /sharingpcn
 ---
+
 ![Alt text for image on Isomer site](/images/Ulu%20Pandan%202.jpeg)
 
 A pleasant experience in our parks and Park Connector Network (PCN) requires all of us to be considerate towards one another.
