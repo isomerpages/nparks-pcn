@@ -21,7 +21,7 @@ sections:
           url: /page-2
         - title: Sharing the PCN
           description: Learn the PCN etiquette and how to use our routes and trails safely
-          url: /page-3
+          url: /sharingpcn
         - title: Events
           description: What's happening on our PCNs. Join us in making it better!
           url: /events
