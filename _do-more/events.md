@@ -1,7 +1,8 @@
 ---
 title: Events
-permalink: /do-more/
+permalink: /events/
 ---
+
 
 
 
