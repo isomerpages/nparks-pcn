@@ -30,9 +30,9 @@ sections:
       subtitle: Overview Map
       description: Take a look at our recreational network!
       alt: Map of all routes
-      image: /images/PCN%20sg%20map.png
+      image: /images/Island%20Wide%20Routes.jpeg
       button: Let's Go
-      url: /sland-wide-routes
+      url: know-our-pcn/island-wide-routes
   - infobar:
       title: About our PCNs
       subtitle: Park Connector Network
