@@ -18,7 +18,7 @@ sections:
           url: /page-1
         - title: The PCN Experience
           description: Explore our parks and nature areas with PCN Loops!
-          url: /page-2
+          url: /the-pcn-experience/pcnloops
         - title: Sharing the PCN
           description: Learn the PCN etiquette and how to use our routes and trails safely
           url: /sharingpcn
