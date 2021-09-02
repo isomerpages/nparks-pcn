@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - park-connector-network/.keep
-      - park-connector-network.md
       - the-coast-to-coast-trail.md
       - western-adventure-loop.md
       - northern-explorer-loop.md
