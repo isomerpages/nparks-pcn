@@ -4,6 +4,7 @@ collections:
     order:
       - park-connector-network/.keep
       - park-connector-network/park-connector-network.md
+      - park-connector-network/central-urban-loop.md
       - the-coast-to-coast-trail.md
       - western-adventure-loop.md
       - northern-explorer-loop.md
