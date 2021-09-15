@@ -3,7 +3,7 @@ title: Western Adventure Loop
 permalink: /the-pcn-experience/wal
 third_nav_title: Park Connector Network
 ---
-![Alt text for image on Isomer site](/images/WAL%20Images-01.png)
+![Alt text for image on Isomer site](/images/WAL%20Map.jpeg)
 
 The 20-kilometre Western Adventure Loop links excellent destinations for outdoor activities located across eight parks in western Singapore, including nature parks such as Zhenghua Park, Dairy Farm Nature Park and Bukit Batok Nature Park.
 
