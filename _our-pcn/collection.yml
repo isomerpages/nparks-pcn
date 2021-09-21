@@ -2,7 +2,7 @@ collections:
   our-pcn:
     output: true
     order:
-      - know-our-pcn.md
+      - know-our-recreational-connectivity.md
       - island-wide-routes.md
       - rail-corridor.md
       - round-island-route.md
