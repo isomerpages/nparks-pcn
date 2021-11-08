@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: media
-description: An Isomer site of the Singapore Government
+description: NParks Park Connector Network Website
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://nparks-demo-staging.netlify.app
 prod: https://nparks-demo-prod.netlify.app
+is_government: true
