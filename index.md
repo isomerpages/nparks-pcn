@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: NParks Park Connector Network
-description: Brief site description here
+description: NParks Park Connector Network Website
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Notification: This is a test site"
