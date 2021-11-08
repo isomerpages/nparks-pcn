@@ -7,6 +7,6 @@ contacts:
   - content:
       - phone: ""
       - email: nparks_programmes_events@nparks.gov.sg
-      - other: For more information, visit <i>www.nparks.gov.sg</i>
+      - other: For more information, visit <i>http://www.nparks.gov.sg</i>
     title: Enquiries & Feedback
 ---
