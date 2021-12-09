@@ -19,4 +19,5 @@ Park Connector Network Temporary Closures
 | Western Adventure Loop |  A section of Ulu Pandan PC spanning from Bukit Batok East Ave 5 to East Ave 4 will be closed for improvement works until 31 October 2021. |  |
 
 Click on the link below for latest updates:
-https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices
+
+[https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices)
