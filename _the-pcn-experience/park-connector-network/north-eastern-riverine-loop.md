@@ -10,4 +10,4 @@ Discover less-travelled areas on Singapore on the 26km North Eastern Riverine Lo
 
 Riding on the distinct character-filled environment of the Punggol district, the loop is indisputably one of Singapore's most scenic  park connector. The route will have you travelling alongside gleaming reservoirs and waterways, and bring you to the open waters of Sungei Dekar and the Johor Straits. With its stretches of coastline, canals and wetlands, the loop has a colourful variety of birds and a unique range of plant like for you to discover.
 
-[PCN North Eastern Riverine Loop.pdf](/files/PCN%20NERL%20Brochure.pdf)
+[PCN NERL Brochure.pdf](/files/PCN%20NERL%20Brochure.pdf)
