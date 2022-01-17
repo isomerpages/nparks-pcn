@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Notices.md
-      - latest-news.md
+      - Latest News.md
       - Events & Engagements.md
