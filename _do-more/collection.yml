@@ -2,6 +2,6 @@ collections:
   do-more:
     output: true
     order:
-      - notices.md
+      - Notices.md
       - latest-news.md
       - Events & Engagements.md
