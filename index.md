@@ -24,7 +24,7 @@ sections:
           url: /sharingpcn
         - title: Events
           description: What's happening on our PCNs. Join us in making it better!
-          url: /events
+          url: do-more/events
   - infopic:
       title: Recreational Connectivity
       subtitle: Island-Wide ROutes
