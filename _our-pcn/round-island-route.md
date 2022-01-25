@@ -28,4 +28,8 @@ Here’s some new features you will get to visit on this route:
 
 |  | | 
 | -------- | -------- | 
-| Cycling bridges at [Changi Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc)| Totalling 140m long and made of slip-resistant glass fibre reinforced concrete, the two cycling bridges maintain the area’s rustic look while ensuring visitors’ safety.     |
+| Cycling bridges at [Changi Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc)![Alt text for image on Isomer site](/images/changi%20bay%20cycling.jpg)| Totalling 140m long and made of slip-resistant glass fibre reinforced concrete, the two cycling bridges maintain the area’s rustic look while ensuring visitors’ safety. |
+| Boardwalk and lookout pavilion at Changi Bay ![Alt text for image on Isomer site](/images/3LPA5658.JPG) | Get closer to the water’s edge when you visit the new boardwalk. Moreover, the pavilion offers visitors a sweeping vista of the waterfront, allowing you to soak in the tranquil scenery. |
+| Sengkang Riverside Bridge ![Alt text for image on Isomer site](/images/3LPA5686.JPG) | The largest bridge across a canal, it connects [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park) on both banks of Sungei Punggol, enhancing accessibility for visitors and residents and also brings everyone closer to nature. |
+| Marine tiles ![Alt text for image on Isomer site](/images/Sengkang%20Riverside%20Bridge.jpg) | These concrete tiles are placed along the coast to provide habitats for marine life. Its combination of crevices, grooves and pits make for ideal niches for marine life, such as crabs, snails and starfish, providing microhabitats for marine biodiversity to thrive. |
+
