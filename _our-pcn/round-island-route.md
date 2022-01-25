@@ -33,3 +33,9 @@ Here’s some new features you will get to visit on this route:
 | Sengkang Riverside Bridge ![Alt text for image on Isomer site](/images/3LPA5686.JPG) | The largest bridge across a canal, it connects [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park) on both banks of Sungei Punggol, enhancing accessibility for visitors and residents and also brings everyone closer to nature. |
 | Marine tiles ![Alt text for image on Isomer site](/images/Sengkang%20Riverside%20Bridge.jpg) | These concrete tiles are placed along the coast to provide habitats for marine life. Its combination of crevices, grooves and pits make for ideal niches for marine life, such as crabs, snails and starfish, providing microhabitats for marine biodiversity to thrive. |
 
+### Noteworthy Flora and Fauna Opportunities
+On this Phase 1 Route Island Route journey, look around and see if you can find these living treasures!
+
+|  | | 
+| -------- | -------- | 
+| ![Alt text for image on Isomer site](/images/3LPA5693.JPG) | Sepetir (Sindora wallichii) Native to Singapore, the critically endangered Sepetir can grow up to more than 30m tall with a massive crown. The wood is used to make furniture and in construction. This tree was propagated from the Sepetir Heritage Tree at Cranwell Road. |
