@@ -39,6 +39,4 @@ On this Phase 1 Route Island Route journey, look around and see if you can find 
 | |  |
 | -------- | -------- | 
 | Sepetir (Sindora wallichii) ![Alt text for image on Isomer site](/images/3LPA5693.JPG) | Native to Singapore, the critically endangered Sepetir can grow up to more than 30m tall with a massive crown. The wood is used to make furniture and in construction. This tree was propagated from the Sepetir Heritage Tree at Cranwell Road. | 
-| Sea Beam (Maranthes corymbosa) ![Alt text for image on Isomer site](/images/sea%20beam.jpg) | Growing up to 40m tall, the Sea Beam is a native tree that grows in coastal areas as well as primary and secondary forests. It produces pink and white flowers and green fleshy fruits. Its timber is used for the construction of houses and as posts.
-The species is classified as endangered in Singapore. It occurs locally in Pulau Ubin and Pulau Tekong.
-
+| Sea Beam (Maranthes corymbosa) ![Alt text for image on Isomer site](/images/sea%20beam.jpg) | Growing up to 40m tall, the Sea Beam is a native tree that grows in coastal areas as well as primary and secondary forests. It produces pink and white flowers and green fleshy fruits. Its timber is used for the construction of houses and as posts. The species is classified as endangered in Singapore. It occurs locally in Pulau Ubin and Pulau Tekong.
