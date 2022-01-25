@@ -26,7 +26,6 @@ You can take go on the RIR from any of the parks and park connectors. Parking is
 ### New Features
 Here’s some new features you will get to visit on this route:
 
-| Column 1 | Column 2 | 
+|  | | 
 | -------- | -------- | 
-| Text     | Text     | 
-
+| Cycling bridges at [Changi Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc)| Totalling 140m long and made of slip-resistant glass fibre reinforced concrete, the two cycling bridges maintain the area’s rustic look while ensuring visitors’ safety.     |
