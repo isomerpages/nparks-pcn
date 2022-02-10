@@ -34,12 +34,12 @@ description: ""
 | [Choa Chu Kang North Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/chua-chu-kang-north-pc)     |  | |
 | [Clementi Woods Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/clementi-woods-park)     |  | |
 | [Coastal Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/coastal-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
+| [Dairy Farm Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park)     |  | |
+| [Dairy Farm Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/dairy-farm-pc)     |  | |
+| [East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park)     |  | |
+| [Geylang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/geylang-pc)     |  | |
+| [Henderson Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/henderson-pc)     |  | |
+| [Hillview Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hillview-pc)     |  | |
+| [Hougang Ave 3 Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hougang-avenue-3-pc)     |  | |
+| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
 |
