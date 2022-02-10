@@ -41,6 +41,10 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bedok-reservoir-park
           - title: Bedok Town Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bedok-town-park
+          - title: Bishan-Ang Mo Kio Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park
+          - title: Buangkok Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc
   - infopic:
       title: Recreational Connectivity
       subtitle: Island-Wide ROutes
