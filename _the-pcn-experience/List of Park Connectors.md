@@ -28,7 +28,7 @@ description: ""
 | [Canberra Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/canberra-pc)     |  | |
 | [Central Catchment Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/central-catchment-pc)     |  | |
 | [Changi Bay Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc)     |  | |
-| [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park)     |  | |
+| [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park)     |  | |
 | [Choa Chu Kang Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/choa-chu-kang-park)     |  | |
 | [Choa Chu Kang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/choa-chu-kang-pc)     |  | |
 | [Choa Chu Kang North Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/chua-chu-kang-north-pc)     |  | |
