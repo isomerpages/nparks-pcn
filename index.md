@@ -10,21 +10,37 @@ sections:
       title: Park Connector Network
       subtitle: Connecting you to our parks and nature spaces
       background: /images/Ulu%20Pandan%20The%20Park%20Connector%20Network%20Brings%20People%20Together.jpeg
-      button: Learn More
-      url: /page-1/
-      key_highlights:
-        - title: OUR PCN
-          description: Get to know about the curated recreational connectivity in Singapore
-          url: /page-1
-        - title: The PCN Experience
-          description: Explore our parks and nature areas with PCN Loops!
-          url: /the-pcn-experience/pcnloops
-        - title: Sharing the PCN
-          description: Learn the PCN etiquette and how to use our routes and trails safely
-          url: /sharingpcn
-        - title: Events
-          description: What's happening on our PCNs. Join us in making it better!
-          url: do-more/events
+      dropdown:
+        title: Check out the Park Connectors!
+        options:
+          - title: Adam Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc
+          - title: Admiralty West Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/admiralty-west-pc
+          - title: Alexandra Canal Linear Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-canal-linear-park
+          - title: Alexandra Garden Trail
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-garden-trail
+          - title: Alexandra Park Connecotr
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-pc
+          - title: Alexandra Queensway PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-queensway-pc
+          - title: Ang Mo Kio Ave 5 PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-ave-5-pc
+          - title: Ang Mo Kio Ave 8 Linear Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-avenue-8-linear-park
+          - title: Ang Mo Kio Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-pc
+          - title: Ang Mo Kio Town Garden West
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west
+          - title: Balam Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/balam-pc
+          - title: Bedok Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bedok-reservoir-park
+          - title: Bedok Reservoir Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bedok-reservoir-park
+          - title: Bedok Town Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bedok-town-park
   - infopic:
       title: Recreational Connectivity
       subtitle: Island-Wide ROutes
