@@ -169,7 +169,7 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sun-plaza-park
           - title: Sungei Serangoon PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc
-          - title: Tampines Loyang PC
+          - title: Tampines-Loyang PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc
           - title: Tampines PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-pc
