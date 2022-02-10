@@ -49,4 +49,12 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-east-pc
           - title: Bukit Batok Nature Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park
+          - title: Bukit Batok Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-pc
+          - title: Bukit Batok West PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-west-pc
+          - title: Bukit Panjang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-panjang-woodlands-road-to-kje-pc
+          - title: Bukit Timah Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc
 ---
