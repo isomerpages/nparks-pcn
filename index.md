@@ -13,15 +13,15 @@ sections:
       dropdown:
         title: "- Select Park Connector -"
         options:
-          - title: Adam Park Connector
+          - title: Adam PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc
-          - title: Admiralty West Park Connector
+          - title: Admiralty West PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/admiralty-west-pc
           - title: Alexandra Canal Linear Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-canal-linear-park
           - title: Alexandra Garden Trail
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-garden-trail
-          - title: Alexandra Park Connecotr
+          - title: Alexandra PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-pc
           - title: Alexandra Queensway PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-queensway-pc
@@ -29,13 +29,13 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-ave-5-pc
           - title: Ang Mo Kio Ave 8 Linear Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-avenue-8-linear-park
-          - title: Ang Mo Kio Park Connector
+          - title: Ang Mo Kio PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-pc
           - title: Ang Mo Kio Town Garden West
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west
-          - title: Balam Park Connector
+          - title: Balam PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/balam-pc
-          - title: Bedok Park Connector
+          - title: Bedok PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bedok-reservoir-park
           - title: Bedok Reservoir Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bedok-reservoir-park
@@ -49,15 +49,15 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-east-pc
           - title: Bukit Batok Nature Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park
-          - title: Bukit Batok Park Connector
+          - title: Bukit Batok PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-pc
           - title: Bukit Batok West PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-west-pc
           - title: Bukit Panjang PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-panjang-woodlands-road-to-kje-pc
-          - title: Bukit Timah Park Connector
+          - title: Bukit Timah PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc
-          - title: Canberra Park Connector
+          - title: Canberra PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/canberra-pc
           - title: Central Catchment PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/central-catchment-pc
@@ -73,49 +73,49 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/chua-chu-kang-north-pc
           - title: Clementi Woods Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/clementi-woods-park
-          - title: Coastal Park Connector
+          - title: Coastal PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/coastal-pc
           - title: Dairy Farm Nature Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park
-          - title: Dairy Farm Park Connector
+          - title: Dairy Farm PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/dairy-farm-pc
           - title: East Coast Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park
           - title: Geylang PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/geylang-pc
-          - title: Henderson Park Connector
+          - title: Henderson PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/henderson-pc
-          - title: Hillview Park Connector
+          - title: Hillview PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hillview-pc
-          - title: Hougang Ave 3 Park Connector
+          - title: Hougang Ave 3 PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hougang-avenue-3-pc
-          - title: Jalan Pelikat Park Connector
+          - title: Jalan Pelikat PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc
           - title: Jurong Central Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/jurong-central-park
-          - title: Jurong Park Connector
+          - title: Jurong PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-pc
-          - title: Jurong West Park Connector
+          - title: Jurong West PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-west-pc
-          - title: Kallang Park Connector
+          - title: Kallang PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/kallang-pc
           - title: Kallang Riverside Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kallang-riverside-park
           - title: Khatib Bongsu Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/khatib-bongsu-pc
-          - title: Lornie Park Connector
+          - title: Lornie PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc
-          - title: Lorong Halus Park Connector
+          - title: Lorong Halus PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lorong-halus-pc
           - title: Lower Seletar Reservoir Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park
-          - title: Loyang Park Connector
+          - title: Loyang PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/loyang-pc
-          - title: Mandai Park Connector
+          - title: Mandai PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/mandai-pc
           - title: Marsiling Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/marsiling-park
-          - title: Marsiling Park Connector
+          - title: Marsiling PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/marsiling-pc
           - title: Old Upper Thomson PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc
