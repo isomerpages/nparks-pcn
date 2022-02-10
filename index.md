@@ -209,4 +209,12 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/yishun-pc
           - title: Zhenghua Nature Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/zhenghua-nature-park
+  - infopic:
+      title: Recreational Connectivity
+      subtitle: Island-wide Routes
+      description: Take a look at the curated routes!
+      button: Let's Go!
+      url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
+      image: /images/Island%20Wide%20Routes.jpeg
+      alt: Image alt text
 ---
