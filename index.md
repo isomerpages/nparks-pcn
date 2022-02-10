@@ -145,4 +145,28 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway
           - title: Punggol Waterway Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway-park
+          - title: Riverside PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/riverside-pc
+          - title: Sembawang Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sembawang-park
+          - title: Sembawang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sembawang-pc
+          - title: Sengkang Riverside Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park
+          - title: Serangoon PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc
+          - title: Siglap PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/siglap-pc
+          - title: Simei PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/simei-pc
+          - title: Simpang Kiri PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/simpang-kiri-pc
+          - title: Springleaf PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/springleaf-park-connector
+          - title: Stadium PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/stadium-pc
+          - title: Sun Plaza Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sun-plaza-park
+          - title: Sungei Serangoon PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc
 ---
