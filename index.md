@@ -139,4 +139,10 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk
           - title: Punggol Prom Punggol Pt Walk
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-punggol-point-walk
+          - title: Punggol Prom Riverside Walk
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-riverside-walk
+          - title: Punggol Waterway
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway
+          - title: Punggol Waterway Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway-park
 ---
