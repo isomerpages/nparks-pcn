@@ -57,4 +57,22 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-panjang-woodlands-road-to-kje-pc
           - title: Bukit Timah Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc
+          - title: Canberra Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/canberra-pc
+          - title: Central Catchment PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/central-catchment-pc
+          - title: Changi Bay PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc
+          - title: Changi Beach Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park
+          - title: Chua Chu Kang Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/choa-chu-kang-park
+          - title: Chua Chu Kang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/choa-chu-kang-pc
+          - title: Chua Chu Kang North PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/chua-chu-kang-north-pc
+          - title: Clementi Woods Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/clementi-woods-park
+          - title: Coastal Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/coastal-pc
 ---
