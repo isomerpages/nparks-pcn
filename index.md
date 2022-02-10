@@ -189,4 +189,24 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park
           - title: West Coast PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/west-coast-pc
+          - title: Woodlands (Ave 12) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-12-park-connector
+          - title: Woodlands (Ave 2) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-2-park-connector
+          - title: Woodlands (Ave 3) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-3-park-connector
+          - title: Woodlands (Ave 5) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-5-park-connector
+          - title: Woodlands (Ave 7) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-7-pc
+          - title: Woodlands (Street 13) PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-street-13-park-connector
+          - title: Woodlands Waterfront Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/woodlands-waterfront-park
+          - title: Yishun Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park
+          - title: Yishun PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/yishun-pc
+          - title: Zhenghua Nature Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/zhenghua-nature-park
 ---
