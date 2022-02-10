@@ -217,4 +217,11 @@ sections:
       url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
       image: /images/Island%20Wide%20Routes.jpeg
       alt: Image alt text
+  - infobar:
+      title: About Our PCNs
+      subtitle: Park Connector Network
+      description: A large interlinking network of Park Connectors, you can easily
+        park hop while indulging in various fun and recreational activities.
+      button: Read More
+      url: page-1
 ---
