@@ -2,7 +2,6 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - List of Park Connectors.md
       - park-connector-network/.keep
       - park-connector-network/check-out-the-network.md
       - park-connector-network/central-urban-loop.md
@@ -10,4 +9,5 @@ collections:
       - park-connector-network/north-eastern-riverine-loop.md
       - park-connector-network/northern-explorer-loop.md
       - park-connector-network/western-adventure-loop.md
+      - List of Park Connectors.md
       - the-coast-to-coast-trail.md
