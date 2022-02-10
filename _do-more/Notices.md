@@ -16,8 +16,10 @@ Park Connector Network Temporary Closures
 |Eastern Coastal Loop |[A section of Tampines PC (within Pasir Ris Town Park) is closed for track improvement works.](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/pasir-ris-town-park/closure-notice-to-a-section-of-tampines-park-connector-(within-pasir-ris-town-park).pdf?la=en&hash=51D5E7089A000F6B27D212B077A907761C3B9060) Expected completion date is end April 2022. |  |
 | Northern Explorer Loop | [A section of Simpang Kiri Park Connector is closed for improvement works from 31 February 2021 to 31 January 2022.](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/simpang-kiri-pc/notices/simpang-kiri-pcn---phase-3-closure-notice-(ecd-310122).pdf?la=en&hash=43B20128CDD9725C306DCCEC0B937D01CB2AEF9E) |  |
 | North Eastern Riverine Loop | -------- | |
-| Southern Ridges Loop |Alexandra Canal Linear Park near Margaret Drive will be closed for road construction works by HDB from 25 January 2019 to Q4 2021. (Please use the alternate access route along Commonwealth Avenue and Commonwealth Towers to reach Dawson Road or Alexandra Queensway PC.) |  |
-| Western Adventure Loop |  A section of Ulu Pandan PC spanning from Bukit Batok East Ave 5 to East Ave 4 will be closed for improvement works until 31 October 2021. |  |
+| Southern Ridges Loop |Alexandra Canal Linear Park near Margaret Drive will be closed for road construction works by HDB from 25 January 2019 to April 2022. (Please use the alternate access route along Commonwealth Avenue and Commonwealth Towers to reach Dawson Road or Alexandra Queensway PC.) |  |
+| Western Adventure Loop |  [](/files/Closure%20of%20CCK%20PCN_Ave%203%20Notice%20until%20Q1%202025.pdf) A section of Choa Chu Kang PC is closed for LTA's upgrading works from 4 October 2021 to Q1 2025.|  |
+| Western Adventure Loop |  [A section of Choa Chu Kang PC is closed for LTA's upgrading works from 4 October 2021 to Q1 2025.](https://www.nparks.gov.sg/-/media/25-aug-2021-bukit-batok-east-pc-closure-notice_v3.pdf)|  |
+
 
 Click on the link below for latest updates:
 
