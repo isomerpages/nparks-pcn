@@ -169,4 +169,24 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sun-plaza-park
           - title: Sungei Serangoon PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc
+          - title: Tampines Loyang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc
+          - title: Tampines PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-pc
+          - title: Tanjong Rhu Promenade
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tanjong-rhu-promenade
+          - title: Tiong Bahru Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/tiong-bahru-park
+          - title: Toa Payoh Town Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/toa-payoh-town-park
+          - title: Ulu Pandan PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ulu-pandan-pieaye-and-ulu-pandan-bukit-batok-east-pie-pc
+          - title: Ulu Sembawang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ulu-sembawang-pc
+          - title: Upper Thomson PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/upper-thomson-pc
+          - title: West Coast Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park
+          - title: West Coast PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/west-coast-pc
 ---
