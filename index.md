@@ -117,4 +117,26 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/marsiling-park
           - title: Marsiling Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/marsiling-pc
+          - title: Old Upper Thomson PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc
+          - title: Pandan Gardens PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pandan-gardens-pc
+          - title: Pang Sua PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pang-sua-pc
+          - title: Pasir Ris Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park
+          - title: Pasir Ris PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc
+          - title: Pasir Ris Town Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-town-park
+          - title: Paya Lebar PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/paya-lebar-pc
+          - title: Pelton Canal PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pelton-canal-pc
+          - title: Punggol Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-park
+          - title: Punggol Promenade Nature Walk
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk
+          - title: Punggol Prom Punggol Pt Walk
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-punggol-point-walk
 ---
