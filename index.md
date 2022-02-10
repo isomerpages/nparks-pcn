@@ -103,4 +103,18 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kallang-riverside-park
           - title: Khatib Bongsu Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/khatib-bongsu-pc
+          - title: Lornie Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc
+          - title: Lorong Halus Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lorong-halus-pc
+          - title: Lower Seletar Reservoir Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park
+          - title: Loyang Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/loyang-pc
+          - title: Mandai Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/mandai-pc
+          - title: Marsiling Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/marsiling-park
+          - title: Marsiling Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/marsiling-pc
 ---
