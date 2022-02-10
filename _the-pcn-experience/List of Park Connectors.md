@@ -55,21 +55,21 @@ description: ""
 | [Mandai Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/mandai-pc)     |  | |
 | [Marsiling Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/marsiling-park)     |  | |
 | [Marsiling Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/marsiling-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
+| [Old Upper Thomson Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc)     |  | |
+| [Pandan Gardens Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pandan-gardens-pc)     |  | |
+| [Pang Sua Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pang-sua-pc)     |  | |
+| [Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park)     |  | |
+| [Pasir Ris Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc)     |  | |
+| [Pasir Ris Town Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-town-park)     |  | |
+| [Paya Lebar Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/paya-lebar-pc)     |  | |
+| [Pelton Canal Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pelton-canal-pc)     |  | |
+| [Punggol Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-park)     |  | |
+| [Punggol Promenade Nature Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk)     |  | |
+| [Punggol Promenade Punggol Point Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-punggol-point-walk)     |  | |
+| [Punggol Promenade Riverside Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-riverside-walk)     |  | |
+| [Punggol Waterway](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway)     |  | |
+| [Punggol Waterway Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway-park)     |  | |
+| [Riverside Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/riverside-pc)     |  | |
 | [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
 | [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
 | [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
