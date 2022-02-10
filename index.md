@@ -75,4 +75,18 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/clementi-woods-park
           - title: Coastal Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/coastal-pc
+          - title: Dairy Farm Nature Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park
+          - title: Dairy Farm Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/dairy-farm-pc
+          - title: East Coast Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park
+          - title: Geylang PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/geylang-pc
+          - title: Henderson Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/henderson-pc
+          - title: Hillview Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hillview-pc
+          - title: Hougang Ave 3 Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hougang-avenue-3-pc
 ---
