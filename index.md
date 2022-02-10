@@ -89,4 +89,18 @@ sections:
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hillview-pc
           - title: Hougang Ave 3 Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hougang-avenue-3-pc
+          - title: Jalan Pelikat Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc
+          - title: Jurong Central Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/jurong-central-park
+          - title: Jurong Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-pc
+          - title: Jurong West Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-west-pc
+          - title: Kallang Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/kallang-pc
+          - title: Kallang Riverside Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kallang-riverside-park
+          - title: Khatib Bongsu Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/khatib-bongsu-pc
 ---
