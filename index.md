@@ -11,7 +11,7 @@ sections:
       subtitle: Connecting you to our parks and nature spaces
       background: /images/Ulu%20Pandan%20The%20Park%20Connector%20Network%20Brings%20People%20Together.jpeg
       dropdown:
-        title: "- Select Park Connectors -"
+        title: "- Select Park Connector -"
         options:
           - title: Adam Park Connector
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc
