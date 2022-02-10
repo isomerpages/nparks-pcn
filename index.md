@@ -42,22 +42,11 @@ sections:
           - title: Bedok Town Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bedok-town-park
           - title: Bishan-Ang Mo Kio Park
-            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park
-          - title: Buangkok Park Connector
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan
+          - title: Buangkok PC
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc
-  - infopic:
-      title: Recreational Connectivity
-      subtitle: Island-Wide ROutes
-      description: Take a look at the curated routes!
-      alt: Map of all routes
-      image: /images/Island%20Wide%20Routes.jpeg
-      button: Let's Go
-      url: know-our-pcn/island-wide-routes
-  - infobar:
-      title: About our PCNs
-      subtitle: Park Connector Network
-      description: A large interlinking network of park connectors, you can easily
-        park hop while indulging in various fun and recreational activities.
-      button: Find out more
-      url: /page-1/
+          - title: Bukit Batok East PC
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-east-pc
+          - title: Bukit Batok Nature Park
+            url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park
 ---
