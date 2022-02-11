@@ -4,7 +4,7 @@ title: NParks Park Connector Network
 description: NParks Park Connector Network Website
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Notification: This is a test site"
+notification: ""
 sections:
   - hero:
       title: Park Connector Network
