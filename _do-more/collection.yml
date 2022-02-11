@@ -1,0 +1,7 @@
+collections:
+  do-more:
+    output: true
+    order:
+      - Notices.md
+      - Latest News.md
+      - Events & Engagements.md

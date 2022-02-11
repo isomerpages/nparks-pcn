@@ -1,0 +1,12 @@
+collections:
+  the-pcn-experience:
+    output: true
+    order:
+      - park-connector-network/.keep
+      - park-connector-network/check-out-the-network.md
+      - park-connector-network/central-urban-loop.md
+      - park-connector-network/eastern-coastal-loop.md
+      - park-connector-network/north-eastern-riverine-loop.md
+      - park-connector-network/northern-explorer-loop.md
+      - park-connector-network/western-adventure-loop.md
+      - List of Park Connectors.md

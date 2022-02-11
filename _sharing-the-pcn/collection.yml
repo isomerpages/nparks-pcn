@@ -1,0 +1,7 @@
+collections:
+  sharing-the-pcn:
+    output: true
+    order:
+      - using-our-routes-and-trails-safely.md
+      - types-of-paths.md
+      - learn-the-etiquette.md
