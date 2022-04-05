@@ -8,7 +8,7 @@ We advise park users to stay on their designated paths. In our parks and along o
 
 |  | | |
 | -------- | -------- | -------- |
-| Shared Path    | Red continous line. Dotted line when approaching attention zone   | ![Alt text for image on Isomer site](/images/Shared%20Path.png)   |
+| **Shared Path**    | Red continuous line. Dotted line when approaching attention zone   | ![Alt text for image on Isomer site](/images/Shared%20Path.png)   |
 
 
 This is shared by all park users, with a maximum speed of 25km/hr. You may see the path being flanked by red continuous or dotted lines (when users approach an Attention Zone).
@@ -17,7 +17,7 @@ This is shared by all park users, with a maximum speed of 25km/hr. You may see t
 
 |  | |  |
 | -------- | -------- | -------- |
-| Segragated / Separated Path     |      |  ![Alt text for image on Isomer site](/images/Segregated%20%20Separated%20Path.png)   |
+| **Segregated / Separated Path**     |      |  ![Alt text for image on Isomer site](/images/Segregated%20%20Separated%20Path.png)   |
 
 
 At some locations, there are dedicated paths for various PCN users:
