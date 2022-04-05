@@ -23,4 +23,4 @@ Park Connector Network Temporary Closures
 
 Click on the link below for latest updates:
 
-(https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices)
+([https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/notices))
