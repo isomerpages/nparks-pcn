@@ -230,8 +230,10 @@ sections:
   - infopic:
       title: NEAR Mobile App
       subtitle: NParks Explore A Route
-      description: Infopic description
-      button: Button Text
+      description: Experience an interactive walking experience curated across 36 KM
+        stretch of parks and PCN with NParks own AR-enabled mobile application!
+      button: Download Now
       image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
-      alt: Image alt text
+      alt: NParks NEAR App
+      url: /our-pcn/c2c
 ---
