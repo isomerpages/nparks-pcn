@@ -227,4 +227,11 @@ sections:
       url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
       image: /images/Island%20Wide%20Routes.jpeg
       alt: Image alt text
+  - infopic:
+      title: NEAR Mobile App
+      subtitle: NParks Explore A Route
+      description: Infopic description
+      button: Button Text
+      image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
+      alt: Image alt text
 ---
