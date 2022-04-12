@@ -1,0 +1,4 @@
+collections:
+  near-app:
+    output: true
+    order: []
