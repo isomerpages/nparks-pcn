@@ -210,18 +210,30 @@ sections:
           - title: Zhenghua Nature Park
             url: https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/zhenghua-nature-park
   - infopic:
-      title: Recreational Connectivity
-      subtitle: Island-wide Routes
-      description: Take a look at the curated routes!
-      button: Let's Go!
-      url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
-      image: /images/Island%20Wide%20Routes.jpeg
-      alt: Image alt text
-  - infobar:
       title: About Our PCNs
       subtitle: Park Connector Network
       description: A large interlinking network of Park Connectors, you can easily
         park hop while indulging in various fun and recreational activities.
       button: Read More
       url: page-1
+      image: /images/ECP 1.jpeg
+      alt: PCN Eastern Coastal
+  - infopic:
+      title: Recreational Connectivity
+      subtitle: Island-wide Routes
+      description: Island-wide routes across Singapore comprising multiple park
+        connectors, trails and footpaths.
+      button: Check them out!
+      url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
+      image: /images/Island%20Wide%20Routes.jpeg
+      alt: Image alt text
+  - infopic:
+      title: NEAR Mobile App
+      subtitle: NParks Explore A Route
+      description: Experience an interactive walking experience curated across 36 KM
+        stretch of parks and PCN with NParks own AR-enabled mobile application!
+      button: Download Now
+      image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
+      alt: NParks NEAR App
+      url: /our-pcn/c2c
 ---

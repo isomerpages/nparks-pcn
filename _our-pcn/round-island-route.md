@@ -13,6 +13,8 @@ When completed, the Round Island Route will be the longest recreational connecti
 These all contribute to Singapore’s transformation into a [City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature), a key pillar in the Singapore Green Plan, which is a national movement to advance sustainable development – to create a green, liveable and sustainable home for all Singaporeans. 
 
 ### Round Island Route – Phase 1
+
+![RIR Phase 1](/images/RIR_Phase_1.png)
 The first phase of the Round Island Route was launched on 22 January 2022. Stretching across 75km, it covers the eastern half of Singapore, from Rower’s Bay in the north-east, past the Singapore River to Berlayer Creek in the south. It also makes for the island’s longest recreational connection that encircles Singapore in the east.
 
 Key parks along the route include [Rowers’ Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park/rowers-bay), [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park), [Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-park), [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) and [East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park). Be it cycle or hike, hop onto any of these parks to start your journey along the RIR (car parking is available at the parks)!

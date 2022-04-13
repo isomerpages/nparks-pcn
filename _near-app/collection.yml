@@ -1,0 +1,6 @@
+collections:
+  near-app:
+    output: true
+    order:
+      - Navigating on the app.md
+      - NParks Explore A Route.md
