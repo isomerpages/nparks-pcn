@@ -6,6 +6,8 @@ third_nav_title: Park Connectors
 ---
 ![](/images/Admiralty%20West%20PC.jpeg)
 
+### Admiralty West Park Connector
+
 The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to Woodland Waterfront. Visitors can stop by the resting area to admire the beauty of the surroundings or get close to nature at the nearby butterfly garden. 
 
 
