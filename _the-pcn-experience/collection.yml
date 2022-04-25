@@ -2,7 +2,6 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - List of Park Connectors.md
       - Park Connector Network/.keep
       - Park Connector Network/check-out-the-network.md
       - Park Connector Network/central-urban-loop.md
@@ -20,3 +19,4 @@ collections:
       - Park Connectors/Alexandra Canal Linear Park.md
       - Park Connectors/Admiralty West Park Connector.md
       - Park Connectors/Adam Park Connector.md
+      - List of Park Connectors.md
