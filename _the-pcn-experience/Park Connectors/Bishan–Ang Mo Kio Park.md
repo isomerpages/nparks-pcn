@@ -29,3 +29,11 @@ Specific Do's & Don'ts | Line-fishing is not allowed in the River, Dragonfly Pon
 ![](/images/Bishan%20AMK%20Park%202.jpeg)
 ![](/images/Bishan%20AMK%20Park%203.jpeg)
 ![](/images/Bishan%20AMK%20Park%205.jpeg)
+
+
+| **Notices** | ||
+| -------- | -------- | -------- |
+| The lights in the Dog Runs are switched off at 10.30 pm daily.
+Works are on-going by the Land Transport Authority (LTA) for the construction of the North-South Corridor tunnel and Teck Ghee Station for Cross Island Line. Bishan-Ang Mo Kio Park will continue to be open and accessible to park users and the general public at all times during the construction period. For more information, please contact the contractor’s dedicated 24-hour Project Hotline at 9118 7582 or LTA at www.lta.gov.sg/feedback.
+The park entrance at Ang Mo Kio Ave 1 and Marymount Road junction will be closed from 21 December 2020 until further notice. Park users may use the new entrance along Ang Mo Kio Ave 1 to access Bishan-Ang Mo Kio Park (refer to enclosed map).
+The toilets near Carpark A and ToriYard restaurant will be closed for improvement works, which are expected to be completed by 31 October 2022. During this period, portable toilets are available for use. 
