@@ -6,6 +6,11 @@ third_nav_title: Park Connectors
 ---
 ![](/images/Alexandra%20Park%20Connector1.jpeg)
 
+A continuation of Alexandra Canal Linear Park, the Alexandra Park Connector stretches from Tanglin Road to Zion Road. This urban Park Connector passes by various condominiums, giving users stunning views of the surrounding high-rise buildings and fantastic architectural details.
+
+Visitors using the Park Connector can stop by Valley Point Shopping Centre, which is located along Delta Road, to rest their feet and settle down with a nice drink or to just pick up a quick meal.
+
+Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food Centre at the end of the Park Connector. Kim Seng Promenade is yet another option, located behind Great World City Shopping Centre.
 
 | **Park Connector Information** | ||
 | -------- | -------- | -------- |
