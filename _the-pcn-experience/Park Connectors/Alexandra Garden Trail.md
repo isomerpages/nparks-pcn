@@ -6,6 +6,7 @@ third_nav_title: Park Connectors
 ---
 ![](/images/Alexandra%20Garden%20Trail2.jpeg)
 
+### Alexandra Garden Trail
 
 | **Park Connector Information** | ||
 | -------- | -------- | -------- |
@@ -21,4 +22,3 @@ Lighting Hours: 7.00pm – 7.00am
 | Alexandra Arch   | Conceptualised as a “Gateway to Nature”, Alexandra Arch links Hilltop Walk and Forest Walk. Walk on this 80m long bridge and admire its unique architecture - it looks like an opened leaf across Alexandra Road, with its curved deck intersecting an arch that is tilted at a 70-degree angle. Alexandra Arch is lit up by LED lights at night. The lights change colour at intervals from 7pm to 12am daily, displaying varying shades from the colour spectrum of dusk.  |   |
 
  ![](/images/alexandra%20arch.jpeg)
-
