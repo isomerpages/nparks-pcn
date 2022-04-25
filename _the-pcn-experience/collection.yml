@@ -2,6 +2,7 @@ collections:
   the-pcn-experience:
     output: true
     order:
+      - Park Connectors/List of Park Connectors.md
       - Park Connectors/.keep
       - park-connector-network/.keep
       - park-connector-network/check-out-the-network.md
