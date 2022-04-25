@@ -25,3 +25,7 @@ Accessibility Info: Wheelchair accessible
 Specific Dos and Don'ts:
 Fishing is only allowed at designated area.
 Smoke-free park|
+
+![](/images/Bedok%20Reservoir%202.jpeg)
+![](/images/Bedok%20Reservoir%203.jpeg)
+![](/images/Bedok%20Reservoir%204.jpeg)
