@@ -25,3 +25,6 @@ Accessibility info: Wheelchair accessible|
 | -------- | -------- | -------- |
 | Bedok Park Connector | Link
 Siglap Park Connector| Link |
+
+![](/images/Nature%20Playgarden%20at%20Bedok%20Town%20Park.jpeg)
+![](/images/Therapeutic%20Garden%20Project%20by%20Student%20Run%20Park%20Programme%20at%20Bedok%20Town%20Park.jpeg)
