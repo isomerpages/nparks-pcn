@@ -2,6 +2,7 @@ collections:
   the-pcn-experience:
     output: true
     order:
+      - Park Connectors/Ang Mo Kio Park Connector.md
       - Park Connectors/Ang Mo Kio Avenue 8 Liner Park.md
       - Park Connectors/Ang Mo Kio Ave 5 Park Connector.md
       - Park Connectors/Alexandra Park Connector.md
