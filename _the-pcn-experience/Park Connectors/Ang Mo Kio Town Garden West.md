@@ -14,3 +14,11 @@ Recreational runners looking for a challenge can jog on the many footpaths meand
 | **Park Connector Information** | ||
 | -------- | -------- | -------- |
 | Opposite Ang Mo Kio Town Library, along Ang Mo Kio Avenue 6 | [Get Directions](https://www.onemap.gov.sg/main/v2/?lat=1.3740250000014869&lng=103.8428870000013)
+How to get there: 10 minutes walk from Ang Mo Kio MRT Station, Bus Stop ID: 54041, 54051, 54469, 54049, 54059 or 5 minutes walk from Mayflower MRT Station
+Park size: 21 hectares
+Park lighting hours: 7pm-7am
+Accessibility info: Wheelchair accessible in certain areas
+
+| **Park Connector Information** | ||
+| -------- | -------- | -------- |
+| ![](/images/Ang%20Mo%20Kio%20Town%20Garden%20West%202.jpeg) | ![](/images/Ang%20Mo%20Kio%20Town%20Garden%20West%203.jpeg) |
