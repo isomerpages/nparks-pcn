@@ -6,6 +6,8 @@ third_nav_title: Park Connectors
 ---
 ![](/images/Ang%20Mo%20Kio%20Town%20Garden%20West%201.jpeg)
 
+### Ang Mo Kio Town Garden West
+
 Built on a hillock with lush and spreading greenery, Ang Mo Kio Town Garden West is a great place for nature lovers and fitness enthusiasts alike.
 
 Recreational runners looking for a challenge can jog on the many footpaths meandering through the forest and flowing over the hilly terrain. Nature lovers can enjoy the secondary forest which has plants such as Dillenia and Vitex growing plentiful. Visitors can also climb a 120-step staircase to the plaza area to enjoy a bird’s eye view of Ang Mo Kio Town Garden West.
