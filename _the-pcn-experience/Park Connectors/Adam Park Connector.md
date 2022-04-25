@@ -7,6 +7,8 @@ third_nav_title: Park Connectors
 ![](/images/Adam%20PC%201.png)
 
 
+### Adam Park Connector
+
 Adam Park Connector starts from Kheam Hock Park, a cozy respite nestled within the Kheam Hock residential estate along Kheam Hock Road. The park connector leads visitors past the Pan Island Expressway and along Adam Road towards Adam Food Centre, where visitors may stop for local favourite dishes.
 
 
@@ -17,4 +19,3 @@ Adam Park Connector starts from Kheam Hock Park, a cozy respite nestled within t
 Length of PC: 1.2km
 Lighting hours: 7pm -7am
 Accessibility: Wheel-chair friendly|
-
