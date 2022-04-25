@@ -2,6 +2,7 @@ collections:
   the-pcn-experience:
     output: true
     order:
+      - Park Connectors/Ang Mo Kio Ave 5 Park Connect.md
       - Park Connectors/Alexandra Park Connector.md
       - Park Connectors/Alexandra Garden Trail.md
       - Park Connectors/Alexandra Canal Linear Park.md
