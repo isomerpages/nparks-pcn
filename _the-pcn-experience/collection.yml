@@ -2,6 +2,7 @@ collections:
   the-pcn-experience:
     output: true
     order:
+      - NParks Explore A Route (NEAR) Mobile App.md
       - Park Connector Network/.keep
       - Park Connector Network/check-out-the-network.md
       - Park Connector Network/central-urban-loop.md
