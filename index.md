@@ -235,5 +235,5 @@ sections:
       button: Download Now
       image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
       alt: NParks NEAR App
-      url: /our-pcn/c2c
+      url: /the-pcn-experience/near
 ---
