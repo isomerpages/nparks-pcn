@@ -2,7 +2,6 @@ collections:
   the-pcn-experience:
     output: true
     order:
-      - NParks Explore A Route Mobile App.md
       - Park Connector Network/.keep
       - Park Connector Network/check-out-the-network.md
       - Park Connector Network/central-urban-loop.md
@@ -26,3 +25,4 @@ collections:
       - Park Connectors/Bishan–Ang Mo Kio Park.md
       - Park Connectors/Buangkok PC.md
       - List of Park Connectors.md
+      - NParks Explore A Route Mobile App.md
