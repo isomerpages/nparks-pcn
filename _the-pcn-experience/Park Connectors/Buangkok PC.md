@@ -19,4 +19,4 @@ Lighting Hours | 7.00pm – 7.00am |
 
 |**Nearby Park Connector** | ||
 | -------- | -------- | -------- |
-Serangon Park Connector | Link
+Serangoon Park Connector | Link
