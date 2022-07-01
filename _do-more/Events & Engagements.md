@@ -24,3 +24,20 @@ Taking part is easy:
 🍃 Once done, upload your trail in-app, together with your selfie
 
 ![Challenge Board](/images/challenge%20board.png)
+
+Complete any 3 trails in a row (vertically, horizontally, or diagonally) on the Challenge Board to get one strike – this qualifies you for a chance to win a Decathlon e-voucher (worth $50 each) at the end of each month. Getting 8 strikes i.e. completing all 9 trails on the Challenge Board qualifies you for one chance in the grand lucky draw!
+
+[Click here to read the Frequently Asked Questions (FAQs) on the NParks-AIA Explore A Route Challenge.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/nparks-aia-explore-a-route-challenge/faqs---nparks---aia-explore-a-route-challenge.ashx?la=en&hash=E1FBB8C0CA6C18A7B0B730019EDD12CB3FC94B83)  
+[Click here to read the Terms & Conditions for the NParks-AIA Explore A Route Challenge.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/nparks-aia-explore-a-route-challenge/tc---nparks---aia-explore-a-route-challenge.ashx?la=en&hash=D41F02373F4EB94D8727D732E1899F809D9AF5DC)
+
+The NParks-AIA Explore A Route Challenge is supported by AIA.
+
+![AIA Logo](/images/AIA%20Logo%20WORDMARK.jpeg)
+  
+
+### Challenge Winners
+
+A big THANK YOU to those who took part in our Challenges, and congratulations to the winners! 🥳
+
+[Click here to view the winners of past and current Challenges.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/c2c-challenge-announcements-(2020).ashx?la=en&hash=CF0AA7B337338FE2A0D52BEA79BC8F6A5A1490DB)
+
