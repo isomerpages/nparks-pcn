@@ -32,7 +32,11 @@ Complete any 3 trails in a row (vertically, horizontally, or diagonally) on the 
 
 The NParks-AIA Explore A Route Challenge is supported by AIA.
 
-![AIA Logo](/images/AIA%20Logo%20WORDMARK.jpeg)
+![NParks - AIA Logo](/images/NParks-AIA%20logo.png)
+
+
+
+
   
 
 ### Challenge Winners
