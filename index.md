@@ -2,7 +2,7 @@
 layout: homepage
 title: NParks Park Connector Network
 description: NParks Park Connector Network Website
-image: /images/isomer-logo.svg
+image: /images/NParks Logo.png
 permalink: /
 notification: ""
 sections:
@@ -237,3 +237,4 @@ sections:
       alt: NParks NEAR App
       url: /the-pcn-experience/near
 ---
+
