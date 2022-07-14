@@ -3,7 +3,7 @@ title: Round Island Route
 permalink: /know-our-pcn/rir
 ---
 ![Alt text for image on Isomer site](/images/RIR%20map.jpg)
-Map of the Round Island Route, including key elements
+
 
 
 The Round Island Route (RIR), a continuous 150km park connector, is part of NParks’ overall plans to curate a 360km island-wide network of recreational routes comprising park connectors and trails.
@@ -13,6 +13,8 @@ When completed, the Round Island Route will be the longest recreational connecti
 These all contribute to Singapore’s transformation into a [City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature), a key pillar in the Singapore Green Plan, which is a national movement to advance sustainable development – to create a green, liveable and sustainable home for all Singaporeans. 
 
 ### Round Island Route – Phase 1
+
+[[Video] Round Island Route - Phase 1](https://www.youtube.com/watch?v=kSjn-1riKT4)
 
 ![RIR Phase 1](/images/RIR_Phase_1.png)
 The first phase of the Round Island Route was launched on 22 January 2022. Stretching across 75km, it covers the eastern half of Singapore, from Rower’s Bay in the north-east, past the Singapore River to Berlayer Creek in the south. It also makes for the island’s longest recreational connection that encircles Singapore in the east.
