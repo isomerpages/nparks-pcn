@@ -215,7 +215,7 @@ sections:
       description: A large interlinking network of Park Connectors, you can easily
         park hop while indulging in various fun and recreational activities.
       button: Read More
-      url: page-1
+      url: https://pcn.nparks.gov.sg/aboutrecreationalconnectivity
       image: /images/ECP 1.jpeg
       alt: PCN Eastern Coastal
   - infopic:
