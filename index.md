@@ -235,6 +235,5 @@ sections:
       button: Download Now
       image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
       alt: NParks NEAR App
-      url: /the-pcn-experience/near
+      url: https://pcn.nparks.gov.sg/the-pcn-experience/near
 ---
-
