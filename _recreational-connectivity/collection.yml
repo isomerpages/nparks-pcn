@@ -1,5 +1,5 @@
 collections:
-  our-pcn:
+  recreational-connectivity:
     output: true
     order:
       - know-our-recreational-connectivity.md
