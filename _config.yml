@@ -53,3 +53,7 @@ plugins:
 staging: https://nparks-demo-staging.netlify.app
 prod: https://nparks-demo-prod.netlify.app
 is_government: true
+shareicon: /images/NParks Logo.png
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""

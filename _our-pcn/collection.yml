@@ -1,9 +1,0 @@
-collections:
-  our-pcn:
-    output: true
-    order:
-      - know-our-recreational-connectivity.md
-      - island-wide-routes.md
-      - The Coast to Coast Trail.md
-      - rail-corridor.md
-      - round-island-route.md
