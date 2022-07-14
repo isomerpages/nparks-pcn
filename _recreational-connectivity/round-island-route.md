@@ -18,21 +18,40 @@ These all contribute to Singapore’s transformation into a [City in Nature](htt
 
 
 
+The first phase of the Round Island Route was launched on 22 January 2022. Stretching across 75km, it covers the eastern half of Singapore, from Rower’s Bay in the north-east, past the Singapore River to Berlayer Creek in the south. It also makes for the island’s longest recreational connection that encircles Singapore in the east.
+
 
 |  |  |  |
 | -------- | -------- | -------- |
 | ![RIR Phase 1](/images/RIR_Phase_1.png)     |  ![](/images/Round%20Island%20Route%20Phase%201.png)  |     |
 
 
-The first phase of the Round Island Route was launched on 22 January 2022. Stretching across 75km, it covers the eastern half of Singapore, from Rower’s Bay in the north-east, past the Singapore River to Berlayer Creek in the south. It also makes for the island’s longest recreational connection that encircles Singapore in the east.
 
 Key parks along the route include [Rowers’ Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park/rowers-bay), [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park), [Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-park), [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) and [East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park). Be it cycle or hike, hop onto any of these parks to start your journey along the RIR (car parking is available at the parks)!
 
-Other useful information:
+### Getting to the RIR
+You can get on the RIR from any of the park connectors, or from the parks along the route! Keep a lookout for these RIR signposts. There are also shelters along the RIR nodes for you to take a break during your journey.
 
-* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/pcn-etiquette). 
-* Getting there:
-You can take go on the RIR from any of the parks and park connectors. Parking is available at parks such as Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park and East Coast Park.
+
+
+|  | |  |
+| -------- | -------- | -------- |
+| ![](/images/RIR-signpost1.jpeg)     |   ![](/images/RIR-signpost2.jpeg)   |      |
+
+
+
+
+| Park/Connectivity Point | RIR Connectivity Point |  |
+| -------- | -------- | -------- |
+| [Rower’s Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park/rowers-bay)   | Traffic junction nearest the trellis at Rower’s Bay. The RIR path is opposite Rower’s Bay.|
+|[Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park) | Exit of Sengkang Riverside Park near Sengkang West Way<p>Sengkang Riverside Park Carpark
+|[Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park) | Toilet A2
+| [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park) | Pedestrian bridge at Changi Point coastal walk <p> Changi Beach Park Carpark 7
+|[East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park) | Area H near Changi Coastal Walk <p> Area A near Rhu Cross
+| [Berlayer Creek](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/berlayer-creek) | Junction of Alexandra Road and Telok Belangah Road
+
+
+
 
 ### New Features
 Here’s some new features you will get to visit on this route:
@@ -51,3 +70,9 @@ On this Phase 1 Route Island Route journey, look around and see if you can find 
 | -------- | -------- | 
 | Sepetir (Sindora wallichii) ![Alt text for image on Isomer site](/images/3LPA5693.JPG) | Native to Singapore, the critically endangered Sepetir can grow up to more than 30m tall with a massive crown. The wood is used to make furniture and in construction. This tree was propagated from the Sepetir Heritage Tree at Cranwell Road. | 
 | Sea Beam (Maranthes corymbosa) ![Alt text for image on Isomer site](/images/sea%20beam.jpg) | Growing up to 40m tall, the Sea Beam is a native tree that grows in coastal areas as well as primary and secondary forests. It produces pink and white flowers and green fleshy fruits. Its timber is used for the construction of houses and as posts. The species is classified as endangered in Singapore. It occurs locally in Pulau Ubin and Pulau Tekong.
+
+Other useful information:
+
+* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/pcn-etiquette). 
+* Getting there:
+You can take go on the RIR from any of the parks and park connectors. Parking is available at parks such as Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park and East Coast Park.
