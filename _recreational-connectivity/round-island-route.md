@@ -23,7 +23,7 @@ The first phase of the Round Island Route was launched on 22 January 2022. Stret
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![RIR Phase 1](/images/RIR_Phase_1.png)  <br>[RIR overview with park connectors and nodes](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/route-island-route/rir_ancillarymap_updated-01.ashx?la=en&hash=9415744F8B506496AD6ECD556DA18ECEE6073A11)   | <br> ![RIR Phase 1_2](/images/Round%20Island%20Route%20Phase%201.png)  <br> [Map of the Round Island Route (Phase 1), including key elements](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/route-island-route/round-island-route-phase-1.ashx?la=en&hash=37F55D9B59BFA97687BEBEF187AA01ABB6FC8F9D)|     |
+| ![RIR Phase 1](/images/RIR_Phase_1.png)  <br>[RIR overview with park connectors and nodes](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/route-island-route/rir_ancillarymap_updated-01.ashx?la=en&hash=9415744F8B506496AD6ECD556DA18ECEE6073A11)   | <br> ![](/images/Round%20Island%20Route%20Phase%201.png) <br> [Map of the Round Island Route (Phase 1), including key elements](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/route-island-route/round-island-route-phase-1.ashx?la=en&hash=37F55D9B59BFA97687BEBEF187AA01ABB6FC8F9D)|     |
 
 
 
