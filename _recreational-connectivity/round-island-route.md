@@ -21,7 +21,7 @@ These all contribute to Singapore’s transformation into a [City in Nature](htt
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![RIR Phase 1](/images/RIR_Phase_1.png)     |    |     |
+| ![RIR Phase 1](/images/RIR_Phase_1.png)     |  ![](/images/Round%20Island%20Route%20Phase%201.png)  |     |
 
 
 The first phase of the Round Island Route was launched on 22 January 2022. Stretching across 75km, it covers the eastern half of Singapore, from Rower’s Bay in the north-east, past the Singapore River to Berlayer Creek in the south. It also makes for the island’s longest recreational connection that encircles Singapore in the east.
