@@ -44,10 +44,10 @@ You can get on the RIR from any of the park connectors, or from the parks along 
 | Park/Connectivity Point | RIR Connectivity Point |  |
 | -------- | -------- | -------- |
 | [Rower’s Bay](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park/rowers-bay)   | Traffic junction nearest the trellis at Rower’s Bay. The RIR path is opposite Rower’s Bay.|
-|[Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park) | Exit of Sengkang Riverside Park near Sengkang West Way </span><p> Sengkang Riverside Park Carpark
+|[Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park) | <p> Exit of Sengkang Riverside Park near Sengkang West Way <br> Sengkang Riverside Park Carpark <p>
 |[Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park) | Toilet A2
-| [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park) | Pedestrian bridge at Changi Point coastal walk </span><p> Changi Beach Park Carpark 7
-|[East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park) | Area H near Changi Coastal Walk </span><p> Area A near Rhu Cross
+| [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park) | <p>Pedestrian bridge at Changi Point coastal walk <br> Changi Beach Park Carpark 7 <p>
+|[East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park) | <p> Area H near Changi Coastal Walk <br> Area A near Rhu Cross <p>
 | [Berlayer Creek](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/berlayer-creek) | Junction of Alexandra Road and Telok Belangah Road
 
 
