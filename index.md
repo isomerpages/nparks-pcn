@@ -224,7 +224,7 @@ sections:
       description: Island-wide routes across Singapore comprising multiple park
         connectors, trails and footpaths.
       button: Check them out!
-      url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
+      url: https://pcn.nparks.gov.sg/know-our-pcn/island-wide-routes
       image: /images/Island%20Wide%20Routes.jpeg
       alt: Image alt text
   - infopic:
