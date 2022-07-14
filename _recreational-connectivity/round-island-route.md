@@ -23,7 +23,7 @@ The first phase of the Round Island Route was launched on 22 January 2022. Stret
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![RIR Phase 1](/images/RIR_Phase_1.png)     |  ![](/images/Round%20Island%20Route%20Phase%201.png)  |     |
+| ![RIR Phase 1](/images/RIR_Phase_1.png)     | <br> ![RIR Phase 1_2](/images/Round%20Island%20Route%20Phase%201.png)  |     |
 
 
 
