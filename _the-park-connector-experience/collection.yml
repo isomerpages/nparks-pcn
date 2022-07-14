@@ -1,5 +1,5 @@
 collections:
-  the-pcn-experience:
+  the-park-connector-experience:
     output: true
     order:
       - Park Connector Network/.keep
