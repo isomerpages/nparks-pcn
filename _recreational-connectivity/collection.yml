@@ -1,0 +1,9 @@
+collections:
+  recreational-connectivity:
+    output: true
+    order:
+      - Know Our Recreational Connectivity.md
+      - island-wide-routes.md
+      - Coast to Coast Trail.md
+      - rail-corridor.md
+      - round-island-route.md

@@ -2,7 +2,7 @@
 layout: homepage
 title: NParks Park Connector Network
 description: NParks Park Connector Network Website
-image: /images/isomer-logo.svg
+image: /images/NParks Logo.png
 permalink: /
 notification: ""
 sections:
@@ -215,7 +215,7 @@ sections:
       description: A large interlinking network of Park Connectors, you can easily
         park hop while indulging in various fun and recreational activities.
       button: Read More
-      url: page-1
+      url: https://pcn.nparks.gov.sg/aboutrecreationalconnectivity
       image: /images/ECP 1.jpeg
       alt: PCN Eastern Coastal
   - infopic:
@@ -224,7 +224,7 @@ sections:
       description: Island-wide routes across Singapore comprising multiple park
         connectors, trails and footpaths.
       button: Check them out!
-      url: https://nparks-pcn-staging.netlify.app/know-our-pcn/island-wide-routes
+      url: https://pcn.nparks.gov.sg/know-our-pcn/island-wide-routes
       image: /images/Island%20Wide%20Routes.jpeg
       alt: Image alt text
   - infopic:
@@ -235,5 +235,5 @@ sections:
       button: Download Now
       image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
       alt: NParks NEAR App
-      url: /the-pcn-experience/near
+      url: https://pcn.nparks.gov.sg/the-pcn-experience/near
 ---
