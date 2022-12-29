@@ -11,7 +11,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 | | | |
 | -------- | -------- | -------- |
 | ![Explore PCN](/images/Explore.png) | Explore the PCN and trails across Singapore via the integrated map and enjoy the interesting sights and attractions along the way!   | |
-| ![Phyll My Trail](/images/Phyll%20my%20Trail.png) |  Create your own trails or Discover new ones! Create your own trails using the new 'Phyll My Trail' function, add photos along the way, and share them with family and friends in-app! Discover curated trails shared by the community as well as the best shortcuts, to _makan_ trails, and more!   | |
+| ![Phyll My Trail](/images/Phyll%20my%20Trail.png) |  Create your own trails or Discover new ones! Create your own trails using the 'Phyll My Trail' function, add photos along the way, and share them with family and friends in-app! Discover curated trails shared by the community as well as the best shortcuts, to _makan_ trails, and more!   | |
 | ![Augmented Reality](/images/Augmented%20Reality.png) | Meet the checkpoint critters! <br> Explore the trail and learn about local biodiversity. At each of the 10 checkpoints along the C2C Trail (Central), our AR-enabled animals will spring to life and share with you more about our local flora and fauna.       | | |
 | ![Participate in Events](/images/Participate%20in%20Events.png) | Participate in the latest events! <br> Join in the challenges to accumulate points and stand a chance to win prizes. Take a photo and share your experience in-app! Just remember to make sure that your phone has enough juice to last. Don’t forget to tag us! #SGNEARapp     | |
 
