@@ -18,7 +18,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 | | | |
 | -------- | -------- | -------- |
 | ![Explore PCN](/images/Explore.png) | Explore the PCN and trails across Singapore via the integrated map and enjoy the interesting sights and attractions along the way!  | | |
-| ![Participate in Events](/images/Participate%20in%20Events.png) | Participate in the latest events! <br> Join in the challenges to accumulate points and stand a chance to win prizes. Take a photo and share your experience in-app! Just remember to make sure that your phone has enough juice to last. Don’t forget to tag us! #SGNEARapp     | |
+| ![Participate in Events](/images/Participate%20in%20Events.png) | Participate in the latest events! <br> Join in the challenges to accumulate points and stand a chance to win prizes. Take a photo and share your experience in-app. Just remember to make sure that your phone has enough juice to last!   | |
 
 
 
