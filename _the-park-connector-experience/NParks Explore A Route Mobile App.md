@@ -10,7 +10,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 
 
 
-
+[Click **here** to download the NEAR mobile app!](https://near.nparks.gov.sg/)
 
 
 ### Start your NEAR journey today!
