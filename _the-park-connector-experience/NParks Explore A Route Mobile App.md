@@ -7,7 +7,7 @@ description: ""
 
 The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented reality (AR)-enabled mobile application, designed to complement the C2C Trail, the Round Island Route (RIR), as well as the Park Connector Network (PCN) for an interactive curated walking experience island-wide.
 
-
+![NEAR App](/images/Cover%20Image.png)
 
 
 [Click **here** to download the NEAR mobile app!](https://near.nparks.gov.sg/)
