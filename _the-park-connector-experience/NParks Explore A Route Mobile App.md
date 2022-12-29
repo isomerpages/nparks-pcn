@@ -1,6 +1,6 @@
 ---
 title: NParks Explore A Route Mobile App
-permalink: /the-pcn-experience/NEAR
+permalink: /the-pcn-experience/NEAR/
 description: ""
 ---
 ## NParks Explore A Route (NEAR) Mobile App
@@ -25,5 +25,4 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 
 |  |  |  |
 | -------- | -------- | -------- |
-|  [![app store](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/main-page-images/app-store.ashx?h=40&w=116&la=en&hash=F6A24827C941C105637230E1D7888422C0C37AA9)](https://itunes.apple.com/sg/app/nparks-coast-to-coast/id1439146498)      | [![google play](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/main-page-images/google-play.ashx?h=40&w=135&la=en&hash=BFD49E2D4039FB14BA0B0A1B542EEA5D89316DE8)](https://play.google.com/store/apps/details?id=com.revez.nparks_coast_to_coast_droid) |  |
-
+| ![Apple Store](/images/App_Store_(iOS).png) | ![Google Play](/images/Google_Play-Badge.png) |  |
