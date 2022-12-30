@@ -38,12 +38,6 @@ This challenge is organised in partnership with Explore a Route SG. Find out mor
 | [Click to download FAQ](/files/FAQs%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     | [Click to download T&Cs](/files/TC%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     |   |
 
 
-
-
-
-**![downloads and posts](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/main-page-images/downloads-,-a-,-posts.ashx?h=354&w=400&la=en&hash=5039D2B934576AF3B420DA5B91562FDCF9E92470)**
-
-
 **Download links for the NEAR Mobile App:**
 
 |  |  |  |
