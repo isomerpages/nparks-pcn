@@ -30,7 +30,7 @@ Kickstart your fitness goals and join our NEAR New Year Challenge! Simply downlo
 This challenge is organised in partnership with Explore a Route SG. Find out more about their Coast-to-Coast Challenge and stand a chance to win attractive prizes sponsored by Asics and more! [https://www.instagram.com/explorearoute\_sg/](https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI)
 
 
-#### Event FAQ and T&Cs
+**Event FAQ and T&Cs**
 
 | FAQ       | T&Cs | |
 | -------- | -------- | -------- |
@@ -49,4 +49,3 @@ This challenge is organised in partnership with Explore a Route SG. Find out mor
 | -------- | -------- | -------- |
 | ![Apple Store](/images/App_Store_(iOS).png)     | ![Google Play](/images/Google_Play-Badge.png)    |  |
 | [Click to visit Apple Store](https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702) | [Click to visit Google Play](https://play.google.com/store/apps/details?id=com.nparks.near) |  |
-
