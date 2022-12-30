@@ -50,3 +50,11 @@ This challenge is organised in partnership with Explore a Route SG. Find out mor
 | -------- | -------- | -------- |
 | ![Apple Store](/images/App_Store_(iOS).png)     | ![Google Play](/images/Google_Play-Badge.png)    |  |
 | [Click to visit Apple Store](https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702) | [Click to visit Google Play](https://play.google.com/store/apps/details?id=com.nparks.near) |  |
+
+
+
+| | | |
+| -------- | -------- | -------- |
+| ![Apple Store](/images/App_Store_(iOS).png) | [Click to visit Apple Store](https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702) ||
+|![Google Play](/images/Google_Play-Badge.png) |[Click to visit Google Play](https://play.google.com/store/apps/details?id=com.nparks.near) ||
+
