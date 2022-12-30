@@ -1,46 +1,39 @@
 ---
 title: Latest News
-permalink: /do-more/news
+permalink: /do-more/news/
 description: ""
 ---
-## **NParks-AIA Explore A Route Challenge**
+## **NEAR New Year Challenge**
 
-### From 20 May to 20 July
+#### From 30 December to 12 February
 
-Take part in our NParks-AIA Explore A Route Challenge from 20 May to 20 July 2022, to commemorate the launch of our NEAR app!
+New year, new you! It’s never too late to get started on your new year’s resolution to be active!
 
-Stand to win Decathlon e-vouchers (worth $50 each) in the monthly lucky draw, with three 13" MacBook Air laptops and 10 Fitbit Sense smartwatches up for grabs in the grand lucky draw at the end of the Challenge!
+Kickstart your fitness goals and join our NEAR New Year Challenge! 
 
-Taking part is easy:
+🍃  Simply download the upgraded NParks Explore A Route (NEAR) mobile app from either the App Store or Google Play from 30 December 2022 onwards. 
 
-🍃 Look out for the Challenge pop-up banner, or the Challenge icon on the 'Phyll My Trail' tab in-app
+🍃 Complete all 20 challenges and stand a chance to win Fitbit Sense 2 and Fitbit Inspire 2 smartwatches to keep you going throughout the year!
 
-🍃 Visit the start point at any of the 9 locations listed on the Challenge Board, with distances ranging from 5km to 15km per trail
+![How to participate](/images/New%20Year%20Challenge%20How%20to%20Participate_crop.png)
 
-🍃 Don't forget to take a selfie with the Challenge standee at each start point before starting your journey!
+This challenge is organised in partnership with Explore a Route SG. Find out more about their Coast-to-Coast Challenge and stand a chance to win attractive prizes sponsored by Asics and more! [https://www.instagram.com/explorearoute\_sg/](https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI)
 
-🍃 Using the 'Phyll My Trail' function, record your trail and complete the respective distances for each trail as shown on the Challenge Board
+**Event FAQ and T&Cs**
 
-🍃 Once done, upload your trail in-app, together with your selfie
-
-![Challenge Board](/images/challenge%20board.png)
-
-Complete any 3 trails in a row (vertically, horizontally, or diagonally) on the Challenge Board to get one strike – this qualifies you for a chance to win a Decathlon e-voucher (worth $50 each) at the end of each month. Getting 8 strikes i.e. completing all 9 trails on the Challenge Board qualifies you for one chance in the grand lucky draw!
-
-[Click here to read the Frequently Asked Questions (FAQs) on the NParks-AIA Explore A Route Challenge.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/nparks-aia-explore-a-route-challenge/faqs---nparks---aia-explore-a-route-challenge.ashx?la=en&hash=E1FBB8C0CA6C18A7B0B730019EDD12CB3FC94B83)  
-[Click here to read the Terms & Conditions for the NParks-AIA Explore A Route Challenge.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/nparks-aia-explore-a-route-challenge/tc---nparks---aia-explore-a-route-challenge.ashx?la=en&hash=D41F02373F4EB94D8727D732E1899F809D9AF5DC)
-
-The NParks-AIA Explore A Route Challenge is supported by AIA.
-
-![NParks - AIA Logo](/images/NParks-AIA%20logo.png)
+| FAQ       | T&Cs | |
+| -------- | -------- | -------- |
+| [Click to download FAQ](/files/FAQs%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     | [Click to download T&Cs](/files/TC%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     |   |
 
 
+#### NParks Explore a Route (NEAR) Mobile App
 
+![NEAR Mobile App](/images/Cover%20Image.png)
 
-  
+ [Click here to learn more about the NEAR mobile app!](https://near.nparks.gov.sg/) 
 
-### Challenge Winners
+### Previous Challenge Winners
 
-A big THANK YOU to those who took part in our Challenges, and congratulations to the winners! 🥳
+A big THANK YOU to those who took part in our challenges, and congratulations to the winners! 🥳
 
 [Click here to view the winners of past and current Challenges.](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/challenges/c2c-challenge-announcements-(2020).ashx?la=en&hash=CF0AA7B337338FE2A0D52BEA79BC8F6A5A1490DB)
