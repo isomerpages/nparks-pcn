@@ -11,11 +11,11 @@ New year, new you! It’s never too late to get started on your new year’s res
 
 Kickstart your fitness goals and join our NEAR New Year Challenge! 
 
-How to take part:
-
 🍃  Simply download the upgraded NParks Explore A Route (NEAR) mobile app from either the App Store or Google Play from 30 December 2022 onwards. 
 
 🍃 Complete all 20 challenges and stand a chance to win Fitbit Sense 2 and Fitbit Inspire 2 smartwatches to keep you going throughout the year!
+
+![How to participate](/images/New%20Year%20Challenge%20How%20to%20Participate_crop.png)
 
 This challenge is organised in partnership with Explore a Route SG. Find out more about their Coast-to-Coast Challenge and stand a chance to win attractive prizes sponsored by Asics and more! [https://www.instagram.com/explorearoute\_sg/](https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI)
 
