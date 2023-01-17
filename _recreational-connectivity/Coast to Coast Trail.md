@@ -11,4 +11,4 @@ The Coast-to-Coast Trail (Central) is a 36 km trail that spans across Singapore,
 
 You can choose to explore the Trail on your own using the **[NParks Explore a Route](https://near.nparks.gov.sg/)** mobile app or **[C2C (Central) online Trail Guide](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/trail-guide/c2c-trail-guide.ashx?la=en&hash=FD5CB670095083F52B6C5D04853CC0F98C95AE68)**.
 
-The **[NParks-AIA Explore A Route Challenge](https://pcn.nparks.gov.sg/do-more/news)** is now on from 20 May to 20 July 2022. Participate in the Challenge and stand to win really attractive prizes, such as Decathlon e-vouchers, Fitbit Sense smartwatches, and 13" MacBook Air laptops! Read on for more information.
+The **[NEAR New Year Challenge](https://pcn.nparks.gov.sg/do-more/news)** is now on from 30 December to 12 February. Participate in the Challenge and stand to win Fitbit Sense 2 and Fitbit Inspire 2 smartwatches to keep you going throughout the year! Read on for more information.
