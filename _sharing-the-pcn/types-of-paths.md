@@ -1,6 +1,6 @@
 ---
 title: Types of Paths
-permalink: /sharing-the-pcn/top
+permalink: /sharing-the-pcn/top/
 ---
 We advise park users to stay on their designated paths. In our parks and along our park connectors, you will encounter these types of paths:
 
@@ -41,12 +41,54 @@ Within Attention Zones, cyclists and PMD users should slow down and give way to 
 
  As users of the PCN, we would like to have a pleasant and safe experience while travelling. We can do this by being gracious and keep a lookout for each other. 
  
+ Learn more about the PCN etiquette in the next tab!
 
 
 | | |  |
 | -------- | -------- | -------- |
 |  |  | |
 
-
  
-Learn more about the PCN etiquette in the next tab!
+
+
+
+
+#### Pilot for Revised PCN Typology
+
+|  |  |  |
+| -------- | -------- | -------- |
+| To better enhance the user experience along our Park Connector Network, we are piloting a revised park connector typology that will segregate paths into **pedestrians-only paths** and **shared paths** at selected stretches that are sufficiently wide and used primarily for recreation, such as along canals and coastal routes.
+
+| Shared Path | Segregated / Separated Path |  |
+| -------- | -------- | -------- |
+| ![Pilot-shared path](/images/pilot-shared%20path.jpeg)    | ![Pilot - segregated path](/images/pilot-segregated%20path.png) 
+
+
+
+
+
+| | | |
+| -------- | -------- | -------- |
+| This pilot will be implemented progressively from August 2022 along approximately 30km of park connector paths in: | | |
+• Changi Beach Park
+• Changi Bay PC
+• Coastal PC
+• East Coast Park
+• Pasir Panjang Park
+
+We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
+
+We will be launching an online survey to gather your feedback on the revised typology. Stay tuned for the link here.
+
+We will continue to work with LTA and other stakeholders to raise public awareness of good PCN etiquette, so as to provide a more pleasant and safer experience in our PCN and parks.
+
+
+
+
+
+
+
+
+
+
+
