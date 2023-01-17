@@ -8,4 +8,4 @@ The Rail Corridor was formerly a railway line that was used for commuting and tr
 
 ![Alt text for image on Isomer site](/images/Rail%20Corridor%20Infographic.png)
 
-More on the Rail Corridor [here](https://railcorridor.nparks.gov.sg/).
+#### More on the Rail Corridor [here](https://railcorridor.nparks.gov.sg/).
