@@ -1,6 +1,6 @@
 ---
 title: Rail Corridor
-permalink: /know-our-pcn/rail-corridor
+permalink: /know-our-pcn/rail-corridor/
 ---
 ![Alt text for image on Isomer site](/images/Rail%20Corridor%20Hero.jpg)
 
@@ -8,5 +8,4 @@ The Rail Corridor was formerly a railway line that was used for commuting and tr
 
 ![Alt text for image on Isomer site](/images/Rail%20Corridor%20Infographic.png)
 
-More on the Rail Corridor [here](https://www.nparks.gov.sg/railcorridor/rail-corridor).
-
+More on the Rail Corridor [here](https://railcorridor.nparks.gov.sg/).
