@@ -81,14 +81,3 @@ We will review the outcome of the pilot, including public feedback received, bef
 We will be launching an online survey to gather your feedback on the revised typology. Stay tuned for the link here.
 
 We will continue to work with LTA and other stakeholders to raise public awareness of good PCN etiquette, so as to provide a more pleasant and safer experience in our PCN and parks.
-
-
-
-
-
-
-
-
-
-
-
