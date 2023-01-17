@@ -1,5 +1,5 @@
 collections:
-  do-more:
+  whats-happening:
     output: true
     order:
       - Notices.md
