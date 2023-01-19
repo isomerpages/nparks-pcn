@@ -1,6 +1,6 @@
 ---
 title: Round Island Route
-permalink: /know-our-pcn/rir
+permalink: /know-our-pcn/rir/
 ---
 ![Alt text for image on Isomer site](/images/RIR%20map.jpg)
 
@@ -74,6 +74,6 @@ On this Phase 1 Route Island Route journey, look around and see if you can find 
 
 Other useful information:
 
-* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/pcn-etiquette). 
+* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://pcn.nparks.gov.sg/sharingpcn/).
 * Getting there:
 You can take go on the RIR from any of the parks and park connectors. Parking is available at parks such as Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park and East Coast Park.
