@@ -67,14 +67,13 @@ Within Attention Zones, cyclists and PMD users should slow down and give way to 
 
 
 
-| | | |
+|  This pilot will be implemented progressively from August 2022 along approximately 30km of park connector paths in: |  |  |
 | -------- | -------- | -------- |
-| This pilot will be implemented progressively from August 2022 along approximately 30km of park connector paths in: | | |
-• Changi Beach Park
-• Changi Bay PC
-• Coastal PC
-• East Coast Park
-• Pasir Panjang Park
+| • Changi Beach Park  |  |  |
+| • Changi Bay PC |  |  |
+| • Coastal PC |  |  |
+| • East Coast Park  |  |  |
+| • Pasir Panjang Park  |  |  |
 
 We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
 
