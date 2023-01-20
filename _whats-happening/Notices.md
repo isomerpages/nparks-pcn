@@ -32,4 +32,3 @@ description: ""
 | C2C Trail (Central) |  |  |
 | -------- | -------- | -------- |
 | [Click here to view affected Park Connectors](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/notices/notices-of-closure-along-the-c2c-trail.ashx) |
-
