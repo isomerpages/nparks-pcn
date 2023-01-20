@@ -3,7 +3,7 @@ title: Notices
 permalink: /notices/
 description: ""
 ---
-Park Connector Network Temporary Closures
+##### Park Connector Network Temporary Closures
 
 
 | PCN Loop | Affected Park Connector | |
@@ -24,3 +24,12 @@ Park Connector Network Temporary Closures
 | | Agencies will continue to monitor the rain forecast and water level in the canal, and will temporarily close the park connector when necessary. |||
 || **Alexandra Canal Linear Park** near Margaret Drive will be closed for road construction works by HDB from 25 January 2019 to Q4 2023. (Please use the alternate access route along Commonwealth Avenue and Commonwealth Towers to reach Dawson Road or Alexandra Queensway PC.)
 | Western Adventure Loop |  A section of Choa Chu Kang PC is closed for LTA's upgrading works from 4 October 2021 to Q1 2025. For more information, refer to map| [Closure of CCK PCN](/files/Closure%20of%20CCK%20PCN_Ave%203%20Notice%20until%20Q1%202025.pdf) |
+
+
+##### Notice of closure along C2C Trail
+
+
+| C2C Trail (Central) |  |  |
+| -------- | -------- | -------- |
+| [Click here to view affected Park Connectors](https://www.nparks.gov.sg/-/media/peb/coast-to-coast/notices/notices-of-closure-along-the-c2c-trail.ashx) |
+
