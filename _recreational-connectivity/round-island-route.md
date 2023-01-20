@@ -1,9 +1,8 @@
 ---
 title: Round Island Route
-permalink: /know-our-pcn/rir
+permalink: /know-our-pcn/rir/
 ---
-![Alt text for image on Isomer site](/images/RIR%20map.jpg)
-
+![RIR](/images/Round%20Island%20Hero%20downsized.jpg)
 
 
 The Round Island Route (RIR), a continuous 150km park connector, is part of NParks’ overall plans to curate a 360km island-wide network of recreational routes comprising park connectors and trails.
@@ -70,10 +69,24 @@ On this Phase 1 Route Island Route journey, look around and see if you can find 
 | |  |
 | -------- | -------- | 
 | Sepetir (Sindora wallichii) ![Alt text for image on Isomer site](/images/3LPA5693.JPG) | Native to Singapore, the critically endangered Sepetir can grow up to more than 30m tall with a massive crown. The wood is used to make furniture and in construction. This tree was propagated from the Sepetir Heritage Tree at Cranwell Road. | 
-| Sea Beam (Maranthes corymbosa) ![Alt text for image on Isomer site](/images/sea%20beam.jpg) | Growing up to 40m tall, the Sea Beam is a native tree that grows in coastal areas as well as primary and secondary forests. It produces pink and white flowers and green fleshy fruits. Its timber is used for the construction of houses and as posts. The species is classified as endangered in Singapore. It occurs locally in Pulau Ubin and Pulau Tekong.
+| Sea Beam (Maranthes corymbosa) ![Alt text for image on Isomer site](/images/sea%20beam.jpg) | Growing up to 40m tall, the Sea Beam is a native tree that grows in coastal areas as well as primary and secondary forests. It produces pink and white flowers and green fleshy fruits. Its timber is used for the construction of houses and as posts. The species is classified as endangered in Singapore. It occurs locally in Pulau Ubin and Pulau Tekong. |
+| Penega Laut (_Calophyllum inophyllum_) ![Penage Laut](/images/Penaga%20Laut%20Wee%20Foong.jpeg) | The Penega Laut is a native coastal tree that grows up to 30m tall. It has glossy oval-shaped leaves, sweet-scented white flowers, and round green fruits. Its fruits are usually dispersed by sea currents. There are also records of bats feeding on the fruits and dispersing the seeds.The species is classified as critically endangered and occurs locally in Pulau Seletar and Pulau Ubin. |
+| Small-Leaved Nutmeg (_Knema globularia_) ![Knema globularia](/images/Knema%20globularia_Joyce%20Foo%20Ming%20Yen.jpeg) | Growing up to 24m tall, the Small-Leaved Nutmeg is a native tree that can be found in lowland primary and degraded forests, as well as in coastal areas. These fruits are eaten by the Oriental Pied Hornbill (Anthracoceros albirostris). The species is classified as critically endangered in Singapore, and can be found locally in Changi, Lazarus Island, Pulau Pawai and Pulau Ubin. |
+| Seashore Mangosteen (_Garcinia celebica_) ![Seashore Mangosteen](/images/seashore%20mangosteen.jpeg) | The Seashore Mangosteen is a native coastal tree that grows up to 30m. It has white flowers that occur in clusters of one to three and round fruits that turn bright rose-red when ripe and smell of apples. Its flowers are pollinated by insects and its fruits eaten by small mammals. |
+| Sea Lettuce (_Scaevola taccada_) ![Sea Lettuce](/images/sea%20lettuce.jpeg) | The Sea Lettuce is a common shrub or small tree that grows up to 10m tall. Its alternate, shortly stalked leaves have fleshy leaf blades that are mostly reverse egg-shaped. It grows along rocky and sandy beaches, on coastal cliffs and sandstone hills. Its flowers are pollinated by bees, and fruits are eaten by birds. It can be propagated by seed or stem cutting. |
+| White-Bellied Sea Eagle (_Haliaeetus leucogaster_) ![White bellied sea eagle](/images/white%20bellied%20sea%20eagle.jpeg) | The White-Bellied Sea Eagle is the largest resident raptor in Singapore, with some adults attaining a wingspan of over 2m. It has a white head and underparts with greyish wings and a wedge-shaped tail. |
+| Brahminy Kite (_Haliastur indus_) ![Brahminy Kite](/images/Brahminy%20Kite.jpeg) | At about 45cm, the Brahminy Kite is a medium-sized raptor found throughout Southeast Asia. A common resident in Singapore, it can often be seen soaring over urban areas. These birds are particularly conspicuous around freshwater and coastal wetlands. They are not averse to consuming dead organisms and therefore play an important role as scavengers in these ecosystems. |
+| Fiddler crabs (_Uca_ spp) ![Fiddler crabs](/images/Fiddler%20crabs.jpeg) | Fiddler crabs are common on our natural undisturbed shores, especially those near mangroves. They are often found in large numbers. The species is also highly sensitive to movement and will vanish when they feel footsteps on the sand or see shadows. |
+| Smooth-coated Otter (_Lutrogale perspicillata_) ![Smooth-coated Otter](/images/Smooth-coated%20Otter.jpeg) | The Smooth-coated Otter is usually spotted in pairs or in small families in our mangroves, mudflats, and other coastal areas. It is usually active during the day and night and feeds mainly on fish. |
+
+
+
+
+
+
 
 Other useful information:
 
-* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/pcn-etiquette). 
+* Bicycles and Personal Mobility Devices (PMDs) are allowed on RIR tracks with the cyclist logo. Please be considerate and adhere to our Park Connector Network’s [etiquette](https://pcn.nparks.gov.sg/sharingpcn/).
 * Getting there:
 You can take go on the RIR from any of the parks and park connectors. Parking is available at parks such as Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park and East Coast Park.

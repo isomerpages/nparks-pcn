@@ -1,6 +1,6 @@
 ---
-title: Latest News
-permalink: /do-more/news/
+title: Events
+permalink: /do-more/events/
 description: ""
 ---
 ## **NEAR New Year Challenge**
