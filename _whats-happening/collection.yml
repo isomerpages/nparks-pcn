@@ -2,5 +2,6 @@ collections:
   whats-happening:
     output: true
     order:
+      - Engagements.md
       - Notices.md
       - Events.md
