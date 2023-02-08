@@ -77,6 +77,6 @@ Within Attention Zones, cyclists and PMD users should slow down and give way to 
 
 We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
 
-We will be launching an online survey to gather your feedback on the revised typology. Stay tuned for the link here.
+Please click on the [FormSG survey link](https://form.gov.sg/63b64b75009b500012c0895d) to share your feedback on the revised typology. Survey findings will help in our ongoing review of the PCN typology.
 
 We will continue to work with LTA and other stakeholders to raise public awareness of good PCN etiquette, so as to provide a more pleasant and safer experience in our PCN and parks.
