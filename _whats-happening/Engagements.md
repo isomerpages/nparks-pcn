@@ -4,6 +4,9 @@ permalink: /whats-happening/engagements/
 description: PCN public engagements
 ---
 ## Pilot PCN Typology
+
+![]()
+
 To better enhance the user experience along our Park Connector Network, we are piloting a revised park connector typology that will segregate paths into **pedestrians-only paths** and **shared paths** selected stretches that are sufficiently wide and used primarily for recreation, such as along canals and coastal routes.
 
 | Shared Path | Segregated / Separated Path |  |
