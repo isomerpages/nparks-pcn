@@ -2,6 +2,7 @@ collections:
   the-park-connector-experience:
     output: true
     order:
+      - Explore Park Connectors/.keep
       - Park Connector Network/.keep
       - Park Connector Network/check-out-the-network.md
       - Park Connector Network/central-urban-loop.md
