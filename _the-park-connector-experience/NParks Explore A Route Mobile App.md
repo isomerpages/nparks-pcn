@@ -23,6 +23,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 
 ### NEAR New Year Challenge!
 
+#### 30 Dec 2022 to 12 Feb 2023
 ---
 **The NEAR New Year Challenge has ended. Thank you for your enthusiastic support!**
 
