@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nparks-demo-staging.netlify.app
-prod: https://nparks-demo-prod.netlify.app
+staging: https://nparks-pcn-staging.netlify.app
+prod: https://nparks-pcn-prod.netlify.app
 is_government: true
 shareicon: /images/NParks Logo.png
 facebook-pixel: ""

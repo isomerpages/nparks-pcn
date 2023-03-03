@@ -1,8 +1,10 @@
 ---
 title: List of Park Connectors
-permalink: /the-pcn-experience/glossary
+permalink: /the-pcn-experience/glossary/
 description: ""
+third_nav_title: Explore Park Connectors
 ---
+
 
 
 | **List of Park Connectors** |  |  |
