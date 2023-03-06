@@ -1,4 +1,5 @@
 collections:
   notices:
     output: true
-    order: []
+    order:
+      - Notices.md
