@@ -46,6 +46,6 @@ Pelton Canal Park Connector links Kallang Park Connector to Balam Park Connector
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Kallang PC** | | |
+| **Balam PC** | | |
+| | | |
