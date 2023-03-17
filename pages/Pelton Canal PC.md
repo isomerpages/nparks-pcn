@@ -3,7 +3,7 @@ title: Pelton Canal PC
 permalink: /permalink/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![Pelton Canal PC](/images/Pelton%20PC.jpg)
 
 ## Name of Park Connector
 
