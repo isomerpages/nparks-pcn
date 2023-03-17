@@ -56,6 +56,4 @@ Starting from Toa Payoh Town Park, Whampoa Park Connector runs along Sungei Wham
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+Kallang PC
