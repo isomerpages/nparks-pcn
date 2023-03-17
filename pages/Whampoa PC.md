@@ -16,9 +16,10 @@ Starting from Toa Payoh Town Park, Whampoa Park Connector runs along Sungei Wham
 
 #### Points of interest
 
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
+![Sungei Whampoa @ St George’s Lane](/images/Sungei%20Whampoa%20@%20St%20George’s%20Lane.jpg)
+Revitalised with new riverside features, the 250m section of Sungei Whampoa, runs from the Central Expressway to the St George's Lane development. Gabion walls planted with creepers form a naturalised canal edge. A rain garden planted along the walkway creates a garden habitat. In addition, planters, cantilever decks, and landscaping enhance the area and bring residents closer to water.
+
+**Sungei Whampoa @ St George’s Lane**
 <br>
 [add a photo for POI 2]
 <br>
