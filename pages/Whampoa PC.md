@@ -12,7 +12,7 @@ description: ""
 
 <br>
 
-[Insert 2nd image]
+![Whampoa PC ](/images/Whampoa%20PC%202.jpg)
 
 [Para 2] Insert Park Connector description <br>
 "Test Page Park Connector is suitable for cycling.....etc"
