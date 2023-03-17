@@ -3,7 +3,7 @@ title: Whampoa PC
 permalink: /permalink/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![Whampoa PC](/images/Whampoa%20PC.jpg)
 
 ## Name of Park Connector
 
