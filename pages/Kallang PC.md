@@ -7,12 +7,12 @@ description: ""
 
 ## Kallang PC
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
+Insert Park Connector description <Stretching along the Kallang River, the Kallang Park Connector links Bishan-Ang Mo Kio Park to Kallang Riverside Park where you have the chance to see foraging birds, monitor lizards and squirrels along the riverbank. It takes you through several residential estates in the Central region – Bishan, Toa Payoh, Potong Pasir, Serangoon, Bendemeer, Upper Boon Keng and Kallang.
 
-<br>
+Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beautiful, Clean Waters programme, along Kallang River. This park connector also meets Whampoa Park Connector from Bendemeer Road, providing you with easy accessibility to Toa Payoh Town Park
+>
 
-[Insert 2nd image]
+![Kallang PC](/images/Kallang%20PC%202.jpg)
 
 [Para 2] Insert Park Connector description <br>
 "Test Page Park Connector is suitable for cycling.....etc"
