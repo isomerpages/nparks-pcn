@@ -3,7 +3,7 @@ title: Kallang PC
 permalink: /permalink/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/Kallang%20PC.jpg)
 
 ## Kallang PC
 
