@@ -13,15 +13,6 @@ Starting from Toa Payoh Town Park, Whampoa Park Connector runs along Sungei Wham
 
 ![Whampoa PC ](/images/Whampoa%20PC%202.jpg)
 
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
-
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
 
 #### Points of interest
 
