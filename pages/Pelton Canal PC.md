@@ -5,7 +5,7 @@ description: ""
 ---
 ![Pelton Canal PC](/images/Pelton%20PC.jpg)
 
-## Name of Park Connector
+## Pelton Canal PC
 
 [Para 1] Insert Park Connector description <br>
 "Running through residential areas and schools....etc"
