@@ -23,7 +23,7 @@ Revitalised with new riverside features, the 250m section of Sungei Whampoa, run
 <br>
 [add a photo for POI 2]
 <br>
-**Insert name of POI 2**
+**Sungei Kallang @ River Vista**
 
 <br>
 <br>
