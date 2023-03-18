@@ -42,7 +42,7 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
+| **Length of Park Connector** | 7.87 km   |  |
 | **Accessibility** | Insert Text | |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | Insert OneMap Link [click here] | |
