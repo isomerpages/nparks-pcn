@@ -54,6 +54,6 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
+| **Bishan - Ang Mo Kio Park"** | | |
 | **"insert name of PCN 2"** | | |
 | **"Insert name of PCN 3"** | | |
