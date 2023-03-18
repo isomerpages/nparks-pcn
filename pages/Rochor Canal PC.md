@@ -11,7 +11,7 @@ Rochor Canal Park Connector runs along Rochor River from Sim Lim Tower to Crawfo
 
 Residents and commuters can enjoy the coolness of tree shade as they take a break or commute through the park connector on either side of the canal.
 
-[Insert 2nd image]
+![](/images/Rochor%20Canal%20PC%205.jpg)
 
 [Para 2] Insert Park Connector description <br>
 "Test Page Park Connector is suitable for cycling.....etc"
