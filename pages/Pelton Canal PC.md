@@ -9,7 +9,7 @@ description: ""
 
 Pelton Canal Park Connector links Kallang Park Connector to Balam Park Connector. It runs along Pelton Canal, passing through the industrial estates of Geylang Bahru and Kallang Way as well as residential areas in Upper Boon Keng, Paya Lebar Way and Circuit Road. It includes a wide shared track for both joggers and cyclists. You can dine at popular eateries such as Upper Boon Keng Food Centre and Circuit Road Food.
 
-![Pelton Canal PC](/images/Pelton%20PC%202.jpg)]
+![Pelton Canal PC](/images/Pelton%20PC%202.jpg)
 
 #### Park Connector Information
 |  |  |  |
