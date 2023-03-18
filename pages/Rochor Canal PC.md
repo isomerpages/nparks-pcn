@@ -42,7 +42,7 @@ Residents and commuters can enjoy the coolness of tree shade as they take a brea
 | -------- | -------- | -------- |
 | **Location** | Rochor Canal Park Connector starts at Crawford St, runs along the Rochor River and ends where it meets Ophir Road |  |
 | **Length of Park Connector** | 2.5km   |  |
-| **Accessibility** | Insert Text | |
+| **Accessibility** | The park connector is barrier free. Do note that users will have to cross three road junctions. | |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | Insert OneMap Link [click here] | |
 
