@@ -14,15 +14,6 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 
 ![Kallang PC](/images/Kallang%20PC%202.jpg)
 
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
-
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
 
 #### Points of interest
 
@@ -39,10 +30,6 @@ Officially opened to the public in 2008, Kolam Ayer ABC Waterfront features a ma
 
 
 
-<br>
-<br>
-<br>
-
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
@@ -52,9 +39,7 @@ Officially opened to the public in 2008, Kolam Ayer ABC Waterfront features a ma
 | **Bus Service** | Not Applicable | |
 | **Get Directions** | [click here](https://www.onemap.gov.sg/main/v2/?lat=1.3107554578543164&lng=103.87087724819428) | |
 
-<br>
-<br>
-<br>	
+	
 
 #### Nearby Park Connectors
 |   |  |  |
