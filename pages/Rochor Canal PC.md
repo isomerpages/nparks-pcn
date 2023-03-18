@@ -5,7 +5,7 @@ description: ""
 ---
 [Insert a good image that best represent the PC]
 
-## Name of Park Connector
+## Rochor Canal PC
 
 [Para 1] Insert Park Connector description <br>
 "Running through residential areas and schools....etc"
