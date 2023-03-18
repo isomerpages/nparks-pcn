@@ -40,7 +40,7 @@ Residents and commuters can enjoy the coolness of tree shade as they take a brea
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
+| **Location** | Rochor Canal Park Connector starts at Crawford St, runs along the Rochor River and ends where it meets Ophir Road |  |
 | **Length of Park Connector** | Insert Text   |  |
 | **Accessibility** | Insert Text | |
 | **Bus Service** | Insert Text | |
