@@ -45,7 +45,7 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 | **Length of Park Connector** | 7.87 km   |  |
 | **Accessibility** | Insert Text | |
 | **Bus Service** | Not Applicable | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | [click here](https://www.onemap.gov.sg/main/v2/?lat=1.3107554578543164&lng=103.87087724819428) | |
 
 <br>
 <br>
