@@ -20,9 +20,7 @@ Pelton Canal Park Connector links Kallang Park Connector to Balam Park Connector
 | **Bus Service** | Not Applicable | |
 | **Get Directions** |  [[click here](https://www.onemap.gov.sg/main/v2/?lat=1.3156646861949133&lng=103.87030626292639)] | |
 
-<br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
 |   |  |  |
