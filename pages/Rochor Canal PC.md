@@ -44,7 +44,7 @@ Residents and commuters can enjoy the coolness of tree shade as they take a brea
 | **Length of Park Connector** | 2.5km   |  |
 | **Accessibility** | The park connector is barrier free. Do note that users will have to cross three road junctions. | |
 | **Bus Service** | Not Applicable | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | [click here](http://www.onemap.gov.sg/main/v2/?lat=1.3061227&lng=103.8623321) | |
 
 <br>
 <br>
