@@ -46,9 +46,7 @@ Residents and commuters can enjoy the coolness of tree shade as they take a brea
 | **Bus Service** | Not Applicable | |
 | **Get Directions** | [click here](http://www.onemap.gov.sg/main/v2/?lat=1.3061227&lng=103.8623321) | |
 
-<br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
 |   |  |  |
