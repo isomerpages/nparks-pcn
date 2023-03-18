@@ -53,6 +53,4 @@ Residents and commuters can enjoy the coolness of tree shade as they take a brea
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Kallang Riverside Park** | | |
