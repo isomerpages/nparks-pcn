@@ -3,14 +3,13 @@ title: Rochor Canal PC
 permalink: /permalink/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/Rochor%20Canal%20PC%203.jpg)
 
 ## Rochor Canal PC
+ 
+Rochor Canal Park Connector runs along Rochor River from Sim Lim Tower to Crawford St, connecting residents from the Jalan Besar and Lavender estates. Kallang Riverside Park is on the other side of Crawford St and is accessible by Crawford Bridge or its underpass.
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
-
-<br>
+Residents and commuters can enjoy the coolness of tree shade as they take a break or commute through the park connector on either side of the canal.
 
 [Insert 2nd image]
 
