@@ -44,6 +44,6 @@ Officially opened to the public in 2008, Kolam Ayer ABC Waterfront features a ma
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **Bishan - Ang Mo Kio Park"** | | |
+| **Bishan - Ang Mo Kio Park** | | |
 | **Pelton Canal PC** | | |
 | **Whampoa PC** | | |
