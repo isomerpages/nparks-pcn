@@ -56,4 +56,4 @@ description: ""
 | -------- | -------- | -------- |
 | **"1.  [Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc)"** | | |
 | **"1.  [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)"** | | |
-| **"1.  1.  [Sungei Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)(https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west)"** | | |
+| **"1.  1.  1.  [Sungei Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)"** | | |
