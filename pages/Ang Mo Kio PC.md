@@ -45,7 +45,7 @@ description: ""
 | **Length of Park Connector** | 1.08 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 13, 86, 138, 138A, 138B, 162, 162M, 851, 851e, 852, 853, 853M (Bus stop opp Courts AMK) | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3718537353892077&amp;lng=103.8451446650041 [click here] | 
 
 <br>
 <br>
@@ -54,6 +54,5 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **"Bishan-Ang Mo Kio Park"** | | |
+| **"Ang Mo Kio Town Garden West"** | | |
