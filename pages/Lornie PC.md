@@ -50,8 +50,8 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 | **Location** | Lornie Park Connector starts at Sime Road and runs along Lornie Road before ending at Reservoir Road |  |
 | **Length of Park Connector** | 1.76 km   |  |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | Bus Stop No: 51111 (Bus 52, 74, 93, 157, 165, 852, 855) and Bus Stop No: 51119 (Bus: 52, 74, 93, 157, 165, 852, 855) | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Bus Service** | 157, 165 (Bus stop after Adam Dr) | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.335516142801053&amp;lng=103.81825221714945 [click here] | |
 
 <br>
 <br>
@@ -60,6 +60,6 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **"1.  [Kheam Hock Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park)"** | | |
+| **"1.  [Central Catchment Nature Reserve](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve)"** | | |
+| **"1.  [Adam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc)"** | | |
