@@ -41,7 +41,7 @@ description: ""
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
+| **Location** | Ang Mo Kio Park Connector starts at Ang Mo Kio Ave 1 and runs along Ang Mo Kio Ave 6 before ending at Ang Mo Kio St 12 |  |
 | **Length of Park Connector** | Insert Text   |  |
 | **Accessibility** | Insert Text | |
 | **Bus Service** | Insert Text | |
