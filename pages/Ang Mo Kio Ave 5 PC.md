@@ -41,11 +41,11 @@ description: ""
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
+| **Location** | Ang Mo Kio Ave 5 Park Connector starts at cross junction of Ang Mo Kio Ave 6 and Ang Mo Kio Ave 5 and runs along Ang Mo Kio Ave 5 before ending at Yio Chu Kang Road |  |
+| **Length of Park Connector** | 4.01 km   |  |
+| **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | |
 
 <br>
 <br>
@@ -54,6 +54,6 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **"1.  [Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc)"** | | |
+| **"1.  [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)"** | | |
+| **"1.  [Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west)"** | | |
