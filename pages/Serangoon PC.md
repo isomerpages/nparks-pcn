@@ -45,7 +45,7 @@ description: ""
 | **Length of Park Connector** | 4.2 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 80, 82, 87, 88, 89, 89e, 119 (Bus stop at Blk 458) | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3783499603028648&amp;lng=103.89660624357508] | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3783499603028648&amp;lng=103.89660624357508 [click here] | |
 
 <br>
 <br>
