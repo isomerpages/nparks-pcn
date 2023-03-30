@@ -44,7 +44,7 @@ description: ""
 | **Location** | Ang Mo Kio Ave 5 Park Connector starts at cross junction of Ang Mo Kio Ave 6 and Ang Mo Kio Ave 5 and runs along Ang Mo Kio Ave 5 before ending at Yio Chu Kang Road |  |
 | **Length of Park Connector** | 4.01 km   |  |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | Insert Text | |
+| **Bus Service** | 50, 72, 88, 88A, 159, 159A (Bus stop before CTE) | |
 | **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | |
 
 <br>
