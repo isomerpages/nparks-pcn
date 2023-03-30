@@ -48,9 +48,9 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Lornie Park Connector starts at Sime Road and runs along Lornie Road before ending at Reservoir Road |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
-| **Bus Service** | Insert Text | |
+| **Length of Park Connector** | 1.76 km   |  |
+| **Accessibility** | Wheelchair accessible | |
+| **Bus Service** | Bus Stop No: 51111 (Bus 52, 74, 93, 157, 165, 852, 855) and Bus Stop No: 51119 (Bus: 52, 74, 93, 157, 165, 852, 855) | |
 | **Get Directions** | Insert OneMap Link [click here] | |
 
 <br>
