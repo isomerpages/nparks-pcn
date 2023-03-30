@@ -42,7 +42,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Serangoon Park Connector starts at&nbsp;Tampines Road&nbsp;and runs along&nbsp;Hougang Ave 7 and Buangkok Drive&nbsp;before ending at&nbsp;the junction of Sengkang East Road and Buangkok Green. |  |
-| **Length of Park Connector** | 4.01 km   |  |
+| **Length of Park Connector** | 4.2 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 50, 72, 88, 88A, 159, 159A (Bus stop before CTE) | |
 | **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | |
