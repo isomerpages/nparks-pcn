@@ -7,7 +7,7 @@ description: ""
 
 ## Serangoon PC
 
-[Para 1] Ang Mo Kio Ave 5 Park Connector starts at the junction of Ang Mo Kio Ave 5 and Ang Mo Kio Ave 6, and ends at Yio Chu Kang Road. It stretches along Ang Mo Kio Ave 5 passing through various educational institutions such as Anderson Junior College, Nanyang Polytechnic and Ang Mo Kio ITE College. Through this park connector, you are linked to Buangkok estate and further northeast towards Punggol Park, Punggol Waterway Park and Punggol Point Park, located along the scenic North Eastern Riverine Loop. <br>
+[Para 1] Running along Serangoon Reservoir and Sg Pinang, the Serangoon Park Connector is a popular recreational corridor amongst residents living in the vicinity. An established route to Punggol Park, it joins directly to Sungei Serangoon Park Connector via a footbridge across Sg Pinang. Nature lovers will delight in the high biodiversity found here, including the Grey Heron, Little Egret, and conspicuous Collared and White-throated Kingfisher. <br>
 
 
 <br>
@@ -41,7 +41,7 @@ description: ""
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Ang Mo Kio Ave 5 Park Connector starts at cross junction of Ang Mo Kio Ave 6 and Ang Mo Kio Ave 5 and runs along Ang Mo Kio Ave 5 before ending at Yio Chu Kang Road |  |
+| **Location** | Serangoon Park Connector starts at&nbsp;Tampines Road&nbsp;and runs along&nbsp;Hougang Ave 7 and Buangkok Drive&nbsp;before ending at&nbsp;the junction of Sengkang East Road and Buangkok Green. |  |
 | **Length of Park Connector** | 4.01 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 50, 72, 88, 88A, 159, 159A (Bus stop before CTE) | |
