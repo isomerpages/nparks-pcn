@@ -44,8 +44,8 @@ description: ""
 | **Location** | Serangoon Park Connector starts at&nbsp;Tampines Road&nbsp;and runs along&nbsp;Hougang Ave 7 and Buangkok Drive&nbsp;before ending at&nbsp;the junction of Sengkang East Road and Buangkok Green. |  |
 | **Length of Park Connector** | 4.2 km   |  |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | 50, 72, 88, 88A, 159, 159A (Bus stop before CTE) | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | |
+| **Bus Service** | 80, 82, 87, 88, 89, 89e, 119 (Bus stop at Blk 458) | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3783499603028648&amp;lng=103.89660624357508] | |
 
 <br>
 <br>
@@ -56,4 +56,4 @@ description: ""
 | -------- | -------- | -------- |
 | **"1.  [Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc)"** | | |
 | **"1.  [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)"** | | |
-| **"1.  [Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west)"** | | |
+| **"1.  1.  [Sungei Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)(https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west)"** | | |
