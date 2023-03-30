@@ -42,10 +42,10 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Ang Mo Kio Park Connector starts at Ang Mo Kio Ave 1 and runs along Ang Mo Kio Ave 6 before ending at Ang Mo Kio St 12 |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Length of Park Connector** | 1.08 km   |  |
+| **Accessibility** | Wheelchair accessible | |
+| **Bus Service** | 13, 86, 138, 138A, 138B, 162, 162M, 851, 851e, 852, 853, 853M (Bus stop opp Courts AMK) | |
+| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995 [click here] | Directions** | Insert OneMap Link [click here] | |
 
 <br>
 <br>
