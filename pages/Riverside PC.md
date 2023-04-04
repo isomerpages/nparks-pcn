@@ -3,47 +3,25 @@ title: Riverside PC
 permalink: /permalink/
 description: ""
 ---
+[Insert a good image that best represent the PC]
+
 ## Riverside Park Connector
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
+For visitors&nbsp;coming from Woodlands (Ave 2) Park Connector, Riverside Park Connector leads them onwards along the periphery of [Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park), bringing them to the western entrance of the park.
 
-<br>
+Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the largest number of slides in any park Singapore. Those looking for quiet respite may opt to retreat to the nature area of Admiralty Park and check out the mangrove boardwalk.
+ 
 
-[Insert 2nd image]
 
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
 
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
-
-#### Points of interest
-
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
-
-<br>
-<br>
-<br>
-
+	
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Location** | Riverside&nbsp;PC starts at Woodlands Ave 9 and runs along Riverside Road before ending at Admiralty Park West Entrance (along Riverside Road). |  |
+| **Length of Park Connector** | 0.45km |  |
+| **Lighting Hours** | 7pm-7am ||
+| **Accessibility** | Wheel-chair friendly | |
 
 <br>
 <br>
@@ -52,6 +30,6 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Admiralty Park** | | |
+| **Woodlands Waterfront Park** | | |
+| **Woodlands PC** | | |
