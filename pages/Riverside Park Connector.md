@@ -20,7 +20,7 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 | -------- | -------- | -------- |
 | **Location** | Riverside&nbsp;PC starts at Woodlands Ave 9 and runs along Riverside Road before ending at Admiralty Park West Entrance (along Riverside Road). |  |
 | **Length of Park Connector** | 0.45km |  |
-| **Lighting Hours** | 7pm-7am ||
+| **Lighting Hours** | 7.00pm-7.00am ||
 | **Accessibility** | Wheel-chair friendly | |
 | **Get Directions** |  [click here]((https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) | |
 
