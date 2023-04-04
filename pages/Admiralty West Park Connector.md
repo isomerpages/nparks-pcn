@@ -24,7 +24,7 @@ The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to 
 <br>
 <br>	
 
-#### Nearby Parks &amp; Park Connectors
+#### Nearby Parks/ Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
 | **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
