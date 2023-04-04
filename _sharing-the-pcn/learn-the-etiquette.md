@@ -2,7 +2,7 @@
 title: Learn the etiquette
 permalink: /sharing-the-pcn/lte/
 ---
-###   Promoting Graciousness on our PCN!
+##   Promoting Graciousness on our PCN!
 
 Since 2021, we have been working with various partners to promote the spirit of graciousness and kindness on our Park Connector Network.
 
@@ -14,14 +14,30 @@ We have also installed over 300 PCN etiquette banners islandwide and published a
 
 We hope all users will stay gracious and courteous, and keep a look out for our PCN etiquette messages when you are on our Park Connector Network!
 
-|  |  |  |
-| -------- | -------- | -------- |
-| **PCN Etiquette Banners**     | Photos with tagged location     | Text     |
-| **PCN Kindness Ambassadors**     | Photos    | Text     |
-| **PCN Etiquette Article with The Smart Local**   | Link to article     | Text     |
-| **PCN Etiquette Standees**     | Photos    | Text     |
+<br>
 
-**Collaborations with Event Organisers to promote PCN Etiquette** 
+| **PCN Etiquette Banners**  |  |  |
+| -------- | -------- | -------- |
+|  ![](/images/etiquette%20banner%20prp2.jpeg)   |  |  |
+|  ![](/images/etiquette%20banner%20otter.jpeg)  |  |  |
+
+<br>
+
+|  **PCN Kindness Ambassadors**  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/pcn%20kindness%20ambassadors.jpeg)  |   |  |
+| ![](/images/pcn%20kindness%20ambassadors%20mbg.jpeg)  |   |  |
+
+<br>
+
+| **PCN Etiquette Article with The Smart Local** |  |  |
+| -------- | -------- | -------- |
+|  ![](/images/tsl%20article.jpeg)  | [Click here to read the article!](https://thesmartlocal.com/read/park-connectors-singapore/)    |  |
+
+<br>
+
+| **Collaborations with Event Organisers to promote PCN Etiquette**  |  |  |
+| -------- | -------- | -------- |
 * Singapore Kindness Movement
 * Togoparts
 * RidenJoy
@@ -29,9 +45,12 @@ We hope all users will stay gracious and courteous, and keep a look out for our 
 |  |  |  |
 | -------- | -------- | -------- |
 
+## Follow the PCN Signs!
+
+
 To facilitate a pleasant and safe experience, you may also see the following signage on the PCN. We seek the cooperation of all users to abide by these signs below:
-
-
+<br>
+<br>
 
 | What to do | Sign | |
 | -------- | -------- | -------- |
