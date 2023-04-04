@@ -29,4 +29,4 @@ Cutting through Innova Junior College and the Singapore Sports School, the Woodl
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Woodlands (SLE) Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-sle-pc)** | | |
+| **Woodlands (SLE) Park Connector** | | |
