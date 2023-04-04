@@ -22,7 +22,7 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 | **Length of Park Connector** | 0.45km |  |
 | **Lighting Hours** | 7pm-7am ||
 | **Accessibility** | Wheel-chair friendly | |
-| **Get Directions** | [undefined](https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) [click here] | |
+| **Get Directions** |  [click here]((https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) | |
 
 <br>
 <br>
@@ -31,6 +31,6 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **Admiralty Park** | | |
-| **Woodlands Waterfront Park** | | |
-| **Woodlands PC** | | |
+| **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
+| **[Woodlands Waterfront Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/woodlands-waterfront-park)** | | |
+| **[Woodlands (SLE) PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-pc)** | | |
