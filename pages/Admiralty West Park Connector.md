@@ -16,7 +16,7 @@ The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to 
 | -------- | -------- | -------- |
 | **Location** | Admiralty West Park Connector starts at&nbsp;Woodlands Ave 7&nbsp;and runs along&nbsp;Woodlands Ave 4 and Admiralty Road West&nbsp;before ending at&nbsp;Admiralty Road West (Woodlands Waterfront). |  |
 | **Length of Park Connector** | 1.3 km  |  |
-| **Lighting Hours** | 7pm-7am | |
+| **Lighting Hours** | 7.00pm-7.00am | |
 | **Accessibility** | Wheelchair friendly | |
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.451413505476151&amp;lng=103.78081130114434) | |
 
