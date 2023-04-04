@@ -8,5 +8,7 @@ links:
     collection: sharing-the-pcn
   - title: Whats Happening
     collection: whats-happening
+  - title: Notices
+    url: /notices
   - title: Contact Us
     url: /contact-us/
