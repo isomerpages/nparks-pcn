@@ -28,7 +28,7 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 <br>
 <br>	
 
-#### Nearby Park Connectors
+#### Nearby Parks/Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
 | **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
