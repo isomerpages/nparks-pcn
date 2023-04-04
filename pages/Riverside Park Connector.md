@@ -33,4 +33,4 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 | -------- | -------- | -------- |
 | **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
 | **[Woodlands Waterfront Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/woodlands-waterfront-park)** | | |
-| **[Woodlands (SLE) PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-pc)** | | |
+| **Woodlands (SLE) PC** | | |
