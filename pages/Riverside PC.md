@@ -22,6 +22,7 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 | **Length of Park Connector** | 0.45km |  |
 | **Lighting Hours** | 7pm-7am ||
 | **Accessibility** | Wheel-chair friendly | |
+| **Get Directions** | [undefined](https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) [click here] | |
 
 <br>
 <br>
