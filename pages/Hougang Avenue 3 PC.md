@@ -15,9 +15,9 @@ The 4.4-kilometre Hougang Ave 3 Park Connector is the final piece to the Central
 | -------- | -------- | -------- |
 | **Location** |Hougang Avenue 3 Park Connector&nbsp;runs along&nbsp;Hougang Avenue 3&nbsp;before ending at&nbsp;Airport Road. |  |
 | **Length of Park Connector** | 4.4 km   |  |
-| **Accessibility** | Insert Text | |
+| **Lighting Hours** | 7.00pm - 7.00am | |
 | **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | [Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3339658397083116&amp;lng=103.88930236992194) | |
 
 <br>
 <br>
