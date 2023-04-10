@@ -22,6 +22,10 @@ We hope all users will stay gracious and courteous, and keep a look out for our 
 |  ![](/images/etiquette%20banner%20otter.jpeg)  |  |  |
 
 <br>
+Download the map to view the locations of these banners:
+[](/files/pcn%20etiquette%20banner%20map_update%203%20apr-compressed.pdf)
+<br>
+<br>
 
 |  **PCN Kindness Ambassadors**  |  |  |
 | -------- | -------- | -------- |
