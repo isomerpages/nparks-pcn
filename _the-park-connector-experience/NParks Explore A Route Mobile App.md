@@ -3,7 +3,7 @@ title: NParks Explore A Route Mobile App
 permalink: /the-pcn-experience/NEAR/
 description: ""
 ---
-## NParks Explore A Route (NEAR) Mobile App
+## NParks Explore A Route&nbsp;(NEAR) Mobile App
 
 The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented reality (AR)-enabled mobile application, designed to complement the C2C Trail, the Round Island Route (RIR), as well as the Park Connector Network (PCN) for an interactive curated walking experience island-wide.
 
@@ -33,19 +33,14 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 
 ---
 
-New year, new you! It’s never too late to get started on your new year’s resolution to be active!
 
-Kickstart your fitness goals and join our NEAR New Year Challenge! Simply download the upgraded NParks Explore A Route (NEAR) mobile app from either the App Store or Google Play from 30 December 2022 onwards. Complete all 20 challenges and stand a chance to win Fitbit Sense 2 and Fitbit Inspire 2 smartwatches to keep you going throughout the year!
+This challenge is organised in partnership with Explore a Route SG. Find out more about their Coast-to-Coast Challenge and stand a chance to win attractive prizes sponsored by Asics and more!&nbsp;[https://www.instagram.com/explorearoute\_sg/](https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI)
 
-![How to Participate](/images/New%20Year%20Challenge%20How%20to%20Participate_crop.png)
+**Event FAQ and T&amp;Cs**
 
-This challenge is organised in partnership with Explore a Route SG. Find out more about their Coast-to-Coast Challenge and stand a chance to win attractive prizes sponsored by Asics and more! [https://www.instagram.com/explorearoute\_sg/](https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI)
-
-**Event FAQ and T&Cs**
-
-| FAQ       | T&Cs | |
+| FAQ       | T&amp;Cs | |
 | -------- | -------- | -------- |
-| [Click to download FAQ](/files/FAQs%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     | [Click to download T&Cs](/files/TC%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     |   |
+| [Click to download FAQ](/files/FAQs%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     | [Click to download T&amp;Cs](/files/TC%20-%20NEAR%20New%20Year%20Challenge%2016%20Dec%202022%20to%2031%20Jan%202023.pdf)     |   |
 
 
 **Download links for the NEAR Mobile App:**
