@@ -19,6 +19,3 @@ You can choose to explore the Trail on your own using the NParks Explore a Route
 ![NEAR App](/images/Cover%20Image.png)
 **[Click here to download the NEAR mobile app](https://near.nparks.gov.sg/)**
 
-
-
-The **[NEAR New Year Challenge](https://pcn.nparks.gov.sg/do-more/news)** is now on from 30 December to 12 February. Participate in the Challenge and stand to win Fitbit Sense 2 and Fitbit Inspire 2 smartwatches to keep you going throughout the year! Read on for more information.
