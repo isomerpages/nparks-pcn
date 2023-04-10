@@ -18,3 +18,4 @@ You can choose to explore the Trail on your own using the NParks Explore a Route
 
 ![NEAR App](/images/Cover%20Image.png)
 **[Click here to download the NEAR mobile app](https://near.nparks.gov.sg/)**
+
