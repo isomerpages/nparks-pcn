@@ -24,11 +24,8 @@ description: ""
 
 [add a photo for POI 1]
 <br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
+**Bidadari Park**
+
 
 <br>
 <br>
