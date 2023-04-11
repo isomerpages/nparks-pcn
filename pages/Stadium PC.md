@@ -20,7 +20,7 @@ description: ""
 | **Length of Park Connector** | 0.4 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | Insert Text | |
-| **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.30483248834064&amp;lng=103.871751676618) | |
+| **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.3049642&amp;lng=103.8715965) | |
 
 <br>
 <br>
