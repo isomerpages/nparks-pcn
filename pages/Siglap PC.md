@@ -30,11 +30,11 @@ Insert Park Connector description <br>
 
 [add a photo for POI 1]
 <br>
-**Insert name of POI 1**
+**East Coast Park**
 <br>
 [add a photo for POI 2]
 <br>
-**Insert name of POI 2**
+**Telok Kurau Park**
 
 <br>
 <br>
