@@ -5,7 +5,7 @@ description: ""
 ---
 [Insert a good image that best represent the PC]
 
-## Name of Park Connector
+## Stadium PC
 
 [Para 1] Starting near Kallang Wave Mall, Stadium PC links Singapore Sports Hub to Kallang Riverside Park. Stadium PC also provides connectivity to key recreational and sports nodes such as&nbsp;National Youth Sports Institute and Kallang Water Sports Centre.
 
