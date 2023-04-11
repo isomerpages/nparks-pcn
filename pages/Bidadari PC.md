@@ -41,7 +41,7 @@ description: ""
 | **Length of Park Connector** | 0.68 km   |  |
 | **Accessibility** | Wheelchair accessible| |
 | **Bus Service** | 107, 107M | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3343052&amp;lng=103.8702714) | |
 
 <br>
 <br>
@@ -50,6 +50,5 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Potong Pasir PC** | | |
+|
