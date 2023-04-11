@@ -7,15 +7,9 @@ description: ""
 
 ## Bidadari Park Connector
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
+[Para 1] Bidadari Park Connectors connects 
 
 <br>
-
-[Insert 2nd image]
-
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
 
 <br>
 
