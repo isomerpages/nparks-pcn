@@ -7,7 +7,7 @@ description: ""
 
 ## Sims Avenue PC
 
-Sims Avenue Park Connector connects the cycling routes of the eastern parts of Singapore to the central area. It comes close to Geylang Park Connector which links to Tanjong Rhu Promenade, allowing visits to attractions such as Singapore Sports Hub and Gardens by the Bay. It also connects to Siglap Park Connector, which is connected to East Coast Park and Bedok Reservoir Park.
+[Para 1] Sims Avenue Park Connector connects the cycling routes of the eastern parts of Singapore to the central area. It comes close to Geylang Park Connector which links to Tanjong Rhu Promenade, allowing visits to attractions such as Singapore Sports Hub and Gardens by the Bay. It also connects to Siglap Park Connector, which is connected to East Coast Park and Bedok Reservoir Park.
 
 <br>
 <br>
