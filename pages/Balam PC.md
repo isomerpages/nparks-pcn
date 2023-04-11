@@ -8,42 +8,28 @@ description: ""
 Balam Park Connector
 ----------------------
 
-\Balam Park Connector starts near the junction of Merpati Road and Circuit Road, and ends at Paya Lebar Road. Winding through the housing estates of Circuit Road along Pelton Canal, Balam Park Connector serves as a recreational corridor for the nearby residents."
-
+\[Para 1\]  Balam Park Connector starts near the junction of Merpati Road and Circuit Road, and ends at Paya Lebar Road. Winding through the housing estates of Circuit Road along Pelton Canal, Balam Park Connector serves as a recreational corridor for the nearby residents."
+<br>
   
 
 \[Insert 2nd image\]
 
-\[Para 2\] Insert Park Connector description  
-"Test Page Park Connector is suitable for cycling.....etc"
-
+\[Para 2\] You can observe the beauty of the Rain Garden, a project by PUB, along the park connector and also enjoy a wide variety of local fare from the renowned Circuit Road Food Centre at Blk 79, which is located at the corner of Merpati Road and Circuit Road."
+<br>
   
-
-\[Insert 3rd image\]
-
-\[Para 3\] Insert Park Connector Description  
-"Look out for flora/fauna/art at....etc"
-
-#### Points of interest
-
-\[add a photo for POI 1\]  
-**Insert name of POI 1**  
-\[add a photo for POI 2\]  
-**Insert name of POI 2**
 
   
   
-  
-
+ 
 #### Park Connector Information
 
 |  |  |  |
 | --- | --- | --- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text |  |
-| **Accessibility** | Insert Text |  |
+| **Location** | Balam Park Connector starts at junction of Merpati Road and Circuit Road and runs along Pelton Canal before ending at Paya Lebar Road. |  |
+| **Length of Park Connector** | 1.2 km |  |
+| **Accessibility** | Wheelchair accessible |  |
 | **Bus Service** | Insert Text |  |
-| **Get Directions** | Insert OneMap Link \[click here\] |  |
+| **Get Directions** | [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3274150673363532&amp;lng=103.88499569710615)  |  |
 
   
   
