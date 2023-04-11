@@ -7,10 +7,8 @@ description: ""
 
 ## Siglap Park Connector
 
-[Para 1] Siglap Park Connector runs partly along Siglap Canal and beside several housing estates. It also interlinks the parks in the region such as Bedok Reservoir Park, Bedok Town Park, Telok Kurau Park and East Coast Park.
+Siglap Park Connector runs partly along Siglap Canal and beside several housing estates. It also interlinks the parks in the region such as Bedok Reservoir Park, Bedok Town Park, Telok Kurau Park and East Coast Park.
 
-Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
 
 <br>
 
