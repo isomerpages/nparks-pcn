@@ -23,8 +23,8 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 | **Location** |From Rower’s Bay to Piccadilly Circus |  |
 | **Length of Park Connector** | 4.6 km   |  |
 | **Accessibility** |Wheelchair accessible | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Bus Service** | 102, 103, 117, 117M (Before Baker Street) | |
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995)| |
 
 <br>
 <br>
@@ -33,6 +33,4 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **[Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)** | | |
