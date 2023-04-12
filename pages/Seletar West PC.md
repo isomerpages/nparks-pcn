@@ -3,7 +3,7 @@ title: Seletar West PC
 permalink: /seletarwestpc/
 description: ""
 ---
-![](/images/seletar%20west%20pc.jpg)
+
 
 ## Seletar West PC
 
