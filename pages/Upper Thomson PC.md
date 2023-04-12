@@ -3,36 +3,13 @@ title: Upper Thomson PC
 permalink: /upperthomsonpc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/upperthomsonpc.jpg)
 
 ## Upper Thomson PC
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
-
-<br>
-
-[Insert 2nd image]
-
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
-
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
-
-#### Points of interest
-
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
+Upper Thomson Park Connector (Ang Mo Kio 1 to Venus Drive) is situated along Upper Thomson Rd, abutting the edge of Ang Mo Kio estate and Lower Pierce Reservoir Park. Enjoy the forest sights and Upper Thomson Nature Way along the park connector – you may even spot interesting wildlife such as kingfishers or the oriental whip snake on the trees or bushes!&nbsp;  
+  
+This park connector brings you closer to the entrance of Central Catchment Nature Reserve via Windsor Nature Park and Venus Green. It also provides a link to Bishan-Ang Mo Kio Park, one of the largest urban parks in central Singapore. Towards the north, Upper Thomson Park Connector connects you to Thomson Nature Park via Old Upper Thomson Park Connector. 
 
 <br>
 <br>
@@ -41,11 +18,11 @@ description: ""
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Location** |Upper Thomson Park Connector starts at Ang Mo Kio Ave 1, runs along Upper Thomson Road before ending at Venus Drive. |  |
+| **Length of Park Connector** | 0.8 km   |  |
+| **Accessibility** | Wheelchair accessible | |
+| **Bus Service** | 163, 167, 169, 855, 980 (Bus stop before Adana @ Thomson) | |
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3676360762378668&amp;lng=103.82813670797135) | |
 
 <br>
 <br>
@@ -54,6 +31,6 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| ** [Old Upper Thomson PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc)** | | |
+| ** [Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bishan-ang-mo-kio-park)** | | |
+
