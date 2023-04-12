@@ -29,5 +29,5 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Bishan-Ang Mo Kio Park"** | | |
-| **"Ang Mo Kio Town Garden West"** | | |
+| **[Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park)** | | |
+| **[Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west)** | | |
