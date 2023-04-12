@@ -11,32 +11,7 @@ Seletar West Park Connector is part of the [Round Island Route (RIR)](https://ww
 
 At the Heritage Trees Node, visitors can enjoy a view of 3 heritage _Swietenia macrophylla_ trees. At the Jalan Kayu Guardhouse node, amenities include a shelter, drinking fountain, toilet and &nbsp;F&amp;B vending machines.
 
-Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park, East Coast Park and other park connectors via the Round Island Route! Click&nbsp;[here](https://www.nparks.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB254FFA8-868F-4CED-9A7E-AA05AC86603D%7d%40en)&nbsp;to read more. <br>
-"Running through residential areas and schools....etc"
-
-<br>
-
-[Insert 2nd image]
-
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
-
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
-
-#### Points of interest
-
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
+Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park, East Coast Park and other park connectors via the Round Island Route! Click&nbsp;[here](https://www.nparks.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB254FFA8-868F-4CED-9A7E-AA05AC86603D%7d%40en)&nbsp;to read more. 
 
 <br>
 <br>
@@ -46,7 +21,7 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
+| **Length of Park Connector** | 4.6 km   |  |
 | **Accessibility** | Insert Text | |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | Insert OneMap Link [click here] | |
