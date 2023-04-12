@@ -31,4 +31,4 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Seletar West PC"** | | |
+| **Seletar West PC** | | |
