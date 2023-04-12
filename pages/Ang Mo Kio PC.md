@@ -9,9 +9,9 @@ description: ""
 
 [Para 1] Ang Mo Kio Park Connector runs from the cross junction of Ang Mo Kio Ave 1 and Marymount Road, along Ang Mo Kio Ave 6 before ending at Ang Mo Kio Town Garden West. It passes through the Ang Mo Kio heartlands to connect residents to Bishan-Ang Mo Kio Park and Ang Mo Kio Town Garden West.
 
-
 <br>
-
+<br>
+<br>
 
 #### Park Connector Information
 |  |  |  |
