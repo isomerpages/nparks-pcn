@@ -45,7 +45,7 @@ description: ""
 | **Length of Park Connector** | 1.08 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 13, 86, 138, 138A, 138B, 162, 162M, 851, 851e, 852, 853, 853M (Bus stop opp Courts AMK) | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.3718537353892077&amp;lng=103.8451446650041 [click here] | 
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3718537353892077&amp;lng=103.8451446650041) | 
 
 <br>
 <br>
