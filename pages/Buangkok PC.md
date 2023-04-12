@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/buangkokpc.png)
 
-## Name of Park Connector
+## Buangkok PC
 
 Running along residential estates, this 1.5 km park connector is popular with a variety of users, including commuters to jogging enthusiasts. It connects to Punggol Park via the Serangoon Park Connector. 
 
@@ -29,6 +29,4 @@ Running along residential estates, this 1.5 km park connector is popular with a 
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **  [Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc)** | | |
