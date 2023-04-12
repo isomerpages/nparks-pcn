@@ -26,7 +26,7 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 | **Length of Park Connector** | 1.76 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 157, 165 (Bus stop after Adam Dr) | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.335516142801053&amp;lng=103.81825221714945 [click here] | |
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.335516142801053&amp;lng=103.81825221714945) | |
 
 <br>
 <br>
