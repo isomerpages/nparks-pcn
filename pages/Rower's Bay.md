@@ -22,7 +22,7 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 | **Length of Park Connector** | 0.8 km   |  |
 | **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 103, 117, 117M (Bus stop opp JTC Aviation Two | |
-| **Get Directions** | https://www.onemap.gov.sg/main/v2/?lat=1.4218848&amp;lng=103.8635461 [click here] | |
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.4218848&amp;lng=103.8635461) | |
 
 <br>
 <br>
