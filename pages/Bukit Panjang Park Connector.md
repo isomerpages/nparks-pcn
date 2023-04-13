@@ -27,6 +27,3 @@ The Bukit Panjang Park Connector is part of the Western Adventure Loop, linking 
 |   |  |  |
 | -------- | -------- | -------- |
 | **Pang Sua Park Connector** | | |
-
-
-
