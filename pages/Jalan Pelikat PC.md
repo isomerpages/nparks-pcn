@@ -15,7 +15,6 @@ Jalan Pelikat Park Connector stretches from Kampong Sireh to Hougang Ave 3, conn
 | -------- | -------- | -------- |
 | **Location** | Jalan Pelikat Park Connector starts at Kg Sireh runs along Jalan Pelikat and Hougang Street 22 before ending at Hougang Ave 3. |  |
 | **Length of Park Connector** | 1.49 km  |  |
-| **Opening Hours** | 24 hours daily | |
 | **Accessibility** | Wheelchair accessible| |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | Insert OneMap Link [click here] | |
