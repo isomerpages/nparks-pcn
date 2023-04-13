@@ -30,5 +30,3 @@ Pang Sua Park Connector forms part of the Western Adventure Loop, linking variou
 | -------- | -------- | -------- |
 | **Bukit Panjang Park Connector** | | |
 | **Choa Chu Kang North Park Connector** | | |
-
-
