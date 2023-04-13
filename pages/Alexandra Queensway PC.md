@@ -3,8 +3,6 @@ title: Alexandra Queensway PC
 permalink: /permalink/
 description: ""
 ---
-
-
 ![](/images/alexqueensway.JPG)
 
 ## Alexandra-Queensway PC
@@ -35,8 +33,3 @@ Alexandra-Queensway Park Connector connects the established Alexandra Canal Line
 | -------- | -------- | -------- |
 | **Alexandra Canal Linear Park** | | |
 | **Alexandra Garden Trail** | | |
-
-
-
-
-
