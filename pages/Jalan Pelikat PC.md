@@ -17,7 +17,7 @@ Jalan Pelikat Park Connector stretches from Kampong Sireh to Hougang Ave 3, conn
 | **Length of Park Connector** | 1.49 km  |  |
 | **Accessibility** | Wheelchair accessible| |
 | **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Get Directions** |[Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3532795026846272&amp;lng=103.879805999239) | |
 
 <br>
 <br>
@@ -26,6 +26,4 @@ Jalan Pelikat Park Connector stretches from Kampong Sireh to Hougang Ave 3, conn
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Hougang Avenue 3 PC** | | |
