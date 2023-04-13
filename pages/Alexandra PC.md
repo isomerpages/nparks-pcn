@@ -3,8 +3,6 @@ title: Alexandra PC
 permalink: /permalink/
 description: ""
 ---
-
-
 ![](/images/alexpc1.JPG)
 
 ## Alexandra PC
@@ -24,15 +22,6 @@ Visitors using the Park Connector can stop by Valley Point Shopping Centre, whic
 
 Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food Centre at the end of the Park Connector. Kim Seng Promenade is yet another option, located behind Great World City Shopping Centre.
 
-#### Points of interest
-
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
 
 <br>
 <br>
@@ -44,8 +33,8 @@ Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food 
 | **Location** | Alexandra Park Connector starts at&nbsp;<u>Tanglin Road</u>&nbsp;and runs along <u>Alexandra Canal </u>&nbsp;before ending at&nbsp;<u>Zion Road</u>. |  |
 | **Length of Park Connector** | 1.7km   |  |
 | **Accessibility** | Alexandra Park Connector (From Tanglin Road to Delta Road stretch) not accessible to inline-skaters | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Bus Service** | 51&nbsp; 122 &nbsp;139&nbsp; 186&nbsp; 970 | |
+| **Get Directions** |  [[click here](http://www.onemap.gov.sg/main/v2/?lat=1.29192170028253&amp;lng=103.824739666941)] | |
 
 <br>
 <br>
@@ -56,7 +45,3 @@ Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food 
 | -------- | -------- | -------- |
 | **Alexandra Canal Linear Park** | | |
 | **Henderson PC** | | |
-
-
-
-
