@@ -48,6 +48,7 @@ Opening Hours:
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Tampines PC** | | |
+| **Siglap PC** | | |
+| **Simei PC** | | |
+| **[East Coast Park](www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park)** | | |
