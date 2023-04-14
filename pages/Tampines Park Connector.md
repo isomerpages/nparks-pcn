@@ -26,6 +26,10 @@ Address: 45 Pasir Ris Drive 3, Singapore 519500<br>
 Opening Hours: 9am - 9pm (Daily)
 
 <br>
+
+#### Notices
+1. A section of Tampines Park Connector along Pasir Ris Town Park and Pasir Ris Drive 1 will be closed for LTA consturction works. Please use alternative routes along Block 424 or Block 534 Pasir Ris Drive 1.
+
 <br>
 <br>
 
@@ -38,6 +42,7 @@ Opening Hours: 9am - 9pm (Daily)
 | **Bus Service** |4, 8, 15, 15A, 19, 27, 27A, 28, 29, 29A, 37, 38, 81, 129, 168, 291, 291T, 293, 293T, 298 (Blk 401 (76191) bus stop)| |
 | **Get Directions** | [Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3569440536588102&amp;lng=103.94423868766883)| |
 
+
 <br>
 <br>
 <br>	
@@ -45,6 +50,6 @@ Opening Hours: 9am - 9pm (Daily)
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Simei PC** | | |
+| **[Sun Plaza Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sun-plaza-park)** | | |
+| **Pasir Ris PC** | | |
