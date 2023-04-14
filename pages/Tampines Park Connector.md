@@ -35,7 +35,7 @@ Opening Hours: 9am - 9pm (Daily)
 | **Location** | Tampines Park Connector starts at Bedok Reservoir Road and runs along Tampines Avenue 1, Tampines Avenue 2, Tampines Ave 4, along Tampines Ave 9 and across the TPE overhead bridges, Pasir Ris Drive 1 before it ends at Pasir Ris Drive 3. |  |
 | **Length of Park Connector** | 7.0 km |  |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | Insert Text | |
+| **Bus Service** |4, 8, 15, 15A, 19, 27, 27A, 28, 29, 29A, 37, 38, 81, 129, 168, 291, 291T, 293, 293T, 298 (Blk 401 (76191) bus stop)| |
 | **Get Directions** | [Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3569440536588102&amp;lng=103.94423868766883)| |
 
 <br>
