@@ -3,7 +3,7 @@ title: Jalan Pelikat PC
 permalink: /jalan-pelikat-pc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/jalan%20pelikat%20pc.JPG)
 
 ## Jalan Pelikat PC
 
