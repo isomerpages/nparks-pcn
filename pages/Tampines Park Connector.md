@@ -13,7 +13,7 @@ The Tampines Park Connector also runs under the viaduct of Tampines and Simei MR
 
 <br>
 
-#### Points of interest
+#### Park Connector Network Pit Stop
 
 **1. Sun Plaza Park**<br>
 Address: 30 Tampines Avenue 7, Singapore 529621<br>
