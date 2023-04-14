@@ -3,7 +3,7 @@ title: Siglap PC
 permalink: /siglappc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/siglap%20pc%2010.JPG)
 
 ## Siglap Park Connector
 
