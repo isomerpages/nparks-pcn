@@ -19,7 +19,7 @@ The 4.4-kilometre Hougang Ave 3 Park Connector is the final piece to the Central
 | -------- | -------- | -------- |
 | **Location**   | Hougang Avenue 3 Park Connector runs along Hougang Avenue 3 before ending at Airport Road.     |  
 |**Length of Park Connector**| 4.4 km  |
-**Bus Service** |90, 90A, 93, 151| |
+**Bus Service** |90, 90A, 93, 151 (Aft Paya Lebar Rd (71011) bus stop)| |
 | **Get Directions** | [Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3339658397083116&amp;lng=103.88930236992194) | |
 
 
