@@ -29,6 +29,5 @@ Tampines-Loyang Park Connector stretches along the roads within Tampines Housing
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Loyang PC** | | |
+| **Pasir Ris PC** | | |
