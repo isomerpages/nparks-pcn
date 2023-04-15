@@ -22,7 +22,7 @@ This park connector also joins Punggol Waterway and passes Anchorvale Community 
 | **Length of Park Connector** | 6.1 km   |  |
 | **Accessibility** |Wheelchair accessible | |
 | **Bus Service** | 43, 43M, 88, 156, 660 (Bus stop after Blk 968)
-| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3718537353892077&amp;lng=103.8451446650041) | 
+| **Get Directions** |  [undefined](https://www.onemap.gov.sg/main/v2/?lat=1.3791259111453638&amp;lng=103.87628580387666)
 
 <br>
 <br>
