@@ -31,6 +31,5 @@ This park connector brings you closer to the entrance of Central Catchment Natur
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| ** [Old Upper Thomson PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc)** | | |
-| ** [Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bishan-ang-mo-kio-park)** | | |
-
+| [Old Upper Thomson PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc) | | |
+| [Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bishan-ang-mo-kio-park) | | |
