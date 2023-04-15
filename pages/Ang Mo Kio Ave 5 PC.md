@@ -29,6 +29,6 @@ Ang Mo Kio Ave 5 Park Connector starts at the junction of Ang Mo Kio Ave 5 and A
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| [Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc) | | |
+|[Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc)| | |
 | [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)| | |
 | [Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west)| | |
