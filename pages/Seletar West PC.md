@@ -33,4 +33,4 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)** | | |
+| [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)| | |
