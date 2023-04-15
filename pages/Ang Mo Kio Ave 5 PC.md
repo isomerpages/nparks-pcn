@@ -7,7 +7,7 @@ description: ""
 
 ## Ang Mo Kio Ave 5 PC
 
-[Para 1] Ang Mo Kio Ave 5 Park Connector starts at the junction of Ang Mo Kio Ave 5 and Ang Mo Kio Ave 6, and ends at Yio Chu Kang Road. It stretches along Ang Mo Kio Ave 5 passing through various educational institutions such as Anderson Junior College, Nanyang Polytechnic and Ang Mo Kio ITE College. Through this park connector, you are linked to Buangkok estate and further northeast towards Punggol Park, Punggol Waterway Park and Punggol Point Park, located along the scenic North Eastern Riverine Loop. 
+Ang Mo Kio Ave 5 Park Connector starts at the junction of Ang Mo Kio Ave 5 and Ang Mo Kio Ave 6, and ends at Yio Chu Kang Road. It stretches along Ang Mo Kio Ave 5 passing through various educational institutions such as Anderson Junior College, Nanyang Polytechnic and Ang Mo Kio ITE College. Through this park connector, you are linked to Buangkok estate and further northeast towards Punggol Park, Punggol Waterway Park and Punggol Point Park, located along the scenic North Eastern Riverine Loop. 
 
 <br>
 <br>
