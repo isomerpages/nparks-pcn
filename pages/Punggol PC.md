@@ -3,7 +3,7 @@ title: Punggol PC
 permalink: /punggolpc/
 description: ""
 ---
-![](/images/punggolpc.jpg)
+![](/images/punggolpc1.jpg)
 
 ## Punggol PC
 
