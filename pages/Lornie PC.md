@@ -35,6 +35,6 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **  [Kheam Hock Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park)** | | |
-| ** [Central Catchment Nature Reserve](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve)** | | |
-| **  [Adam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc)** | | |
+|  [Kheam Hock Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park) | | |
+|  [Central Catchment Nature Reserve](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve) | | |
+| [Adam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc)| | |
