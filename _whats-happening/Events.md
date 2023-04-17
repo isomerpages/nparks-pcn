@@ -12,16 +12,16 @@ description: ""
 
 
 **Registration period:**
-<br>Sat, Apr 1, 2023 -&nbsp; Sun, May 7, 2023
+<br>Sat, Apr 1, 2023 - Sun, May 7, 2023
 
   
-Click here to find out more [https://events.togoparts.com/togoeco2023/](https://events.togoparts.com/togoeco2023/)**
+Click here to find out more [https://events.togoparts.com/togoeco2023/](https://events.togoparts.com/togoeco2023/)
 
 
 **Challenge period:**
 <br>Friday, April 21, 2023 -&nbsp; Sun, May 21, 2023
 
-**Distance:**&nbsp;
+**Distance:**
 <br>
 Finisher Distance 53 km
 <br>
