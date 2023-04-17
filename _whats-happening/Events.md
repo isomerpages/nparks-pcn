@@ -3,6 +3,8 @@ title: Events
 permalink: /do-more/events/
 description: ""
 ---
+![](/images/togoeco%20event.png)
+
 ## #TOGOECO2023 from Zero to Hero
 **Green Virtual Ride and Run Challenge**
 
@@ -48,6 +50,7 @@ So, what are you waiting for? Join us in the #TOGOECO2023 challenge and let's ma
 Check our website and register now! [https://events.togoparts.com/togoeco2023/](https://events.togoparts.com/togoeco2023/)
 
 
+![](/images/togoeco%20participants.png)
 
 
 ---
