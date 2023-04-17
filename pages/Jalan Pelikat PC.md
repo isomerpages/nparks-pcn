@@ -3,49 +3,21 @@ title: Jalan Pelikat PC
 permalink: /jalan-pelikat-pc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/jalan%20pelikat%20pc.JPG)
 
-## Name of Park Connector
+## Jalan Pelikat PC
 
-[Para 1] Insert Park Connector description <br>
-"Running through residential areas and schools....etc"
+Jalan Pelikat Park Connector stretches from Kampong Sireh to Hougang Ave 3, connecting Upper Serangoon to Hougang. It serves as a recreation/exercise area for both private and public residential areas in between the two estates.
 
-<br>
-
-[Insert 2nd image]
-
-[Para 2] Insert Park Connector description <br>
-"Test Page Park Connector is suitable for cycling.....etc"
-
-<br>
-
-[Insert 3rd image]
-
-[Para 3] Insert Park Connector Description <br>
-"Look out for flora/fauna/art at....etc"
-
-#### Points of interest
-
-[add a photo for POI 1]
-<br>
-**Insert name of POI 1**
-<br>
-[add a photo for POI 2]
-<br>
-**Insert name of POI 2**
-
-<br>
-<br>
-<br>
 
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | Insert Text   |  |
-| **Accessibility** | Insert Text | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Location** | Jalan Pelikat Park Connector starts at Kg Sireh runs along Jalan Pelikat and Hougang Street 22 before ending at Hougang Ave 3. |  |
+| **Length of Park Connector** | 1.49 km  |  |
+| **Accessibility** | Wheelchair accessible| |
+| **Bus Service** | 53, 53M, 62, 113, 113A (Opp Yuying Sec Sch (63279) bus stop) | |
+| **Get Directions** |[Click here](https://www.onemap.gov.sg/main/v2/?lat=1.3532795026846272&amp;lng=103.879805999239) | |
 
 <br>
 <br>
@@ -54,6 +26,4 @@ description: ""
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Hougang Avenue 3 PC** | | |
