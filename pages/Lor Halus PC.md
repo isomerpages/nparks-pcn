@@ -17,10 +17,10 @@ Park users can have the opportunity to admire the scenic view of the Serangoon R
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Near Lorong Halus Wetland Centre and along Pasir Ris Farmway 3 |  |
-| **Length of Park Connector** | 2.1 km   |  |
+| **Length of Park Connector** | 3.0 km   |  |
 | **Accessibility** | Wheelchair friendly | |
-| **Bus Service** | 62 (alight at bus stop 67509, Opp Blk 119A) | |
-| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3958498&amp;lng=103.9231861) | |
+| **Bus Service** | 58, 88, 359 and 518. Alight at Bus Stop 77269 (Opp Block 717) | |
+| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3836869&amp;lng=103.9358944) | |
 
 <br>
 <br>
@@ -29,5 +29,6 @@ Park users can have the opportunity to admire the scenic view of the Serangoon R
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **Serangoon PC** | | |
+| **Punggol Promenade Riverside Walk** | | |
+|**Punggol Waterway** | | |
 |
