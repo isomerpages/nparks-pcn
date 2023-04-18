@@ -5,11 +5,11 @@ description: ""
 ---
 [Insert a good image that best represent the PC]
 
-## Punggol Promenade Riverside Walk
+## Punggol Promenade Nature Walk
 
 Linking Punggol Point to Punggol East, Punggol Promenade is a waterfront recreational destination for residents in this region and provides access to the rustic northeastern coastline. Consisting of three thematic zones – Riverside Walk, Nature Walk and Punggol Point Walk – every segment of the Punggol Promenade is unique and offers a variety of recreational experiences.
 
-The lookout points along Punggol Promenade Riverside Walk allow visitors to get closer to the adjacent Serangoon Reservoir. There is even a cluster of food and beverage outlets at Tebing Lane, located adjacent to the Riverside Walk.
+Visit this 2.4 km Nature Walk, the middle section of Punggol Promenade that lies between Punggol Point Walk and Riverside Walk. This area also features a number of fishing platforms and rest shelters along its meandering track - spots that are perfect for a quiet respite and for one to take in the scenic views. 
 
 
 
@@ -20,7 +20,7 @@ The lookout points along Punggol Promenade Riverside Walk allow visitors to get 
 | **Length of Park Connector** | 1.2 km   |  |
 | **Accessibility** | Wheelchair friendly | |
 | **Bus Service** | 3, 50, 83, 85, 381, 666. Alight at Bus Stop 65239 (Riviera Stn Exit A) | |
-| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3937636&amp;lng=103.9184064) | |
+| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4018079&amp;lng=103.9245272) | |
 
 <br>
 <br>
