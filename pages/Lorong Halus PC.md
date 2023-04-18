@@ -5,7 +5,7 @@ description: ""
 ---
 [Insert a good image that best represent the PC]
 
-## Lor Halus PC
+## Lorong Halus PC
 
 The 3-kilometer Lorong Halus Park Connector connects the estates of Pasir Ris and Punggol, and runs through the Pasir Ris Farmway which may bring back your nostalgic memories of the nearby old pet and fish farms. It also serves as the green corridor link between Pasir Ris Park and Coney Island Park, bringing park users to explore the rusticity of the eastern side of Singapore. 
 
