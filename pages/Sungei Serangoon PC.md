@@ -22,7 +22,7 @@ Bioswales are shallow vegetated troughs or depressions with bio-retention system
 | **Location** | Sungei Serangoon Park Connector starts at the junction of Sengkang East Drive and Buangkok Drive and runs along Sengkang East Drive  before ending at Punggol East |  |
 | **Length of Park Connector** | 2.1 km   |  |
 | **Accessibility** | Wheelchair friendly | |
-| **Bus Service** | 62 (alight at Opp Blk 119A) | |
+| **Bus Service** | 62 (alight at bus stop 67509, Opp Blk 119A) | |
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.383585&amp;lng=103.9043945) | |
 
 <br>
