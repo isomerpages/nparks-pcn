@@ -3,11 +3,9 @@ title: Sungei Serangoon PC
 permalink: /sspc/
 description: ""
 ---
-
-
 [Insert a good image that best represent the PC]
 
-## Name of Park Connector
+## Sungei Serangoon PC
 
 [Para 1] Insert Park Connector description <br>
 "Running through residential areas and schools....etc"
@@ -59,7 +57,3 @@ description: ""
 | **"Insert name of PCN 1"** | | |
 | **"insert name of PCN 2"** | | |
 | **"Insert name of PCN 3"** | | |
-
-
-
-
