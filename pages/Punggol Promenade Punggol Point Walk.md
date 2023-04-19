@@ -7,7 +7,7 @@ description: ""
 
 ## Punggol Promenade Punggol Point Walk
 
-Begin your seaside stroll at Punggol Point Park. Once a popular seafood haunt, the site adjacent to&nbsp;Punggol Jetty has now been transformed into an idyllic waterfront destination. While much of the Punggol coastline used to&nbsp;be inaccessible to the public, today’s Punggol Promenade Punggol Point Walk allows you to enjoy the greenery and biodiversity flourishing along the&nbsp;sea.  
+Begin your seaside stroll at Punggol Point Park. Once a popular seafood haunt, the site adjacent to Punggol Jetty has now been transformed into an idyllic waterfront destination. While much of the Punggol coastline used to&nbsp;be inaccessible to the public, today’s Punggol Promenade Punggol Point Walk allows you to enjoy the greenery and biodiversity flourishing along the&nbsp;sea.  
   
 With lookout decks, a sand-filled playground and an event plaza, the park allows you to soak in the laidback coastal atmosphere and take in views of Pulau Ubin and the Johor Straits on a ship-inspired,&nbsp;elevated viewing deck.  
   
