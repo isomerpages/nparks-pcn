@@ -3,7 +3,7 @@ title: Punggol Promenade Nature Walk
 permalink: /ppnw/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![image of park connector]()
 
 ## Punggol Promenade Nature Walk
 
