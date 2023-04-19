@@ -3,7 +3,7 @@ title: Punggol Promenade Riverside Walk
 permalink: /pprw/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/pprw_1.jpg)
 
 ## Punggol Promenade Riverside Walk
 
