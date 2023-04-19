@@ -19,8 +19,8 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 | **Location** | Located at the end of Punggol Rd, near Punggol Jetty |  |
 | **Length of Park Connector** | 1.3 km   |  |
 | **Accessibility** | Wheelchair friendly | |
-| **Bus Service** | 3, 50, 83, 85, 381, 666. Alight at Bus Stop 65239 (Riviera Stn Exit A) | |
-| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3937636&amp;lng=103.9184064) | |
+| **Bus Service** | 84. Alight at Bus Stop 65139 (Punggol Rd End) | |
+| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4214357&amp;lng=103.9107513) | |
 
 <br>
 <br>
@@ -29,8 +29,6 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-|**Lorong Halus PC** | | |
+|**Punggol PC** | | |
 | **Punggol Promenade Nature Walk** | | |
-|**Punggol Waterway** | | |
-|**Sungei Serangoon PC** | | |
 |
