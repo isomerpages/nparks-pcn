@@ -30,5 +30,6 @@ Bioswales are shallow vegetated troughs or depressions with bio-retention system
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
+| **Punggol Promenade Riverside Walk** | | |
 | **Serangoon PC** | | |
 |
