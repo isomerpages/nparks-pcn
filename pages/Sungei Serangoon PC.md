@@ -3,14 +3,12 @@ title: Sungei Serangoon PC
 permalink: /sspc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/sspc_1.jpg)
 
 ## Sungei Serangoon PC
 
 
 Forming a crucial link from Punggol Park to Punggol Promenade via Serangoon Park Connector (along Sungei Pinang), the Sungei Serangoon Park Connector provides residents with seamless connectivity to both parks. With its aesthetically pleasing bioswales, it is a favourite destination for residents living in the North-East.
-
-[Insert 2nd image]
 
 Bioswales are shallow vegetated troughs or depressions with bio-retention systems installed at the base, and are designed to treat storm water effectively with their gently sloped sides, preventing erosion. Combined with short-term retention of water, the bioswales enable efficient infiltration of surface water and act as an excellent flood control measure.
 
