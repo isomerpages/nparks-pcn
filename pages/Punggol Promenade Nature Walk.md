@@ -16,10 +16,9 @@ Visit this 2.4 km Nature Walk, the middle section of Punggol Promenade that lies
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Near Tebing Lane and Pasir Ris Industrial Drive 1 |  |
-| **Length of Park Connector** | 1.2 km   |  |
+| **Location** | You can access Punggol Promenade Nature Walk via the nearby park connectors. |  |
+| **Length of Park Connector** | 2.4 km   |  |
 | **Accessibility** | Wheelchair friendly | |
-| **Bus Service** | 3, 50, 83, 85, 381, 666. Alight at Bus Stop 65239 (Riviera Stn Exit A) | |
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4018079&amp;lng=103.9245272) | |
 
 <br>
