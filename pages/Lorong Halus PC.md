@@ -3,7 +3,7 @@ title: Lorong Halus PC
 permalink: /lhpc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/lorhalus_1.jpg)
 
 ## Lorong Halus PC
 
