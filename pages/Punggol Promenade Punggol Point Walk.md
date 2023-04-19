@@ -3,7 +3,7 @@ title: Punggol Promenade Punggol Point Walk
 permalink: /ppppw/
 description: ""
 ---
-![](/images/pprw_1.jpg)
+![](/images/ppppw_1.jpg)
 
 ## Punggol Promenade Punggol Point Walk
 
@@ -17,7 +17,7 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Located at the end of Punggol Rd, near Punggol Jetty |  |
-| **Length of Park Connector** | 1.2 km   |  |
+| **Length of Park Connector** | 1.3 km   |  |
 | **Accessibility** | Wheelchair friendly | |
 | **Bus Service** | 3, 50, 83, 85, 381, 666. Alight at Bus Stop 65239 (Riviera Stn Exit A) | |
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3937636&amp;lng=103.9184064) | |
