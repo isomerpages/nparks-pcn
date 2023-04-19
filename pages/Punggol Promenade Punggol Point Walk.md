@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/pprw_1.jpg)
 
-## Punggol Promenade Riverside Walk
+## Punggol Promenade Punggol Point Walk
 
 Begin your seaside stroll at Punggol Point Park. Once a popular seafood haunt, the site adjacent to&nbsp;Punggol Jetty has now been transformed into an idyllic waterfront destination. While much of the Punggol coastline used to&nbsp;be inaccessible to the public, today’s Punggol Promenade Punggol Point Walk allows you to enjoy the greenery and biodiversity flourishing along the&nbsp;sea.  
   
@@ -16,7 +16,7 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 #### Park Connector Information
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Near Tebing Lane and Pasir Ris Industrial Drive 1 |  |
+| **Location** | Located at the end of Punggol Rd, near Punggol Jetty |  |
 | **Length of Park Connector** | 1.2 km   |  |
 | **Accessibility** | Wheelchair friendly | |
 | **Bus Service** | 3, 50, 83, 85, 381, 666. Alight at Bus Stop 65239 (Riviera Stn Exit A) | |
@@ -34,4 +34,3 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 |**Punggol Waterway** | | |
 |**Sungei Serangoon PC** | | |
 |
-
