@@ -29,8 +29,7 @@ Visit this 2.4 km Nature Walk, the middle section of Punggol Promenade that lies
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-|**Lorong Halus PC** | | |
-| **Punggol Promenade Nature Walk** | | |
+| **Punggol Promenade Punggol Point Walk** | | |
+|**Punggol Promenade Riverside Walk** | | |
 |**Punggol Waterway** | | |
-|**Sungei Serangoon PC** | | |
 |
