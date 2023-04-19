@@ -20,7 +20,7 @@ Park users can have the opportunity to admire the scenic view of the Serangoon R
 | **Length of Park Connector** | 3.0 km   |  |
 | **Accessibility** | Wheelchair friendly | |
 | **Bus Service** | 58, 88, 359 and 518. Alight at Bus Stop 77269 (Opp Block 717) | |
-| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3836869&amp;lng=103.9358944) | |
+| **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3836922&amp;lng=103.9359641) | |
 
 <br>
 <br>
