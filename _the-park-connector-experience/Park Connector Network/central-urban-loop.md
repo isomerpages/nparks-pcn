@@ -1,6 +1,6 @@
 ---
 title: Central Urban Loop
-permalink: /the-pcn-experience/cul
+permalink: /the-pcn-experience/cul/
 third_nav_title: Park Connector Network
 ---
 

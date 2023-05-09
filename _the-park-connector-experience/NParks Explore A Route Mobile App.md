@@ -1,6 +1,6 @@
 ---
 title: NParks Explore A Route Mobile App
-permalink: /the-pcn-experience/NEAR/
+permalink: /the-pcn-experience/near/
 description: ""
 ---
 ## NParks Explore A Route&nbsp;(NEAR) Mobile App
