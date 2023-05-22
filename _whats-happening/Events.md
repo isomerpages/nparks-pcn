@@ -3,6 +3,8 @@ title: Events
 permalink: /do-more/events/
 description: ""
 ---
+---
+
 ![](/images/togoeco%20event.png)
 
 ## #TOGOECO2023 from Zero to Hero
