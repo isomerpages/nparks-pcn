@@ -1,6 +1,6 @@
 ---
 title: Check out the network!
-permalink: /the-pcn-experience/pcnloops
+permalink: /the-pcn-experience/pcnloops/
 third_nav_title: Park Connector Network
 ---
 

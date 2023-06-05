@@ -1,6 +1,6 @@
 ---
 title: Western Adventure Loop
-permalink: /the-pcn-experience/wal
+permalink: /the-pcn-experience/wal/
 third_nav_title: Park Connector Network
 ---
 

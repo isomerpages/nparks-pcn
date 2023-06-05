@@ -1,6 +1,6 @@
 ---
 title: Northern Explorer Loop
-permalink: /the-pcn-experience/nel
+permalink: /the-pcn-experience/nel/
 third_nav_title: Park Connector Network
 ---
 

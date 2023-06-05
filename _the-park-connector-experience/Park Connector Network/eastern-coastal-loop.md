@@ -1,6 +1,6 @@
 ---
 title: Eastern Coastal Loop
-permalink: /the-pcn-experience/ecl
+permalink: /the-pcn-experience/ecl/
 third_nav_title: Park Connector Network
 ---
 

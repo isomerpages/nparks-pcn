@@ -1,6 +1,6 @@
 ---
 title: Know Our Recreational Connectivity
-permalink: /aboutrecreationalconnectivity
+permalink: /aboutrecreationalconnectivity/
 description: ""
 ---
 
