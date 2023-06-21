@@ -5,7 +5,8 @@ description: ""
 ---
 ## PCN Kindness Campaign
 ##### 24 June 2023 to 30 July 2023
-![NEAR PCN Kindness Event]()
+![NEAR PCN Kindness Event](/images/login%20screen.png)
+
 We're excited to partner with Singapore Kindness Movement (SKM) once again for the Park Connector Network (PCN) Kindness Campaign 2023 – join us in spreading kindness and positivity on our park connectors! 😊  
   
 For the launch on 24th June, come say ‘hello’ to the SKM Kindness Cubbies mascots from 9.30am to 11.30am, at Punggol Waterway! Psst – you might even get a nice SKM goodie bag if the Cubbies see you displaying acts of kindness!
@@ -14,11 +15,12 @@ This year’s campaign will feature our first ever PCN thematic trail along Pung
 
 Help us spread the positivity while you’re there! Snap and upload pics with at least two of the SKM Kindness Cubbies installations in a Facebook/Instagram post, and share with us in the captions an act of kindness that you’ve seen or experienced on our park connectors. Remember to tag 5 friends, include the hashtag #pcnkindness and make your post public. 10 lucky winners stand to win grocery vouchers worth $50 each! ✌🏻
 
+![NEAR How to participate PCN Kindness](/images/near_how%20to%20participate.png)
+
 You may use our NParks Explore A Route (NEAR) mobile app to locate the SKM Kindness Cubbies installations along Punggol Waterway.
 
 🔗Download our NEAR mobile app here - [https://near.nparks.gov.sg/](https://near.nparks.gov.sg/)
 
-![NEAR How to Participate PCN Kindness Trail]()
 
 Let's make our park connectors a better place for all, one act of kindness at a time.
 
