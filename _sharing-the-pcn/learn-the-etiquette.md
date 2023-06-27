@@ -6,7 +6,7 @@ permalink: /sharing-the-pcn/lte/
 
 Since 2021, we have been working with various partners to promote the spirit of graciousness and kindness on our Park Connector Network.
 
-Some of the key PCN etiquette behaviours we hope users can inculcate is to keep a ‘Look Out’ for other PCN users, ‘Give Way’ to slower users and at cross junctions, ‘Slowing Down’ when approaching attention zones and ‘Keeping Left’ when out on the Park Connectors.
+To make it pleasant and safe experience for all on the PCN, we encourage all users to keep a 'look out' for others, 'give way' to slower users and at cross junctions, 'slow down' when approaching attention zones and 'keep left' when using the Park Connectors.
 
 As part of our PCN Etiquette Campaign, we collaborated with Singapore Kindness Movement (SKM) to launch our inaugural PCN Kindness Campaign in 2022.
 
