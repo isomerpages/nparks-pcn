@@ -6,7 +6,7 @@ permalink: /sharing-the-pcn/lte/
 
 Since 2021, we have been working with various partners to promote the spirit of graciousness and kindness on our Park Connector Network.
 
-To make it pleasant and safe experience for all on the PCN, we encourage all users to keep a 'look out' for others, 'give way' to slower users and at cross junctions, 'slow down' when approaching attention zones and 'keep left' when using the Park Connectors.
+To make it a pleasant and safe experience for all on the PCN, we encourage all users to keep a 'look out' for others, 'give way' to slower users and at cross junctions, 'slow down' when approaching attention zones and 'keep left' when using the Park Connectors.
 
 As part of our PCN Etiquette Campaign, we collaborated with Singapore Kindness Movement (SKM) to launch our inaugural PCN Kindness Campaign in 2022.
 
@@ -22,7 +22,7 @@ We hope all users will stay gracious and courteous, and keep a look out for our 
 |  ![](/images/etiquette%20banner%20otter.jpeg)  |  |  |
 
 <br>
-Download the map to view the locations of these banners:
+Download the map to view the locations of these banners island-wide:
 [](/files/pcn%20etiquette%20banner%20map_update%203%20apr-compressed.pdf)
 <br>
 <br>
@@ -52,7 +52,7 @@ Download the map to view the locations of these banners:
 ## Follow the PCN Signs!
 
 
-To facilitate a pleasant and safe experience, you may also see the following signage on the PCN. We seek the cooperation of all users to abide by these signs below:
+To facilitate a pleasant and safe experience for all, we strongly encourage all users to observe and abide by the following signs:
 <br>
 <br>
 
