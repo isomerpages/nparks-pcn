@@ -5,7 +5,7 @@ description: PCN public engagements
 ---
 ## Pilot PCN Typology
 
-Thank you for your interest! The survey below is closed and we are reviewing the feedback received.
+
 
 
 ![PCN Pilot Typology poster](/images/Poster_PCNPilotTypologySurvey.png)
