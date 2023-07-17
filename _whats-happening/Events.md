@@ -18,8 +18,7 @@ You may also use our NParks Explore A Route (NEAR) mobile app to locate the SKM 
 
 🔗Download our NEAR mobile app here - [https://near.nparks.gov.sg/](https://near.nparks.gov.sg/)
 
-![NEAR How to participate PCN Kindness](/images/near_how%20to%20participate%20(updated).png)
-
+![How to participate](/images/skm%2012%20july@2x.png)
 
 
 Let's make our park connectors a better place for all, one act of kindness at a time.
