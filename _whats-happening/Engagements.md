@@ -3,6 +3,26 @@ title: Engagements
 permalink: /whats-happening/engagements/
 description: PCN public engagements
 ---
+## North-South Corridor
+
+![rochor_sungei road](/images/rochor_sungei%20road%20v1.jpg)
+
+The 21.5km North-South Corridor (NSC) is a multi-modal transportation corridor that will enhance connectivity from the northern region to the city, serving towns such as Sembawang, Yishun, Ang Mo Kio, Toa Payoh, Novena and Rochor.
+
+The NSC also forms part of the 34 km Central Corridor, which is one of the island-wide recreational routes that NParks is curating to enable Singaporeans to be immersed in greenery and have more opportunities to explore our island and its green spaces. The Central Corridor is a key spine that will link recreational users to the Round-Island-Route, Coast-to Coast Trails and various other parks and park connectors.
+
+The Land Transport Authority (LTA) and National Parks Board (NParks) will be seeking public views on how the surface streets that will be freed up with the NSC can be enhanced further for accessibility, greenery, and recreational use by pedestrians, cyclists, commuters, and local communities.
+
+#### Let’s Co-create the NSC together!
+
+To garner views and ideas for designing these accessibility, recreational features and amenities for community spaces, LTA and NParks will co-organise a series of public engagement workshops in various regions across the corridor over a period of about six months from July 2023.
+
+Register your interest for the workshops and share your thoughts with us by [clicking on the survey link below.](https://go.gov.sg/registration-nsc-visioning-workshop)
+
+[https://go.gov.sg/registration-nsc-visioning-workshop](https://go.gov.sg/registration-nsc-visioning-workshop)
+
+-----
+
 ## Pilot PCN Typology
 
 
