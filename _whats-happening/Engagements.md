@@ -27,10 +27,6 @@ Register your interest for the workshops and share your thoughts with us by [cl
 
 
 
-
-![PCN Pilot Typology poster](/images/Poster_PCNPilotTypologySurvey.png)
-
-
 ------
 
 To better enhance the user experience along our Park Connector Network, we are piloting a revised park connector typology that will segregate paths into **pedestrians-only paths** and **shared paths** on selected stretches that are sufficiently wide and used primarily for recreation, such as along canals and coastal routes.
@@ -49,4 +45,9 @@ To better enhance the user experience along our Park Connector Network, we are p
 
 We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
 
-Please click on this [FormSG survey link](https://form.gov.sg/63b64b75009b500012c0895d) to share your feedback on the revised typology. Survey findings will help in our ongoing review of the PCN typology.
+##### The survey below has been closed. Thank you for your participation!
+
+
+
+![PCN Pilot Typology poster](/images/Poster_PCNPilotTypologySurvey.png)
+
