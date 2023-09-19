@@ -3,7 +3,7 @@ title: Ang Mo Kio PC
 permalink: /angmokiopc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+![](/images/ang%20mo%20kio%20park%20connector.jpg)
 
 ## Ang Mo Kio PC
 
