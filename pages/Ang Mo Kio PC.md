@@ -3,7 +3,7 @@ title: Ang Mo Kio PC
 permalink: /angmokiopc/
 description: ""
 ---
-![](/images/ang%20mo%20kio%20park%20connector.jpg)
+![](/images/ang%20mo%20kio%20ave%208%20park%20connector.jpg)
 
 ## Ang Mo Kio PC
 
