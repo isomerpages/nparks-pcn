@@ -2,7 +2,6 @@ collections:
   the-park-connector-experience:
     output: true
     order:
-      - Punggol Promenade Nature Walk.md
       - Park Connector Network/.keep
       - Park Connector Network/check-out-the-network.md
       - Park Connector Network/central-urban-loop.md
