@@ -13,6 +13,7 @@ Its lush greenery and proximity to well-established parks make it a great place 
 The Bukit Panjang Park Connector is part of the Western Adventure Loop, linking various park connectors and nature reserves.
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Bukit Panjang Park Connector starts at&nbsp;Saujana Rd.&nbsp;It&nbsp;runs along the estates of Bukit Panjang, passing by&nbsp;Bukit Panjang Ring Rd and Segar Rd&nbsp;before ending right at the entrance of&nbsp;Zhenghua Park&nbsp;at BLK 476A. |  |
@@ -21,10 +22,9 @@ The Bukit Panjang Park Connector is part of the Western Adventure Loop, linking 
 | **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.3807087504648567&amp;lng=103.76683395570714) | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Parks/Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Pang Sua Park Connector** | | |
