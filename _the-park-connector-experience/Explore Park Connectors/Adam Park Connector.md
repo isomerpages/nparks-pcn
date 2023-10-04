@@ -13,6 +13,7 @@ Adam Park Connector starts for Kheam Hock Park, a cozy respite nestled within th
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Adam Park Connector starts at Kheam Hock Park and runs along the Pan Island Expressway and Adam Road, ending at Adam Food Centre. |  |
