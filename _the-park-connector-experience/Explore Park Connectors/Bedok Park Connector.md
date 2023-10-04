@@ -16,22 +16,19 @@ A new stretch of Bedok PC, near NEWater, has been partially completed. It is con
 
 #### Park Connector Network Pit Stop:
 
-East Coast Park Area G1
-
-Address: 1490 East Coast Parkway
-
+East Coast Park Area G1 <br>
+Address: 1490 East Coast Parkway <br> 
 Opening Hours:
 
 *   9am - 6pm (Monday - Friday)
 *   9am - 9pm (Saturday and Public Holidays)
 *   9am - 8pm (Sunday)
-*  
+
+
 
 #### Notices
 1. Bedok Park Connector between Laguna88 to Upper East Coast Road (marked in black) will be closed for Thomson East Coast mrt line work by LTA. Expected completion date is Dec 2024.
 2. Bedok Park Connector between Eastwood Park Playground to Bedok Junction (marked in red) will be closed for ABC water work by PUB. Expected completion date is 2nd Quarter 2023. Click here for more information.
-<br>
-<br>
 <br>
 
 #### Park Connector Information
