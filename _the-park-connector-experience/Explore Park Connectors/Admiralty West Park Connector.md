@@ -6,11 +6,14 @@ third_nav_title: Explore Park Connectors
 ---
 ## Admiralty West Park Connector
 
+![Admiralty West PC](/images/Admiralty%20West%20PC.jpeg)
+
 The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to Woodlands Waterfront. Visitors can stop by the resting area to admire the beauty of the surroundings or get close to nature at the nearby butterfly garden.
 
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Admiralty West Park Connector starts at&nbsp;Woodlands Ave 7&nbsp;and runs along&nbsp;Woodlands Ave 4 and Admiralty Road West&nbsp;before ending at&nbsp;Admiralty Road West (Woodlands Waterfront). |  |
@@ -20,10 +23,10 @@ The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to 
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.451413505476151&amp;lng=103.78081130114434) | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Parks/ Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
