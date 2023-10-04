@@ -11,10 +11,10 @@ third_nav_title: Explore Park Connectors
 Running along residential estates, this 1.5 km park connector is popular with a variety of users, including commuters to jogging enthusiasts. It connects to Punggol Park via the Serangoon Park Connector. 
 
 <br>
-<br>
-<br>
+
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Buangkok Park Connector starts at the junction of Yio Chu Kang Road / Buangkok Green and runs along Buangkok Green before ending at Sengkang East Road |  |
@@ -28,6 +28,7 @@ Running along residential estates, this 1.5 km park connector is popular with a 
 <br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 |  [Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc)| | |
