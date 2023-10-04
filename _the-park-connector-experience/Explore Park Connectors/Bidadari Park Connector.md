@@ -4,11 +4,11 @@ permalink: /bidadari-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-[Insert a good image that best represent the PC]
+
 
 ## Bidadari Park Connector
 
-[Para 1] Bidadari Park Connector is a 4m wide path serving as a recreational connectivity into the upcoming Bidadari Park, with unique features such as Alkaff Lake, Heritage Walk, Woodlands Core and the Memorial Garde. The greenery route enriched with biodiversity also connects one of the five nature ways to the main park.
+Bidadari Park Connector is a 4m wide path serving as a recreational connectivity into the upcoming Bidadari Park, with unique features such as Alkaff Lake, Heritage Walk, Woodlands Core and the Memorial Garde. The greenery route enriched with biodiversity also connects one of the five nature ways to the main park.
 
 <br>
 
@@ -21,9 +21,6 @@ third_nav_title: Explore Park Connectors
 <br>
 **Bidadari Park**
 
-
-<br>
-<br>
 <br>
 
 #### Park Connector Information
