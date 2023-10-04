@@ -4,23 +4,13 @@ permalink: /balam-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-\[Insert a good image that best represent the PC\]
+## Balam Park Connector
 
-Balam Park Connector
-----------------------
 
-\[Para 1\]  Balam Park Connector starts near the junction of Merpati Road and Circuit Road, and ends at Paya Lebar Road. Winding through the housing estates of Circuit Road along Pelton Canal, Balam Park Connector serves as a recreational corridor for the nearby residents."
+Balam Park Connector starts near the junction of Merpati Road and Circuit Road, and ends at Paya Lebar Road. Winding through the housing estates of Circuit Road along Pelton Canal, Balam Park Connector serves as a recreational corridor for the nearby residents.
+
+You can observe the beauty of the Rain Garden, a project by PUB, along the park connector and also enjoy a wide variety of local fare from the renowned Circuit Road Food Centre at Blk 79, which is located at the corner of Merpati Road and Circuit Road.
 <br>
-  
-
-\[Insert 2nd image\]
-
-\[Para 2\] You can observe the beauty of the Rain Garden, a project by PUB, along the park connector and also enjoy a wide variety of local fare from the renowned Circuit Road Food Centre at Blk 79, which is located at the corner of Merpati Road and Circuit Road."
-<br>
-  
-
-  
-  
  
 #### Park Connector Information
 
@@ -42,5 +32,3 @@ Balam Park Connector
 | --- | --- | --- |
 | **"Paya Lebar PC"** |  |  |
 | **"Pelton Canal PC"** |  |  |
-
-Save
