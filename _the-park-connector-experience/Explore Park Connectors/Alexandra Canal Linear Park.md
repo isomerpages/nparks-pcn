@@ -21,6 +21,7 @@ Besides offering seamless connectivity, Alexandra Canal Linear Park features a v
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Alexandra Canal Linear Park starts at Commonwealth Ave and runs along Strathmore and Dawson Estate before ending at Tanglin Road.|  |
@@ -29,10 +30,9 @@ Besides offering seamless connectivity, Alexandra Canal Linear Park features a v
 | **Get Directions** |  [[click here](http://www.onemap.gov.sg/main/v2/?lat=1.2949066965831&amp;lng=103.810160155933)] | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **"Alexandra PC"** | | |
