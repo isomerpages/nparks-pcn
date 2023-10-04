@@ -13,11 +13,8 @@ Alexandra-Queensway Park Connector connects the established Alexandra Canal Line
 <br>
 
 
-<br>
-<br>
-<br>
-
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Alexandra Queensway Park Connector starts at Commonwealth Avenue and ends at Alexandra Road via Queensway |  |
@@ -26,10 +23,9 @@ Alexandra-Queensway Park Connector connects the established Alexandra Canal Line
 | **Get Directions** |  [[click here](http://www.onemap.gov.sg/main/v2/?lat=1.28905628706321&amp;lng=103.802664634817)] | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Alexandra Canal Linear Park** | | |
