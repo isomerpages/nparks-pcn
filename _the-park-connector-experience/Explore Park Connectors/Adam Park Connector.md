@@ -29,4 +29,4 @@ Adam Park Connector starts for Kheam Hock Park, a cozy respite nestled within th
 
 |   |  |  |
 | -------- | -------- | -------- |
-| [**Kheam Hock Park**](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park)|  | |
+| **Kheam Hock Park** | [Click here to visit](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park) | |
