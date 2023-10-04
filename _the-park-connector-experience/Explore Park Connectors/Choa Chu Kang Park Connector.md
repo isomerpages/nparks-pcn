@@ -4,7 +4,7 @@ permalink: /choa-chu-kang-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-[Insert a good image that best represent the PC]
+
 
 ## Choa Chu Kang Park Connector
 
@@ -17,6 +17,7 @@ After a fulfilling workout, visitors can stop by Choa Chu Kang Central to enjoy 
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Choa Chu Kang Park Connector starts at&nbsp;Choa Chu Kang Drive.&nbsp; It&nbsp;runs along&nbsp;Choa Chu Kang Ave 4, Ave 1, Ave 3, Brickland Rd&nbsp;and ends at&nbsp;Bukit Batok West Ave 5. |  |
@@ -26,10 +27,9 @@ After a fulfilling workout, visitors can stop by Choa Chu Kang Central to enjoy 
 | **Get Directions** | [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3581561202879793&amp;lng=103.7515811810391) | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Parks/Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Choa Chu Kang North Park Connector** | | |
