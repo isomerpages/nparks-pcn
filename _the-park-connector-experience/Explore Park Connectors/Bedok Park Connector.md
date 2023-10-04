@@ -35,6 +35,7 @@ Opening Hours:
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Bedok Park Connector starts at Bedok Reservoir Park and runs across the PIE, Upper Changi Road, Upper Changi Road East, Bedok junction before ending at East Coast Park Area G. |  |
@@ -47,6 +48,7 @@ Opening Hours:
 <br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Tampines PC** | | |
