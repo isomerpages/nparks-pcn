@@ -6,10 +6,10 @@ third_nav_title: Explore Park Connectors
 ---
 ## Adam Park Connector
 
+<br>
+
 Adam Park Connector starts for Kheam Hock Park, a cozy respite nestled within the Kheam Hock residential estate along Kheam Hock Road. The park connector leads visitors past the Pan Island Expressway and along Adam Road towards Adam Food Centre, where visitors may stop for local favourite dishes.
 
-<br>
-<br>
 <br>
 
 #### Park Connector Information
