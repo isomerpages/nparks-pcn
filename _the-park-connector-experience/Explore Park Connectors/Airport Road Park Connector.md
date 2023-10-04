@@ -10,10 +10,8 @@ third_nav_title: Explore Park Connectors
 
 Starting after Paya Lebar PC, Airport Road PC is part of the Central Urban Loop (CUL) and connects Macpherson area to Hougang Ave 3 PC. Park users are brought through Tai Seng industrial area.
 
+<br>
 
-<br>
-<br>
-<br>
 
 #### Park Connector Information
 
@@ -34,4 +32,3 @@ Starting after Paya Lebar PC, Airport Road PC is part of the Central Urban Loop 
 | -------- | -------- | -------- |
 | **Paya Lebar PC** | | |
 | **Hougang Avenue 3 PC** | | |
-
