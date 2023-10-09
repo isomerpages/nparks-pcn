@@ -12,7 +12,7 @@ Starting at Bedok Reservoir Park near Jalan Lembah Bedok, Bedok Park Connector e
 
 A new stretch of Bedok PC, near NEWater, has been partially completed. It is connected to Bedok Ria Crescent Playground and the western bank of Bedok PC via a footbridge.
 
-<br>
+
 
 #### Park Connector Network Pit Stop:
 
