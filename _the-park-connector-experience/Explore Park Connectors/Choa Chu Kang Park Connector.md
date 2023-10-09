@@ -4,6 +4,8 @@ permalink: /choa-chu-kang-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
+
+
 ## Choa Chu Kang Park Connector
 
 The 5.4 km Choa Chu Kang Park Connector links Choa Chu Kang Park to Bukit Batok Town Park near Bukit Gombak MRT station via the heartlands of Choa Chu Kang neighbourhood.
