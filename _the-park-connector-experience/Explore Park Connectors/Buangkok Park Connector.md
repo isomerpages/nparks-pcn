@@ -24,8 +24,6 @@ Running along residential estates, this 1.5 km park connector is popular with a 
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995) | 
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
 
