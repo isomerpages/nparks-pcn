@@ -4,7 +4,7 @@ permalink: /choa-chu-kang-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-
+![Choa Chu Kang Park Connector](/images/chua%20chu%20kang%20pc.jfif)
 
 ## Choa Chu Kang Park Connector
 
