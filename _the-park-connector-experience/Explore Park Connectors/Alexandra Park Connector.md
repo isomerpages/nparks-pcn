@@ -31,12 +31,11 @@ Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food 
 | **Location** | Alexandra Park Connector starts at&nbsp;<u>Tanglin Road</u>&nbsp;and runs along <u>Alexandra Canal </u>&nbsp;before ending at&nbsp;<u>Zion Road</u>. |  |
 | **Length of Park Connector** | 1.7km   |  |
 | **Accessibility** | Alexandra Park Connector (From Tanglin Road to Delta Road stretch) not accessible to inline-skaters | |
-| **Bus Service** | 51&nbsp; 122 &nbsp;139&nbsp; 186&nbsp; 970 | |
+| **Bus Service** | 51, 122, 139, 186, 970 | |
 | **Get Directions** |  [[click here](http://www.onemap.gov.sg/main/v2/?lat=1.29192170028253&amp;lng=103.824739666941)] | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
 
