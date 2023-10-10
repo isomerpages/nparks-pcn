@@ -4,8 +4,6 @@ permalink: /the-park-connector-experience/explore-park-connectors/canberra-semba
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-
-
 ## Canberra-Sembawang Park Connector
 
 <br>
