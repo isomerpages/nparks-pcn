@@ -13,6 +13,7 @@ The Woodlands (Street 13) Park Connector runs along the road reserve and passes 
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Woodlands (Street 13) Park Connector starts at&nbsp;junction of Woodlands Ave 5 and Woodlands Street 13&nbsp;and runs along&nbsp;Woodlands Street 13&nbsp;before ending at&nbsp;junction of Woodlands Centre Road and Marsiling Road. |  |
@@ -22,10 +23,9 @@ The Woodlands (Street 13) Park Connector runs along the road reserve and passes 
 | **Get Directions** | Insert OneMap Link [click here] | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Parks/Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Marsiling Park Connector** | | |
