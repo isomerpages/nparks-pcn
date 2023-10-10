@@ -4,6 +4,8 @@ permalink: /bukit-panjang-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
+![Bukit Panjang Park Connector](/images/bukit-panjang-park-connector.jpg)
+
 ## Bukit Panjang Park Connector
 
 The 1.4 km Bukit Panjang Park Connector links Zhenghua Park to Bukit Panjang Park via the heartlands of Bukit Panjang.
