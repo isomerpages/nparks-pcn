@@ -4,6 +4,8 @@ permalink: /ulu-pandan-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
+![Ulu Pandan Park Connector](/images/ulu%20pandan%202%20pc.jpg)
+
 ## Ulu Pandan Park Connector
 
 <br>
