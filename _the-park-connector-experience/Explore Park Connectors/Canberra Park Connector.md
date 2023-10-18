@@ -4,7 +4,6 @@ permalink: /canberra-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-
 ![Canberra Park Connector](/images/canberra%20pc.jfif)
 
 
@@ -21,7 +20,7 @@ Running under the MRT viaduct, the Canberra Park Connector provides a safe route
 | **Length of Park Connector** | 1.3 km |  |
 | **Lighting Hours** | 7.00pm-7.00am | |
 | **Accessibility** | Wheelchair friendly | |
-| **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.4473967825081155&amp;lng=103.81221273818157) | |
+| **Get Directions** | [Click here](https://www.onemap.gov.sg/v2/?lat=1.4475039&amp;lng=103.8129795) | |
 
 <br>
 
@@ -29,4 +28,7 @@ Running under the MRT viaduct, the Canberra Park Connector provides a safe route
 
 |   |  |  |
 | -------- | -------- | -------- |
+| **Bukit Canberra** | | |
+| **Woodlands Ave 7 Park Connector** | | |
+| **Canberra-Sembawang Park Connector** | | |
 | **Yishun Park Connector** | | |
