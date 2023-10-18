@@ -10,7 +10,6 @@ Running along Sungei Sembawang, the Sembawang Park Connector provides seamless c
   
 Cutting through the mangrove swamps, the park connector enables nearby residents to appreciate the beautiful scenery of the mangrove habitat right at their doorstep. Nature lovers can view water birds such as the Egrets and Kingfishers.
 
-Level and smooth, the Sembawang Park Connector is widely used by neighbouring schools for their routine 2.4 km runs.
 
 <br>
 <br>
@@ -33,3 +32,5 @@ Level and smooth, the Sembawang Park Connector is widely used by neighbouring sc
 |   |  |  |
 | -------- | -------- | -------- |
 | **Canberra Park Connector** | | |
+| **Woodlands (Ave 7) Park Connector** | | |
+| **Woodlands (Ave 12) Park Connector** | | |
