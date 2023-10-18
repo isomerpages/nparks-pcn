@@ -32,5 +32,7 @@ With “green-roof” shelters and drinking fountains placed along the park conn
 
 |   |  |  |
 | -------- | -------- | -------- |
-|[**Woodlands Ave 2 Park Connector**](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-2-park-connector) | | |
+|[**Woodlands (Ave 2) Park Connector**](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-2-park-connector) | | |
 | [**Woodlands (Ave 12) Park Connector**](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-ave-12-park-connector) | | |
+| **Ulu Sembawang Park Connector** | | |
+| **Woodlands Healing Garden**| | |
