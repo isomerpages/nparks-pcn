@@ -32,6 +32,7 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 
 
 #### Notices
+
 ##### **Closure of a section of Loyang PCN**
 **From Feb 2023 - 2028**
 
