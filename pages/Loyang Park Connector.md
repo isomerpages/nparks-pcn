@@ -3,7 +3,8 @@ title: Loyang Park Connector
 permalink: /loyang-pc/
 description: ""
 ---
-[Insert a good image that best represent the PC]
+
+![Loyang Park Connector](/images/loyang%20park%20connector.png)
 
 ## Loyang Park Connector
 
