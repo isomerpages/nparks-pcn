@@ -18,7 +18,7 @@ description: ""
 | **Location** | Insert Text |  |
 | **Length of Park Connector** | km   |  |
 | **Accessibility** | Wheelchair accesible | |
-| **Bus Service** | Insert Text | |
+| **Bus Service** | 35 | |
 | **Get Directions** | [click here] | |
 
 
