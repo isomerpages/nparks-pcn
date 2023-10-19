@@ -17,23 +17,9 @@ Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trai
 
 | **Alexandra Arch** | |  |
 | -------- | -------- | -------- |
-| ![Alexandra Arch](/images/2alexandra%20arch.jfif)   | |   |
-
-
-
-
+| ![Alexandra Arch](/images/2alexandra%20arch.jfif)  | | |
 
 <br>
-
-#### Nearby Park Connectors
-
-|   |  |  |
-| -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
-
-
 
 #### Park Connector Information
 
@@ -44,3 +30,10 @@ Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trai
 | **Accessibility** | Wheelchair Accessibility| |
 | **Bus Service** |  | |
 | **Get Directions** | [click here](https://www.onemap.gov.sg/v2/?lat=1.27709992068494&amp;lng=103.802697759967) | |
+
+
+#### Nearby Park
+
+|   |  |  |
+| -------- | -------- | -------- |
+| **HortPark** | | |
