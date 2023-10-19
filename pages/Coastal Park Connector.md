@@ -28,7 +28,7 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 | **Length of Park Connector** | 15.0 km  |  |
 | **Opening Hours** | 24 hours daily |  |
 | **Lighting Hours** | 7.00pm – 7.00am |  |
-| **Accessibility** | Insert Text | |
+| **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | Insert OneMap Link [click here] | |
 
