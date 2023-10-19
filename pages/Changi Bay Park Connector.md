@@ -15,11 +15,11 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Insert Text |  |
-| **Length of Park Connector** | km   |  |
-| **Accessibility** | Wheelchair accesible | |
+| **Location** | Along Aviation Road|  |
+| **Length of Park Connector** | 3.6km   |  |
+| **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | 35 | |
-| **Get Directions** | [click here] | |
+| **Get Directions** |[Click here](https://www.onemap.gov.sg/v2/?lat=1.3706926&amp;lng=104.005444) Bus stop ID 95161| |
 
 
 
