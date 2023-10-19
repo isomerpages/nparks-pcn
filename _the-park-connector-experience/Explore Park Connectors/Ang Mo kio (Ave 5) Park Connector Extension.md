@@ -4,7 +4,7 @@ permalink: /ang-mo-kio-ave-5-pc-extension/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-## Ang Mo Kio (Ave 5) Park Connector Extension
+## Ang Mo Kio Ave 5 Park Connector Extension
 
 
 The Ang Mo Kio (Ave 5) Park Connector Extension links the Ang Mo Kio Town Garden West to Old Upper Thomson Road Park Connector. 
