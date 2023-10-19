@@ -27,5 +27,5 @@ Running alongside the beautiful Central Catchment Nature Reserve, the 5-kilometr
 |   |  |  |
 | -------- | -------- | -------- |
 | **Khatib Bongsu Park Connector** |  |  |
-| **Mandai (Central Catchment) Park Connector** |  |  |
+| **Central Catchment Park Connector** |  |  |
 | **Ulu Sembawang Park Connector** |  |  |
