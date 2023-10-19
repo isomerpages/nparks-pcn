@@ -12,7 +12,7 @@ Coastal Park Connector starts from Changi Beach Park Car Park 7 and ends at East
 At the East Coast Park towards Coastal Park Connector next to Changi Coast Walk, you can take a leisurely stroll amidst the lush greenery whilst enjoying the cool sea breeze.
 
 The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/discover/changi-airport-connector.html](https://www.changiairport.com/en/discover/changi-airport-connector.html)) is a cycling and jogging path that features the Changi Jurassic Mile. It was opened by Changi Airport, and links the airport to East Coast Park and the Park Connector Network. <br>
-"Running through residential areas and schools....etc"
+
 
 <br>
 
