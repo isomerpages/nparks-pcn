@@ -19,7 +19,7 @@ The Ang Mo Kio (Ave 5) Park Connector Extension links the Ang Mo Kio Town Garden
 | **Length of Park Connector** | 2.2 km  |  |
 | **Lighting Hours** | 7.00pm-7.00am | |
 | **Accessibility** | Wheelchair friendly | |
-| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.451413505476151&amp;lng=103.78081130114434) | |
+| **Get Directions** |  [Click Here](https://www.onemap.gov.sg/?lat=1.3566279&amp;lng=103.8082477) | |
 
 <br>
 
@@ -30,5 +30,6 @@ The Ang Mo Kio (Ave 5) Park Connector Extension links the Ang Mo Kio Town Garden
 | -------- | -------- | -------- |
 | **[Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west)** | | |
 | **[Thomson Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park)** |||
+| **[Serenade Walk Playground](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/serenade-walk-playground)** |||
 | **Old Upper Thomson Park Connector** | | |
 | **Ang Mo Kio (Ave 5) Park Connector** | | |
