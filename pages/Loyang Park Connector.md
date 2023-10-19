@@ -31,3 +31,12 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 | **"Insert name of PCN 1"** | | |
 | **"insert name of PCN 2"** | | |
 | **"Insert name of PCN 3"** | | |
+
+
+
+#### Notices
+
+##### **Closure of a section of Loyang PCN**
+**From Feb 2023 - 2028**
+
+A section of Loyang PC is closed for LTA's upgrading works from Feb 2023. Please see the&nbsp;[map](https://www.nparks.gov.sg/-/media/parks-south-east/loyang-pcn/diversion-at-loyang-pc.ashx)&nbsp;for the alternative route.
