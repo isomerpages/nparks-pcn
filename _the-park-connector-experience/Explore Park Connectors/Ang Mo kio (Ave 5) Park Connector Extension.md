@@ -32,4 +32,4 @@ The Ang Mo Kio (Ave 5) Park Connector Extension links the Ang Mo Kio Town Garden
 | **[Thomson Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park)** |||
 | **[Serenade Walk Playground](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/serenade-walk-playground)** |||
 | **Old Upper Thomson Park Connector** | | |
-| **Ang Mo Kio (Ave 5) Park Connector** | | |
+| **Ang Mo Kio Ave 5 Park Connector** | | |
