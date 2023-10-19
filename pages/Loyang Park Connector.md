@@ -28,9 +28,9 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 #### Nearby Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **Pasir Ris PC** | [Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc) | |
+| **Tampines Loyang PC** | [Click here](https://safe.menlosecurity.com/https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc) | |
+| **Changi Beach Park** | [Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
 
 
 
