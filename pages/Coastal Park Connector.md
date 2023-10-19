@@ -21,6 +21,7 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Coastal Park Connector starts from Changi Beach Park Car Park 7 and runs along Aviation Park Road and Tanah Merah Coast Road before ending at East Coast Park |  |
@@ -33,9 +34,8 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 
 <br>
 
-#### Nearby Park Connectors
+#### Nearby Parks / Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **"Insert name of PCN 1"** | | |
-| **"insert name of PCN 2"** | | |
-| **"Insert name of PCN 3"** | | |
+| **[Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park)** | | |
+| **[East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park)** | | |
