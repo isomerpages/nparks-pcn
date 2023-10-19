@@ -3,7 +3,6 @@ title: Loyang Park Connector
 permalink: /loyang-pc/
 description: ""
 ---
-
 ![Loyang Park Connector](/images/loyang%20park%20connector.png)
 
 ## Loyang Park Connector
@@ -19,7 +18,7 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 | **Opening Hours** | 24 hours daily | |
 | **Lighting Hours** | 7.00pm – 7.00am | |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | Insert Text | |
+| **Bus Service** | The Aft Engine Test Facility (98069) is a nearby bus stop, accessible via bus services 2, 9, 19, 29, 59, 89, 89e, 109 | |
 | **Get Directions** | [Click here](https://www.onemap.gov.sg/?lat=1.375254&amp;lng=103.9758777) | |
 
 
