@@ -17,13 +17,10 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 | **Length of Park Connector** | 3.5 km  |  |
 | **Opening Hours** | 24 hours daily | |
 | **Lighting Hours** | 7.00pm – 7.00am | |
-| **Accessibility** | Insert Text | |
+| **Accessibility** | Wheelchair accessible | |
 | **Bus Service** | Insert Text | |
 | **Get Directions** | [Click here](https://www.onemap.gov.sg/?lat=1.375254&amp;lng=103.9758777) | |
 
-<br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
 |   |  |  |
