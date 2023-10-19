@@ -29,8 +29,8 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 | **Opening Hours** | 24 hours daily |  |
 | **Lighting Hours** | 7.00pm – 7.00am |  |
 | **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | Insert OneMap Link [click here] | |
+| **Bus Service** | SBS Transit Bus&nbsp;Service&nbsp;35 | |
+| **Get Directions** | [Click here](https://www.onemap.gov.sg/?lat=1.3283511&amp;lng=104.020197) | |
 
 <br>
 
