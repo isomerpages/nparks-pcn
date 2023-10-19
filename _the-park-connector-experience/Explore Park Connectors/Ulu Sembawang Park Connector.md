@@ -6,7 +6,7 @@ third_nav_title: Explore Park Connectors
 ---
 ## Ulu Sembawang Park Connector
 
-![Ulu Sembawang Park Connector]
+
 
 The rustic Ulu Sembawang Park Connector cuts through the nature reserve to link the Woodlands (SLE) Park Connector to the Mandai Park Connector. 
 
