@@ -4,7 +4,7 @@ permalink: /kallang-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-![](/images/Kallang%20PCN%201.jpg)
+![Kallang PCN ](/images/kallang%20pcn%20777.jpg)
 
 ## Kallang PC
 
