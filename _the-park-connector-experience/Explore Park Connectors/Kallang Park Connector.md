@@ -18,8 +18,7 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 
 
 #### Points of interest
-
-![](/images/Kallang%20River%20@%20Bishan-Ang%20Mo%20Kio%20Park.jpg)
+![Kallang PCN ](/images/Kallang%20River%20@%20Bishan-Ang%20Mo%20Kio%20Park.jpg)
 **Kallang River @ Bishan-Ang Mo Kio Park**
 
 One of the highlights of the Bishan-Ang Mo Kio Park is the stretch of Kallang River that used to run in a concrete canal but is now a naturalised, meandering river teeming with life. The result of a joint collaboration between NParks and PUB, under the latter's Active, Beautiful and Clean Waters (ABC) Programme; this river brings park users closer to the water to enjoy its beauty and serenity, and to appreciate the flora and fauna that flourish in the park because of the waterway.
