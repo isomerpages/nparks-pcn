@@ -28,7 +28,7 @@ The Jurong West Park Connector forms part of the Western Adventure Loop, linking
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Jurong West PC starts from Boon Lay Way (across Jurong Central Park) and runs along Jurong West Street 62 and&nbsp;Jurong West Street 64,&nbsp;before ending at Jurong West street 93. |
+| **Location** | Jurong West PC starts from Boon Lay Way (across Jurong Central Park) and runs along Jurong West Street 62 and Jurong West Street 64, before ending at Jurong West Street 93. |
 | **Length of Park Connector** | 2.2 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
