@@ -28,7 +28,7 @@ Linking Bukit Batok Town Park (Little Guilin) to the Hillview Park Connector, th
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Bukit Batok Park Connector starts at&nbsp;Bukit Batok East Ave 2. It runs along&nbsp;Bukit Batok East Ave 5&nbsp;before ending at&nbsp;Bukit Gombak MRT.|
+| **Location** | Bukit Batok East Park Connector starts at&nbsp;Bukit Batok East Ave 2. It runs along&nbsp;Bukit Batok East Ave 5&nbsp;before ending at&nbsp;Bukit Gombak MRT.|
 | **Length of Park Connector** | 1.5 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
@@ -41,7 +41,8 @@ Linking Bukit Batok Town Park (Little Guilin) to the Hillview Park Connector, th
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Bukit Batok Nature Park**
+|**Bukit Batok Town Park**
+**Bukit Batok Nature Park**
 **Bukit Batok West Park Connector**
 **Hillview Park Connector**
 **Choa Chu Kang Park Connector**
