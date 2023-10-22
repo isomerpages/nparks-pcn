@@ -30,7 +30,7 @@ With its relatively flat terrain, the West Coast Park Connector is also suitable
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | West Coast Park Connector starts&nbsp;West Coast Park&nbsp;and runs along&nbsp;West Coast Road&nbsp;before ending at&nbsp;Pandan Gardens Park Connector |
+| **Location** | West Coast Park Connector starts at West Coast Park and runs along West Coast Road before ending at Pandan Gardens Park Connector |
 | **Length of Park Connector** | 3.1 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
