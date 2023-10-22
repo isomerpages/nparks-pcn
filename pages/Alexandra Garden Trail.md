@@ -24,7 +24,8 @@ Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trai
 | -------- | -------- | -------- |
 | **Location** | Alexandra Garden Trail starts at Depot Road and runs along Alexandra Road before ending at West Coast Highway.|  |
 | **Length of Park Connector** | 1 km  |  |
-| **Accessibility** | Wheelchair Accessibility| |
+| **Lighting Hours** | 7.00pm-7.00am |  |
+| **Accessibility** | Wheelchair accessible| |
 | **Bus Service** | 51, 57, 61, 93, 97, 100, 120, 166, 175, 963 | |
 | **Get Directions** | [click here](https://www.onemap.gov.sg/v2/?lat=1.27709992068494&amp;lng=103.802697759967) | |
 
