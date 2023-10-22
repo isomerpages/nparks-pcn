@@ -28,7 +28,7 @@ Pandan Garden Park Connector also joins the Ulu Pandan Park Connector via Singap
 
 <br>
 
-#### Nearby Parks/Park Connectors
+#### Nearby Park Connectors
 
 |   |  |  |
 | -------- | -------- | -------- |
