@@ -30,7 +30,7 @@ Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trai
 
 <br>
 
-#### Nearby Park
+#### Nearby Parks/Park Connectors
 
 |   |  |  |
 | -------- | -------- | -------- |
