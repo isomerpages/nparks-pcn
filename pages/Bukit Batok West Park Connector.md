@@ -16,7 +16,7 @@ Through this park connector, avid cyclists can safely commute by bicycle to Buki
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Bukit Batok Park Connector starts at&nbsp;Bukit Batok West Ave 2, in front of Blk 315,&nbsp;runs along&nbsp;Bukit Batok St 31&nbsp;before ending at&nbsp;Bukit Batok West Ave 5, right before Bukit Gombak MRT.|
+| **Location** | Bukit Batok Park Connector starts Bukit Batok West Ave 2, in front of Blk 315, runs along Bukit Batok St 3 before ending at Bukit Batok West Ave 5, right before Bukit Gombak MRT.|
 | **Length of Park Connector** | 1 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
