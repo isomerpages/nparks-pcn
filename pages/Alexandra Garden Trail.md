@@ -7,14 +7,14 @@ description: ""
 
 ## Alexandra Garden Trail
 
-Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trail links Hort Park, the Southern Ridges and Labrador Park. Featuring a variety of flowering plants and foliage and more than 10 species of butterfly host and nectar plants, the Alexandra Garden Trail offers visitors scenic views and lush greenery.
+Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trail links HortPark, The Southern Ridges and Labrador Nature Reserve. Featuring a variety of flowering plants and foliage and more than 10 species of butterfly host and nectar plants, the Alexandra Garden Trail offers visitors scenic views and lush greenery.
 
 
 #### Points of interest
 
 | **Alexandra Arch**| 
 | -------- | 
-|![](/images/alexandra%20arch%203.jpg) Conceptualised as a “Gateway to Nature”, Alexandra Arch links Hilltop Walk and Forest Walk. Walk on this 80m long bridge and admire its unique architecture - it looks like an opened leaf across Alexandra Road, with its curved deck intersecting an arch that is tilted at a 70-degree angle. Alexandra Arch is lit up by LED lights at night. The lights change colour at intervals from 7pm to 12am daily, displaying varying shades from the colour spectrum of dusk. |
+|![](/images/alexandra%20arch%203.jpg) Conceptualised as a “Gateway to Nature”, Alexandra Arch links Hilltop Walk and Forest Walk. Trek on this 80m long bridge and admire its unique architecture - it looks like an opened leaf across Alexandra Road, with its curved deck intersecting an arch that is tilted at a 70-degree angle. Alexandra Arch is lit up by LED lights at night. The lights change colour at intervals from 7pm to 12am daily, displaying varying shades from the colour spectrum of dusk. |
 
 <br>
 
