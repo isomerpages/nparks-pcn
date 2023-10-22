@@ -19,7 +19,7 @@ Pandan Garden Park Connector also joins the Ulu Pandan Park Connector via Singap
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Pandan Gardens Park Connector starts at&nbsp;West Coast Road&nbsp;and ends at&nbsp;Ulu Pandan Park Connector Bridge.|
+| **Location** | Pandan Gardens Park Connector starts at West Coast Road and ends at Ulu Pandan Park Connector Bridge.|
 | **Length of Park Connector** | 0.4 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
