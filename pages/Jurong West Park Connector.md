@@ -15,6 +15,13 @@ Alternatively, make your way to SAFRA Jurong, located at the end of the Jurong W
 
 The Jurong West Park Connector forms part of the Western Adventure Loop, linking visitors to various park connectors, parks and nature reserves.
 
+
+#### Points of interest
+
+| **Jurong Central Park**| 
+| -------- | 
+|![Jurong Central Park](/images/jurong%20central%20park.JPG)Situated across the Boon Lay MRT Station, Jurong Central Park is the first in Singapore to have life-sized board-game features in a park. Visitors can also enjoy life-sized Snakes and Ladders playground and Ludo Garden, developed based on the traditional indoor children's board-games enjoyed by many. Various types of aquatic plants can also be found in the wetland to bring visitors closer to nature.
+
 <br>
 
 #### Park Connector Information
