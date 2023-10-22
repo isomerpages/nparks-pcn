@@ -33,8 +33,6 @@ The Hillview Park Connector forms part of the Western Adventure Loop, linking vi
 |   |  |  |
 | -------- | -------- | -------- |
 | **Bukit Batok Nature Park**
-**Hillview Crescent Playground**
-**Dairy Farm Nature Park**
 **Rail Corridor**
 **Bukit Batok East Park Connector**
 **Bukit Timah Park Connector**|
