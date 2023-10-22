@@ -19,7 +19,7 @@ The Hillview Park Connector forms part of the Western Adventure Loop, linking vi
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Location** | Hillview Park Connector starts at&nbsp;Dairy Farm Rd, right at the exit of the Dairy Farm Carpark.&nbsp;It&nbsp;runs along&nbsp;Hillview Rd &amp; Hillview Ave,&nbsp;before ending at&nbsp;Bukit Batok East Ave 2, at the entrance of Bukit Batok Nature Park.|
+| **Location** | Hillview Park Connector starts at Dairy Farm Rd, right at the exit of the Dairy Farm Carpark. It runs along Hillview Rd &amp; Hillview Ave, before ending at Bukit Batok East Ave 2, at the entrance of Bukit Batok Nature Park.|
 | **Length of Park Connector** | 2.05 km  |
 | **Lighting Hours** | 7.00pm-7.00am |
 | **Accessibility** | Wheelchair accessible|
