@@ -29,6 +29,7 @@ The banks of Kallang River feature beautiful and vibrant community spaces that a
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Whampoa Park Connector starts at Jalan Rajah, across Toa Payoh Town Park and runs along Sungei Whampoa before ending at Bendemeer Road |  |
@@ -39,6 +40,7 @@ The banks of Kallang River feature beautiful and vibrant community spaces that a
 	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-Kallang PC
+| **Kallang Park Connector** |
