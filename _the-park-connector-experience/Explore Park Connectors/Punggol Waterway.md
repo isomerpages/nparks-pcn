@@ -16,6 +16,7 @@ The Waterway runs through the Punggol Waterway Park, and serves to increase park
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Along Sentul Crescent Road (Cuts through the whole of Punggol Town). |  |
@@ -24,14 +25,12 @@ The Waterway runs through the Punggol Waterway Park, and serves to increase park
 | **Bus Service** | 84 and 382. Alight at Bus Stop 65481 (Bef Punggol Dr) | |
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4109783&amp;lng=103.9044106) | |
 
-<br>
-<br>
 <br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-| **Punggol PC** | | |
-|**Punggol Promenade Nature Walk** | | |
-|**Punggol Promenade Riverside Walk** | | |
-|
+| **Punggol PC** | |
+|**Punggol Promenade Nature Walk** | |
+|**Punggol Promenade Riverside Walk** | |
