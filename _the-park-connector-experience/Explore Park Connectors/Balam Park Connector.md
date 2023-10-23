@@ -4,7 +4,6 @@ permalink: /balam-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-
 ![Balam PC](/images/Balam%20PC.jpeg)
 
 ## Balam Park Connector
@@ -33,5 +32,5 @@ You can observe the beauty of the Rain Garden, a project by PUB, along the park 
 
 |  |  |  |
 | --- | --- | --- |
-| **"Paya Lebar PC"** |  |  |
-| **"Pelton Canal PC"** |  |  |
+| **Paya Lebar Park Connector** |  |  |
+| **Pelton Canal Park Connector** |  |  |
