@@ -37,6 +37,6 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 #### Nearby Parks / Park Connectors
 |   |  |  |
 | -------- | -------- | -------- |
-| **Changi Bay Park Connector** | [Visit here](pcn.gov.sg/changi-bay) | |
+| **Changi Bay Park Connector** | [Visit here](pcn.gov.sg/changi-bay-pc/) | |
 | **East Coast Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park) | |
 | **Changi Beach Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
