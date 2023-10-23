@@ -15,6 +15,7 @@ Visit this 2.4 km Nature Walk, the middle section of Punggol Promenade that lies
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | You can access Punggol Promenade Nature Walk via the nearby park connectors. |  |
@@ -23,13 +24,12 @@ Visit this 2.4 km Nature Walk, the middle section of Punggol Promenade that lies
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4018079&amp;lng=103.9245272) | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-| **Punggol Promenade Punggol Point Walk** | | |
-|**Punggol Promenade Riverside Walk** | | |
-|**Punggol Waterway** | | |
-|
+| **Punggol Promenade Punggol Point Walk** | | 
+|**Punggol Promenade Riverside Walk** | | 
+|**Punggol Waterway** | | 
