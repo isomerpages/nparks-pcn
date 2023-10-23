@@ -15,6 +15,7 @@ The lookout points along Punggol Promenade Riverside Walk allow visitors to get 
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Near Tebing Lane and Pasir Ris Industrial Drive 1 |  |
@@ -24,14 +25,12 @@ The lookout points along Punggol Promenade Riverside Walk allow visitors to get 
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3937636&amp;lng=103.9184064) | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-|**Lorong Halus PC** | | |
-| **Punggol Promenade Nature Walk** | | |
-|**Punggol Waterway** | | |
-|**Sungei Serangoon PC** | | |
-|
+|**Lorong Halus PC** | | 
+| **Punggol Promenade Nature Walk** | | 
+|**Punggol Waterway** | | 
+|**Sungei Serangoon PC** | | 
