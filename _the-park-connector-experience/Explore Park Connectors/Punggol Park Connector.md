@@ -13,10 +13,9 @@ Running along Punggol reservoir and the Straits of Johor, this 6.1 km water-them
 This park connector also joins Punggol Waterway and passes Anchorvale Community Club, Sengkang Sports Complex and Singapore’s largest man-made wetland, Sengkang Floating Wetland, before ending at Gerald Drive. 
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Punggol Park Connector starts at&nbsp;Gerald Drive&nbsp;and runs along&nbsp;Punggol Reservoir and Straits of Johor&nbsp;before ending at&nbsp;Punggol Promenade. |  |
@@ -26,11 +25,10 @@ This park connector also joins Punggol Waterway and passes Anchorvale Community 
 | **Get Directions** |  [undefined](https://www.onemap.gov.sg/main/v2/?lat=1.3791259111453638&amp;lng=103.87628580387666)
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-| **  [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sengkang-riverside-park)** | | |
-| **  [Punggol Promenade Nature Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk)** | | |
+| **Sengkang Riverside Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sengkang-riverside-park) | |
+| **Punggol Promenade Nature Walk** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk) | |
