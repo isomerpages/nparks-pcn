@@ -28,8 +28,8 @@ Starting from the junction of Yishun Ave 1 and Yishun Ave 2, Khatib Bongsu Park 
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Yishun Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park)** | | |
-| **[Yishun Pond Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-pond-park)** |||
-| **[Lower Seletar Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park)** | | |
+| **Yishun Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park) | |
+| **Yishun Pond Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-pond-park) | |
+| **Lower Seletar Reservoir Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park) | |
 | **Yishun Park Connector** | | |
 | **Mandai Park Connector** | | |
