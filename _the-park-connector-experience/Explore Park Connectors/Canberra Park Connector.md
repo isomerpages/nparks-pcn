@@ -30,5 +30,5 @@ Running under the MRT viaduct, the Canberra Park Connector provides a safe route
 | -------- | -------- | -------- |
 | **Bukit Canberra** | | |
 | **Woodlands (Ave 7) Park Connector** | | |
-| **Canberra-Sembawang Park Connector** | | |
+| **Canberra Sembawang Park Connector** | | |
 | **Yishun Park Connector** | | |
