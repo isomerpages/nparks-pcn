@@ -10,7 +10,7 @@ sections:
       title: Park Connector Network
       subtitle: Connecting you to our parks and nature spaces
       background: /images/Ulu%20Pandan%20The%20Park%20Connector%20Network%20Brings%20People%20Together.jpeg
-      button: check out our pCN
+      button: Explore the PCN
       url: /the-pcn-experience
   - infopic:
       title: About Our PCNs
