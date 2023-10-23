@@ -44,4 +44,4 @@ Don’t forget to stop at the various landmarks along the way such as the Jurong
 **Jurong Central Park**
 **Jurong West Park Connector**
 **Bukit Batok Park Connector**
-**Ulu Pandan Park Connector**|
+**Ulu Pandan Park Connector**
