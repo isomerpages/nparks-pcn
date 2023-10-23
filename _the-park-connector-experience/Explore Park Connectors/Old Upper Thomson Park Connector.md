@@ -32,7 +32,7 @@ To make the area even more conducive for nocturnal animals within the Nature Res
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Thomson Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park)** | | |
-| **[Upper Peirce Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/upper-peirce-reservoir-park)** |||
-| **[Lower Peirce Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-peirce-reservoir-park)** | | |
-| **Ang Mo Kio (Ave 5) Park Connector Extension** | | |
+| **Thomson Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park) | |
+| **Upper Peirce Reservoir Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/upper-peirce-reservoir-park) | |
+| **Lower Peirce Reservoir Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-peirce-reservoir-park) | | |
+| **Ang Mo Kio (Ave 5) Park Connector Extension** | |
