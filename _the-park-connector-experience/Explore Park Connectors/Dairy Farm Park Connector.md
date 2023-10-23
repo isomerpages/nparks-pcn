@@ -28,5 +28,5 @@ Starting at&nbsp;[Zhenghua Nature Park](https://www.nparks.gov.sg/gardens-parks-
 |   |  |  |
 | -------- | -------- | -------- |
 | **Chestnut Close Playground** | | |
-| **[Dairy Farm Nature Farm](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park)** | | |
-| **[Zhenghua Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/zhenghua-nature-park)** | | |
+| **Dairy Farm Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park) | |
+| **Zhenghua Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/zhenghua-nature-park) | | 
