@@ -19,6 +19,7 @@ This park connector runs along both sides of the Rochor Canal and provides respi
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Rochor Canal Park Connector starts at Crawford St, runs along the Rochor River and ends where it meets Ophir Road |  |
@@ -30,6 +31,7 @@ This park connector runs along both sides of the Rochor Canal and provides respi
 
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Kallang Riverside Park** | | |
