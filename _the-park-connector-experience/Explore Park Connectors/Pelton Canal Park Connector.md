@@ -13,6 +13,7 @@ Pelton Canal Park Connector links Kallang Park Connector to Balam Park Connector
 ![Pelton Canal PCN](/images/pelton%20pcn%205.jpg)
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Balam Park Connector starts at junction of Merpati Road and Circuit Road and runs along Pelton Canal before ending at Kallang PC (Upper Boon Keng Estate).|  |
@@ -24,8 +25,8 @@ Pelton Canal Park Connector links Kallang Park Connector to Balam Park Connector
 
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Kallang PC** | | |
 | **Balam PC** | | |
-| | | |
