@@ -10,6 +10,8 @@ third_nav_title: Explore Park Connectors
 
 Running alongside the beautiful Central Catchment Nature Reserve, the 5-kilometre-long Mandai Connector links the Ulu Sembawang Park Connector to the Khatib Bongsu Park Connector. It also joins one of Singapore’s five gazetted Heritage Roads, Mandai Road, (starting opposite Upper Seletar Reservoir Park Carpark and ending at the junction of Mandai Avenue).
 
+<br>
+
 #### Park Connector Information
 
 |  |  |  |
