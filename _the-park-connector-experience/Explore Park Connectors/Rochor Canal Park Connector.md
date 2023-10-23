@@ -26,7 +26,7 @@ This park connector runs along both sides of the Rochor Canal and provides respi
 | **Length of Park Connector** | 2.5km   |  |
 | **Accessibility** | The park connector is barrier free. Do note that users will have to cross three road junctions. | |
 | **Bus Service** | Not Applicable | |
-| **Get Directions** | [click here](http://www.onemap.gov.sg/main/v2/?lat=1.3061227&amp;lng=103.8623321) | |
+| **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.3061227&amp;lng=103.8623321) | |
 
 
 
