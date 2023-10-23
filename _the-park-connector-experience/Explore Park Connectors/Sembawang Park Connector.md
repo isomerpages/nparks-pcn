@@ -10,12 +10,11 @@ Running along Sungei Sembawang, the Sembawang Park Connector provides seamless c
   
 Cutting through the mangrove swamps, the park connector enables nearby residents to appreciate the beautiful scenery of the mangrove habitat right at their doorstep. Nature lovers can view water birds such as the Egrets and Kingfishers.
 
+<br>
 
-<br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Park Connector starts at&nbsp;Sembawang Way&nbsp;and runs along&nbsp;Woodlands Ave 10&nbsp;before ending at&nbsp;Admiralty Road West. |  |
@@ -24,11 +23,10 @@ Cutting through the mangrove swamps, the park connector enables nearby residents
 | **Accessibility** | Wheelchair friendly | |
 | **Get Directions** |[Click here](http://www.onemap.gov.sg/main/v2/?lat=1.447520901789945&amp;lng=103.81288801072014) | |
 
-<br>
-<br>
 <br>	
 
-#### Nearby Parks/Park Connectors
+#### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Canberra Park Connector** | | |
