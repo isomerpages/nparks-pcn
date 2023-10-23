@@ -28,6 +28,6 @@ Starting from the Yishun Ave 8, Khatib Bongsu (Opp Bank) Park Connector runs alo
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Yishun Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park)** | | |
-| **[Yishun Pond Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-pond-park)** |||
+| **Yishun Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park) | |
+| **Yishun Pond Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-pond-park) |||
 | **Khatib Bongsu Park Connector** | | |
