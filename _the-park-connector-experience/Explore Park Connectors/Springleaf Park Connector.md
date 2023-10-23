@@ -7,7 +7,6 @@ third_nav_title: Explore Park Connectors
 ## Springleaf Park Connector
 
 
-
 Springleaf Park Connector runs from Upper Thomson Road to Lentor Avenue. Approximately 1.2km, it provides joggers a nice path for leisure jog or walk in this nature environment.
 
 <br>
@@ -29,6 +28,6 @@ Springleaf Park Connector runs from Upper Thomson Road to Lentor Avenue. Approxi
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Springleaf Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/springleaf-nature-park)** | | |
-| **[Lower Seletar Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park)** |||
+| **Springleaf Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/springleaf-nature-park) | |
+| **Lower Seletar Reservoir Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park) |||
 | **Mandai Park Connector** | | |
