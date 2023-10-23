@@ -30,5 +30,5 @@ Starting after Paya Lebar PC, Airport Road PC is part of the Central Urban Loop 
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Paya Lebar PC** | | |
-| **Hougang Avenue 3 PC** | | |
+| **Paya Lebar Park Connector** | | |
+| **Hougang Avenue 3 Park Connector** | | |
