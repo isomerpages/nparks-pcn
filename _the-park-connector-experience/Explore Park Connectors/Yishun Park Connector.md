@@ -6,8 +6,6 @@ third_nav_title: Explore Park Connectors
 ---
 ## Yishun Park Connector
 
-
-
 The Yishun Park Connector links the Khatib Bongsu Park Connector to the Canberra Park Connector, passing through the Simpang Kiri Park Connector and Canberra-Sembawang Park Connector, and running by Yishun Swimming Complex.
 
 <br>
@@ -29,7 +27,7 @@ The Yishun Park Connector links the Khatib Bongsu Park Connector to the Canberra
 
 |   |  |  |
 | -------- | -------- | -------- |
-| [**Yishun Neighbourhood Park**] (https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-neighbourhood-park) | | |
+| **Yishun Neighbourhood Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-neighbourhood-park) | |
 | **Canberra-Sembawang Park Connector** | | |
 | **Canberra Park Connector** | | |
 | **Simpang Kiri Park Connector** | | |
