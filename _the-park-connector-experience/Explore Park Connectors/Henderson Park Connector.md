@@ -26,4 +26,4 @@ Stretching from Alexandra Road to Telok Blangah Way along Henderson Road, the 1.
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Alexandra PC** | | |
+| **Alexandra Park Connector** | | |
