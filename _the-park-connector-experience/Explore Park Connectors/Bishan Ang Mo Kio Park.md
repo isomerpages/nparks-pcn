@@ -31,4 +31,4 @@ With open lawns and gently sloping grassy banks along either side of the river, 
 
 |   |  |  |
 | -------- | -------- | -------- |
-| [Kallang PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/kallang-pc)| | |
+| **Kallang Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/kallang-pc) | |
