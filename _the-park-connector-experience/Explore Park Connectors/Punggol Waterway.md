@@ -31,6 +31,6 @@ The Waterway runs through the Punggol Waterway Park, and serves to increase park
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Punggol PC** | |
-|**Punggol Promenade Nature Walk** | |
-|**Punggol Promenade Riverside Walk** | |
+| **Punggol PC** | | |
+|**Punggol Promenade Nature Walk** | | |
+|**Punggol Promenade Riverside Walk** | | |
