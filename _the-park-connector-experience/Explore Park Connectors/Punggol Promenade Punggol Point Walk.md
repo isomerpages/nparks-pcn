@@ -15,6 +15,7 @@ With lookout decks, a sand-filled playground and an event plaza, the park allows
 You can also dine at the various food and beverage outlets near Punggol Point Park.
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Located at the end of Punggol Rd, near Punggol Jetty |  |
@@ -23,13 +24,11 @@ You can also dine at the various food and beverage outlets near Punggol Point Pa
 | **Bus Service** | 84. Alight at Bus Stop 65139 (Punggol Rd End) | |
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.4214357&amp;lng=103.9107513) | |
 
-<br>
-<br>
 <br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-|**Punggol PC** | | |
-| **Punggol Promenade Nature Walk** | | |
-|
+|**Punggol PC** | |
+| **Punggol Promenade Nature Walk** | |
