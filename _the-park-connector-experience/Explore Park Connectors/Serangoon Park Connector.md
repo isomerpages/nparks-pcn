@@ -11,10 +11,9 @@ third_nav_title: Explore Park Connectors
 Running along Serangoon Reservoir and Sg Pinang, the Serangoon Park Connector is a popular recreational corridor amongst residents living in the vicinity. An established route to Punggol Park, it joins directly to Sungei Serangoon Park Connector via a footbridge across Sg Pinang. Nature lovers will delight in the high biodiversity found here, including the Grey Heron, Little Egret, and conspicuous Collared and White-throated Kingfisher. 
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Serangoon Park Connector starts at&nbsp;Tampines Road&nbsp;and runs along&nbsp;Hougang Ave 7 and Buangkok Drive&nbsp;before ending at&nbsp;the junction of Sengkang East Road and Buangkok Green. |  |
@@ -24,12 +23,12 @@ Running along Serangoon Reservoir and Sg Pinang, the Serangoon Park Connector is
 | **Get Directions** | [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3783499603028648&amp;lng=103.89660624357508) | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-|  [Buangkok PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc) | | |
-|  [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc) | | |
-| [Sungei Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)| | |
+| **Buangkok Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc) | |
+| **Punggol Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc) | |
+| **Sungei Serangoon PC** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)| | |
