@@ -17,10 +17,9 @@ The Lornie Nature Corridor also strengthens the ecological resilience of the abu
 This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https://www.nparks.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7b0F87E3B3-29A2-43ED-8F66-25D42910891F%7d%40en), and provides people with recreational opportunities amidst nature. 
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Lornie Park Connector starts at Sime Road and runs along Lornie Road before ending at Reservoir Road |  |
@@ -30,12 +29,11 @@ This park connector is also part of the&nbsp;[Coast-to-Coast (C2C) Trail](https:
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.335516142801053&amp;lng=103.81825221714945) | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-|  [Kheam Hock Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park) | | |
-|  [Central Catchment Nature Reserve](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve) | | |
-| [Adam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc)| | |
+| **Kheam Hock Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kheam-hock-park) | | 
+| **Central Catchment Nature Reserve** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve) | | 
+| **Adam Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc) | |
