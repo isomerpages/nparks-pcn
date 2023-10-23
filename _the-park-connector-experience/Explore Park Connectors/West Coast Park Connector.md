@@ -44,6 +44,6 @@ With its relatively flat terrain, the West Coast Park Connector is also suitable
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **West Coast Park**
+**West Coast Park**
 **Clementi Woods Park**
-**Pandan Gardens Park Connector**|
+**Pandan Gardens Park Connector**
