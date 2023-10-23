@@ -12,6 +12,7 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Loyang Park Connector starts the junction of Loyang Avenue and Pasir Ris Drive 3&nbsp;and runs along&nbsp;Loyang Avenue, Cranwell Road and Netheravon Road&nbsp;before ending at&nbsp;Changi Village Road. |  |
@@ -24,11 +25,12 @@ Beginning at the junction of Loyang Avenue and Pasir Ris Dr 3, the Loyang Park C
 
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-| **Pasir Ris PC** | [Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc) | |
-| **Tampines Loyang PC** | [Click here](https://safe.menlosecurity.com/https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc) | |
-| **Changi Beach Park** | [Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
+| **Pasir Ris PC** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc) | |
+| **Tampines Loyang PC** | [Visit here](https://safe.menlosecurity.com/https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc) | |
+| **Changi Beach Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
 
 
 
