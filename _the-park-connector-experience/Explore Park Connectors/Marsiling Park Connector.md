@@ -4,7 +4,6 @@ permalink: /marsiling-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-[Insert a good image that best represent the PC]
 
 ## Marsiling Park Connector
 
@@ -13,6 +12,7 @@ The Marsiling Park Connector runs along Woodlands Centre, linking Woodlands Wate
 <br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** |Marsiling&nbsp;Park Connector starts at&nbsp;Woodlands Centre Point&nbsp;and runs along&nbsp;Marsiling Lane&nbsp;before ending at&nbsp;Admiralty Road West. |  |
@@ -22,10 +22,9 @@ The Marsiling Park Connector runs along Woodlands Centre, linking Woodlands Wate
 | **Get Directions** | [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.4371000854265799&amp;lng=103.77153742147975) | |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Parks/Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Woodlands Waterfront Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-waterfront-park)** | | |
+| **Woodlands Waterfront Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-waterfront-park) | |
