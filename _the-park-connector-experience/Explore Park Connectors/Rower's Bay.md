@@ -13,10 +13,9 @@ Rower’s Bay is part of the 60 km first phase of the&nbsp;[Round Island Route (
 Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park, East Coast Park and other park connectors via the Round Island Route! Click&nbsp;[here](https://www.nparks.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB254FFA8-868F-4CED-9A7E-AA05AC86603D%7d%40en)&nbsp;to read more. <br>
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Seletar Club Road |  |
@@ -26,10 +25,10 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.4218848&amp;lng=103.8635461) | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
-|   |  |  |
+
+|  |  |  |
 | -------- | -------- | -------- |
-| Seletar West PC| | |
+| **Seletar West Park Connector** | | |
