@@ -4,8 +4,6 @@ permalink: /woodlands-st-13-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-[Insert a good image that best represent the PC]
-
 ## Woodlands (Street 13) Park Connector
 
 The Woodlands (Street 13) Park Connector runs along the road reserve and passes Woodlands Stadium and Woodlands Town Park East, linking Woodlands Town Garden to the Woodlands (Ave 5) Park Connector.
