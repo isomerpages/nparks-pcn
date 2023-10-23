@@ -29,4 +29,4 @@ Running along residential estates, this 1.5 km park connector is popular with a 
 
 |   |  |  |
 | -------- | -------- | -------- |
-|  [Serangoon PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc)| | |
+| **Serangoon Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc)| |
