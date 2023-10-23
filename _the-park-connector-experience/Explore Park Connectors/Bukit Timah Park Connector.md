@@ -28,4 +28,4 @@ Nature lovers can look forward to a day of discovery as they explore the many tr
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Bukit Batok Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park)** | | |
+| **Bukit Batok Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park) | |
