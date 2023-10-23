@@ -4,7 +4,6 @@ permalink: /riverside-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-[Insert a good image that best represent the PC]
 
 ## Riverside Park Connector
 
@@ -30,6 +29,6 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park)** | | |
-| **[Woodlands Waterfront Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/woodlands-waterfront-park)** | | |
-| **Woodlands (SLE) PC** | | |
+| **Admiralty Park** |  [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park) | |
+| **Woodlands Waterfront Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/woodlands-waterfront-park) | |
+| **Woodlands (SLE) Park Conector** | | |
