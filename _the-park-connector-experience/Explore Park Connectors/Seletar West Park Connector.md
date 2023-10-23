@@ -15,10 +15,9 @@ At the Heritage Trees Node, visitors can enjoy a view of 3 heritage _Swietenia m
 Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Changi Beach Park, East Coast Park and other park connectors via the Round Island Route! Click&nbsp;[here](https://www.nparks.gov.sg/sitecore/service/notfound.aspx?item=web%3a%7bB254FFA8-868F-4CED-9A7E-AA05AC86603D%7d%40en)&nbsp;to read more. 
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** |From Rower’s Bay to Piccadilly Circus |  |
@@ -28,10 +27,9 @@ Get connected from Rower’s Bay to Sengkang Riverside Park, Pasir Ris Park, Cha
 | **Get Directions** |  [Click Here](https://www.onemap.gov.sg/main/v2/?lat=1.3791531014429996&amp;lng=103.87639730916995)| |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Park Connectors
-|   |  |  |
+
+|  |  |  |
 | -------- | -------- | -------- |
-| [Punggol PC](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)| | |
+| **Punggol Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc)| |
