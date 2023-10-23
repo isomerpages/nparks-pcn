@@ -28,7 +28,7 @@ The 4.4-kilometre Hougang Ave 3 Park Connector is the final piece to the Central
 |   |  |  |
 | -------- | -------- | -------- |
 | **Punggol Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-park) | | 
-| **Serangoon PC** | |
-| **Jalan Pelikat PC** | | 
-| **Balam PC** | | 
-| **Paya Lebar PC** | |
+| **Serangoon Park Connector** | |
+| **Jalan Pelikat Park Connector** | | 
+| **Balam Park Connector** | | 
+| **Paya Lebar Park Connector** | |
