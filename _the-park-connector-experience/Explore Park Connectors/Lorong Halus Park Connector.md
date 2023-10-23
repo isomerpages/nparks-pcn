@@ -15,6 +15,7 @@ Park users can have the opportunity to admire the scenic view of the Serangoon R
 
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Near Lorong Halus Wetland Centre and along Pasir Ris Farmway 3 |  |
@@ -24,10 +25,10 @@ Park users can have the opportunity to admire the scenic view of the Serangoon R
 | **Get Directions** | [Click Here](http://www.onemap.gov.sg/main/v2/?lat=1.3836922&amp;lng=103.9359641) | |
 
 <br>
-<br>
-<br>	
+
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Punggol Promenade Riverside Walk** | | |
