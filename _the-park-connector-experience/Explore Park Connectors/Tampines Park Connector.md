@@ -51,4 +51,5 @@ Opening Hours: 9am - 9pm (Daily)
 <br>
 
 #### Notices
+
 1. A section of Tampines Park Connector along Pasir Ris Town Park and Pasir Ris Drive 1 will be closed for LTA consturction works. Please use alternative routes along Block 424 or Block 534 Pasir Ris Drive 1.
