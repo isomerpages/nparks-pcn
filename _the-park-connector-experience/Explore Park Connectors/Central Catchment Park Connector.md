@@ -27,6 +27,6 @@ Located inside the nature reserve, the Central Catchment Park Connector&nbsp;is 
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **[Chestnut Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/chestnut-nature-park)** | | |
+| **Chestnut Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/chestnut-nature-park) | |
 | **Mandai Park Connector** |||
 | **Ulu Sembawang Park Connector** | | |
