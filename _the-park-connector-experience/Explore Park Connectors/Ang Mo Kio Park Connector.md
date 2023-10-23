@@ -24,9 +24,9 @@ Ang Mo Kio Park Connector runs from the cross junction of Ang Mo Kio Ave 1 and M
 
 <br>
 
-#### Nearby Park Connectors
+#### Nearby Parks
 
 |   |  |  |
 | -------- | -------- | -------- |
-| [Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park) | | |
-| [Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west) | | |
+| **Bishan-Ang Mo Kio Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park) | |
+|**Ang Mo Kio Town Garden West** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west) | |
