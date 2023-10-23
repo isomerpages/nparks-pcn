@@ -30,4 +30,4 @@ Recreational runners looking for a challenge can jog on the many footpaths meand
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Ang Mo Kio PC** | | |
+| **Ang Mo Kio Park Connector** | | |
