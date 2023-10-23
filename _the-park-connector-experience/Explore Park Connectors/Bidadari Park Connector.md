@@ -10,13 +10,6 @@ Bidadari Park Connector is a 4m wide path serving as a recreational connectivity
 
 <br>
 
-
-#### Points of interest
-
-**Bidadari Park**
-
-<br>
-
 #### Park Connector Information
 
 |  |  |  |
