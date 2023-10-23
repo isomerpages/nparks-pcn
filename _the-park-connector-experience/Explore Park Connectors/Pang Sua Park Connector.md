@@ -11,10 +11,9 @@ Starting from Zhenghua Park, the Pang Sua Park Connector runs along Bukit Panjan
 Pang Sua Park Connector forms part of the Western Adventure Loop, linking various park connectors, parks and nature reserves.
 
 <br>
-<br>
-<br>
 
 #### Park Connector Information
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Pang Sua Park Connector starts at&nbsp;Bukit Panjang Rd. It runs along the&nbsp;Pang Sua canal&nbsp;and ends at&nbsp;Choa Chu Kang Way. |  |
@@ -23,10 +22,9 @@ Pang Sua Park Connector forms part of the Western Adventure Loop, linking variou
 | **Get Directions** | [Click here](http://www.onemap.gov.sg/main/v2/?lat=1.3807087641201425&amp;lng=103.76683393423086)| |
 
 <br>
-<br>
-<br>	
 
 #### Nearby Parks/Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Bukit Panjang Park Connector** | | |
