@@ -35,5 +35,5 @@ Besides offering seamless connectivity, Alexandra Canal Linear Park features a v
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Alexandra Park Connector** | | |
-| **Alexandra Queensway Park Connector** | | |
+| **Alexandra Park Connector** | [Visit here](https://pcn.nparks.gov.sg/alexandra-pc/) | |
+| **Alexandra Queensway Park Connector** | [Visit here](https://pcn.nparks.gov.sg/alexandra-queensway-pc/) | |
