@@ -39,7 +39,7 @@ Alternatively, drop by Great World City Shopping Centre and Zion Riverside Food 
 
 #### Nearby Park Connectors
 
-|   |  |  |
+|  |  |  |
 | -------- | -------- | -------- |
-| **Alexandra Canal Linear Park** | | |
-| **Henderson PC** | | |
+| **Alexandra Canal Linear Park** | [Visit here](https://pcn.nparks.gov.sg/alexandra-canal-linear-park/) | |
+| **Henderson PC** | [Visit here](https://pcn.nparks.gov.sg/henderson-pc/) | |
