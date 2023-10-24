@@ -30,6 +30,6 @@ Through this park connector, avid cyclists can safely commute by bicycle to Buki
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Bukit Batok Park Connector**
+**Bukit Batok Park Connector**
 **Bukit Batok East Park Connector**
-**Choa Chu Kang Park Connector**|
+**Choa Chu Kang Park Connector**
