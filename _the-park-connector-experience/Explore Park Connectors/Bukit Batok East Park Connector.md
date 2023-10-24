@@ -42,9 +42,9 @@ Linking Bukit Batok Town Park (Little Guilin) to the Hillview Park Connector, th
 
 |   |  |  |
 | -------- | -------- | -------- |
-|**Bukit Batok Town Park**
+**Bukit Batok Town Park**
 **Bukit Batok Nature Park**
 **Bukit Batok West Park Connector**
 **Hillview Park Connector**
 **Choa Chu Kang Park Connector**
-**Ulu Pandan Park Connector**|
+**Ulu Pandan Park Connector**

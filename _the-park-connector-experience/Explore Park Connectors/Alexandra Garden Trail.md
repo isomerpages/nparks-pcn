@@ -36,8 +36,8 @@ Stretching from Depot Road to West Coast Highway, the 1 km Alexandra Garden Trai
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **HortPark**
-**Telok Blangah Hill Park**
-**Labrador Nature Reserve**
-**Rail Corridor**
-**Alexandra Queensway Park Connector**|
+| **HortPark** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark) | |
+| **Telok Blangah Hill Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/telok-blangah-hill-park) | |
+| **Labrador Nature Reserve** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/labrador-nature-reserve) | |
+| **Rail Corridor** | [Visit here](https://railcorridor.nparks.gov.sg/) | | 
+**Alexandra Queensway Park Connector** | [Visit here](https://pcn.nparks.gov.sg/alexandra-queensway-pc/) | |
