@@ -39,4 +39,14 @@ sections:
       image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
       alt: NParks NEAR App
       url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
+  - infopic:
+      title: NEAR Mobile App - Digital for Life Festival 2023
+      subtitle: What's Happening
+      id: infopic
+      description: Check out the NParks Explore a Route Mobile app at the Digital for
+        Life Festival 2023!
+      button: Visit the festival
+      url: /do-more/events/
+      image: /images/dfl carousel v2_1.jpg
+      alt: Digital for Life Festival 2023
 ---
