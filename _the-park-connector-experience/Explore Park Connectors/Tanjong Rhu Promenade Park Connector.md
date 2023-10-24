@@ -22,6 +22,7 @@ Starting at Tanjong Rhu Bridge along Sungei Geylang, the Tanjong Rhu Promenade l
 
 
 #### Nearby Park Connectors
+
 |   |  |  |
 | -------- | -------- | -------- |
 | **Geylang Park Connector** | | |
