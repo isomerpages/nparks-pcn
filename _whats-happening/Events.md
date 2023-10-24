@@ -3,6 +3,33 @@ title: Events
 permalink: /do-more/events/
 description: ""
 ---
+## Digital for Life Festival
+
+Join us at the Digital for Life Festival 2023 for an exciting day of learning, exploration and play a part in building a digitally inclusive Singapore! 
+
+Make your way down to the NParks booth where you can download the NParks Explore a Route (NEAR) mobile application, enjoy the interactions with the AR animals on the app and seize the opportunity to claim an exclusive NEAR App merchandise! 
+
+![Zones at Digital for Life Festival 2023](/images/image-05.jpg)
+
+| Event Dates: | Time: 9:30am - 6:30pm |
+| -------- | -------- |
+| 28 &amp; 29 October  | Kampung Admiralty Community Plaza  |
+| 4 &amp; 5 November  |  Heartbeat @ Bedok  |
+|11 &amp; 12 November  | Toa Payoh Hub |
+
+
+
+
+
+Find out more at [digitalforlife.gov.sg](https://www.digitalforlife.gov.sg/). <br> NEAR App merchandise available while stocks last.
+
+
+
+
+
+
+
+
 ---
 
 ## PCN Kindness Campaign
