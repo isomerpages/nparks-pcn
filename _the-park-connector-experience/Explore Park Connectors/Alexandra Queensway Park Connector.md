@@ -28,5 +28,5 @@ Alexandra-Queensway Park Connector connects the established Alexandra Canal Line
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Alexandra Canal Linear Park** | | |
-| **Alexandra Garden Trail** | | |
+| **Alexandra Canal Linear Park** | [Visit here](https://pcn.nparks.gov.sg/alexandra-canal-linear-park/) | |
+| **Alexandra Garden Trail** | [Visit here](https://pcn.nparks.gov.sg/alexandra-garden-trail/)| |
