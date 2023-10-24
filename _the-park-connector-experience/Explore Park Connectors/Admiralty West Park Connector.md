@@ -4,7 +4,6 @@ permalink: /admiralty-west-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
-
 ![Admiralty West Park Connector](/images/admiralty-west-park-connector.JPG)
 ## Admiralty West Park Connector
 
@@ -27,9 +26,9 @@ The Admiralty West Park Connector links the Woodlands (Ave 7) Park Connector to 
 
 #### Nearby Parks/ Park Connectors
 
-|   |  |  |
+|  |  |  |
 | -------- | -------- | -------- |
 | **Admiralty Park** | [Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park) | |
 | **Woodlands Waterfront Park** |[Click here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/woodlands-waterfront-park)||
-| **Mandai Park Connector** | | |
-| **Woodlands (SLE) Park Connector** | | |
+| **Mandai Park Connector** | [Click here](https://pcn.nparks.gov.sg/mandai-pc/) | |
+| **Woodlands (SLE) Park Connector** | [Click here](https://pcn.nparks.gov.sg/woodlands-sle-pc/) | |
