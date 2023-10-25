@@ -4,6 +4,8 @@ permalink: /bukit-timah-pc/
 description: ""
 third_nav_title: Explore Park Connectors
 ---
+
+![Bukit Timah Park Connector](/images/bukit-timah-pc.jfif)
 ## Bukit Timah Park Connector
 
 The Bukit Timah Park Connector links Bukit Timah Nature Reserve to Bukit Batok Nature Park.
