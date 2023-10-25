@@ -18,9 +18,9 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 
 <br>
 
-| **Kallang River @ Bishan-Ang Mo Kio Park** |  |  |
-| -------- | -------- | -------- |
-One of the highlights of the Bishan-Ang Mo Kio Park is the stretch of Kallang River that used to run in a concrete canal but is now a naturalised, meandering river teeming with life. The result of a joint collaboration between NParks and PUB, under the latter's Active, Beautiful and Clean Waters (ABC) Programme; this river brings park users closer to the water to enjoy its beauty and serenity, and to appreciate the flora and fauna that flourish in the park because of the waterway.
+| **Kallang River @ Bishan-Ang Mo Kio Park** | 
+| -------- |
+| One of the highlights of the Bishan-Ang Mo Kio Park is the stretch of Kallang River that used to run in a concrete canal but is now a naturalised, meandering river teeming with life. The result of a joint collaboration between NParks and PUB, under the latter's Active, Beautiful and Clean Waters (ABC) Programme; this river brings park users closer to the water to enjoy its beauty and serenity, and to appreciate the flora and fauna that flourish in the park because of the waterway. |
 
 <br>
 
@@ -28,9 +28,9 @@ One of the highlights of the Bishan-Ang Mo Kio Park is the stretch of Kallang Ri
 
 <br>
 
-| **Kolam Ayer Waterfront** |  |  |
-| -------- | -------- | -------- |
-Officially opened to the public in 2008, Kolam Ayer ABC Waterfront features a makeover of a 200-metre stretch of the Kallang River. Floating look-out decks and interactive water features such as the Archimedes Screw and Water Wheel allow residents to get closer to the water.
+| **Kolam Ayer Waterfront** |
+| -------- |
+| Officially opened to the public in 2008, Kolam Ayer ABC Waterfront features a makeover of a 200-metre stretch of the Kallang River. Floating look-out decks and interactive water features such as the Archimedes Screw and Water Wheel allow residents to get closer to the water. |
 
 <br>
 
