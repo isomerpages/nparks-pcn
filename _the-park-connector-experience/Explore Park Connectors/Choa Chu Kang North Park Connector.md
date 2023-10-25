@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Explore Park Connectors
 ---
 
-
+![Choa Chu Kang North Park Connector](/images/choa-chu-kang-north-park-connector.JPG)
 ## Choa Chu Kang North Park Connector
 
 Running along road reserves, the Choa Chu Kang North Park Connector links the Choa Chu Kang Park Connector to the Pang Sua Park Connector.
@@ -28,5 +28,5 @@ Running along road reserves, the Choa Chu Kang North Park Connector links the Ch
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Pang Sua Park Connector** | | |
-| **Choa Chu Kang Park Connector** | | |
+| **Pang Sua Park Connector** | [Visit here](https://pcn.nparks.gov.sg/pang-sua-pc/) | |
+| **Choa Chu Kang Park Connector** | [Visit here](https://pcn.nparks.gov.sg/choa-chu-kang-pc/) | |
