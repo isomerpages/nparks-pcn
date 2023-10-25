@@ -51,6 +51,6 @@ Enjoy the lush greenery at Kolam Ayer Waterfront, part of PUB’s Active, Beauti
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Bishan-Ang Mo Kio Park** | | |
-| **Pelton Canal PC** | | |
-| **Whampoa PC** | | |
+| **Bishan-Ang Mo Kio Park** | [Visit here](https://pcn.nparks.gov.sg/bishan-ang-mo-kio-park/) | |
+| **Pelton Canal PC** | [Visit here](https://pcn.nparks.gov.sg/pelton-canal-pc/) | |
+| **Whampoa PC** | [Visit here](https://pcn.nparks.gov.sg/whampoa-pc/) | |
