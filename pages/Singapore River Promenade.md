@@ -1,6 +1,6 @@
 ---
 title: Singapore River Promenade
 permalink: /singapore-river-promenade/
-variant: tiptap
+variant: markdown
 description: ""
 ---
