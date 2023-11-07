@@ -21,7 +21,6 @@ Starting from Toa Payoh Town Park, Whampoa Park Connector runs along Sungei Wham
 Revitalised with new riverside features, the 250m section of Sungei Whampoa, runs from the Central Expressway to the St George's Lane development. Gabion walls planted with creepers form a naturalised canal edge. A rain garden planted along the walkway creates a garden habitat. In addition, planters, cantilever decks, and landscaping enhance the area and bring residents closer to water.
 
 ![Whampoa PC ](/images/whampoa%20pc%205.JPG)
-
  **Sungei Kallang @ River Vista**
  
 The banks of Kallang River feature beautiful and vibrant community spaces that are well-integrated with the surrounding residential areas. Enjoy an active outdoor lifestyle in close proximity to the water, with activity nodes including a playground and plaza areas along the river’s edge. A floating pontoon and boat shed has also been constructed to allow for kayaking on the river. For more information, refer to http://www.pub.gov.sg/ABCWatersIM/sungei-kallang.html&gt;

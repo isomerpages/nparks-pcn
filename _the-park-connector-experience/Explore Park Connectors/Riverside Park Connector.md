@@ -3,8 +3,8 @@ title: Riverside Park Connector
 permalink: /riverside-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
-
 ## Riverside Park Connector
 
 For visitors&nbsp;coming from Woodlands (Ave 2) Park Connector, Riverside Park Connector leads them onwards along the periphery of [Admiralty Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/admiralty-park), bringing them to the western entrance of the park.
@@ -21,7 +21,7 @@ Check out&nbsp;the play area at Admiralty Park, which features 26 slides – the
 | **Length of Park Connector** | 0.45km |  |
 | **Lighting Hours** | 7.00pm-7.00am ||
 | **Accessibility** | Wheel-chair friendly | |
-| **Get Directions** |  [click here]((https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) | |
+| **Get Directions** |  [click here](https://www.onemap.gov.sg/main/v2/?lat=1.4414773113256651&amp;lng=103.78500546886559) | |
 
 <br>
 
