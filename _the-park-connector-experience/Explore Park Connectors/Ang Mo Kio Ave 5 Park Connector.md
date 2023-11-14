@@ -42,7 +42,7 @@ The Ang Mo Kio Ave 5 Park Connector Extension links the Ang Mo Kio Town Garden W
 |   |  |  |
 | -------- | -------- | -------- |
 | **Ang Mo Kio Town Garden West** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west) | |
-| **Buangkok Park Connector** |[Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc) | |
-| **Punggol Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc) | |
+| **Buangkok Park Connector** |[Visit here](https://pcn.nparks.gov.sg/buangkok-pc/) | |
+| **Punggol Park Connector** | [Visit here](https://pcn.nparks.gov.sg/punggol-pc/) | |
 | **Serenade Walk Playground** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/serenade-walk-playground) | |
 | **Thomson Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park) | |
