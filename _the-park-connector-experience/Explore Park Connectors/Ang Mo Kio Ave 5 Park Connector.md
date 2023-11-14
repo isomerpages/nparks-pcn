@@ -33,6 +33,7 @@ The Ang Mo Kio Ave 5 Park Connector Extension links the Ang Mo Kio Town Garden W
 |  |  |  |
 | -------- | -------- | -------- |
 | **Location** | Ang Mo Kio Ave 5 Park Connector Extension runs along Ang Mo Kio Ave 5 and Yio Chu Kang Road that starts from Ang Mo Kio Ave 6 to Upper Thomson Road. |  |
+| **Length of extension** | 2.2 km  |  |
 
 <br>
 
