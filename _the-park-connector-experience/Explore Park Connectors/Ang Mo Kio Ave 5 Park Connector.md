@@ -26,11 +26,22 @@ Ang Mo Kio Ave 5 Park Connector starts at the junction of Ang Mo Kio Ave 5 and A
 
 <br>
 
+#### Ang Mo Kio Ave 5 Park Connector Extension
 
-#### Nearby Park Connectors
+The Ang Mo Kio Ave 5 Park Connector Extension links the Ang Mo Kio Town Garden West to Old Upper Thomson Road Park Connector. 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Location** | Ang Mo Kio Ave 5 Park Connector Extension runs along Ang Mo Kio Ave 5 and Yio Chu Kang Road that starts from Ang Mo Kio Ave 6 to Upper Thomson Road. |  |
+
+<br>
+
+#### Nearby Parks / Park Connectors
 
 |   |  |  |
 | -------- | -------- | -------- |
+| **Ang Mo Kio Town Garden West** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west) | |
 | **Buangkok Park Connector** |[Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc) | |
 | **Punggol Park Connector** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-pc) | |
-|**Ang Mo Kio Town Garden West** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-town-garden-west) | |
+| **Serenade Walk Playground** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/serenade-walk-playground) | |
+| **Thomson Nature Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/thomson-nature-park) | |
