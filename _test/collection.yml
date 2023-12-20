@@ -1,4 +1,5 @@
 collections:
   test:
     output: true
-    order: []
+    order:
+      - Ang Mo Kio Ave 5 Park Connector Extension.md
