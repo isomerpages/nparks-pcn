@@ -2,6 +2,7 @@
 title: Engagements
 permalink: /whats-happening/engagements/
 description: PCN public engagements
+variant: markdown
 ---
 ### Visioning the North-South Corridor
 
@@ -13,13 +14,17 @@ The NSC also forms part of the 34 km Central Corridor, which is one of the islan
 
 The Land Transport Authority (LTA) and National Parks Board (NParks) will be seeking public views on how the surface streets that will be freed up with the NSC can be enhanced further for accessibility, greenery, and recreational use by pedestrians, cyclists, commuters, and local communities.
 
-#### Let’s Co-create the NSC together!
+#### Co-creating the NSC together!
 
-To garner views and ideas for designing these accessibility, recreational features and amenities for community spaces, LTA and NParks will co-organise a series of public engagement workshops in various regions across the corridor over a period of about six months from July 2023.
+To garner views and ideas for designing these accessibility, recreational features and amenities for community spaces, LTA and NParks has co-organised a series of public engagement workshops in various regions across the corridor over a period of about six months since July 2023.
 
-Register your interest for the workshops and share your thoughts with us by [clicking on the survey link below.](https://go.gov.sg/registration-nsc-visioning-workshop)
+#### The workshop sessions have been concluded. Thank you for your participation!
 
-[https://go.gov.sg/registration-nsc-visioning-workshop](https://go.gov.sg/registration-nsc-visioning-workshop)
+For more information on the North-South Corridor and the efforts to create the NSC together, visit this link below:
+
+[North-South Corridor](https://www.lta.gov.sg/content/ltagov/en/upcoming_projects/road_commuter_facilities/north_south_corridor.html)
+
+<br>
 
 -----
 
@@ -37,11 +42,11 @@ To better enhance the user experience along our Park Connector Network, we are p
 
 | This pilot will be implemented progressively from August 2022 along approximately 30km of park connector paths in: |  |  |
 | --- | --- | --- |
-| • Changi Beach Park |  |  |
-| • Changi Bay PC |  |  |
-| • Coastal PC |  |  |
-| • East Coast Park |  |  |
-| • Pasir Panjang Park |  |  |
+| •&nbsp;Changi Beach Park |  |  |
+| •&nbsp;Changi Bay PC |  |  |
+| •&nbsp;Coastal PC |  |  |
+| •&nbsp;East Coast Park |  |  |
+| •&nbsp;Pasir Panjang Park |  |  |
 
 We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
 
@@ -50,4 +55,3 @@ We will review the outcome of the pilot, including public feedback received, bef
 
 
 ![PCN Pilot Typology poster](/images/Poster_PCNPilotTypologySurvey.png)
-
