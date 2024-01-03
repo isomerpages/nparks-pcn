@@ -1,0 +1,14 @@
+logo: /images/NParks PCN Logos.png
+links:
+  - title: Recreational Connectivity
+    collection: recreational-connectivity
+  - title: The Park Connector Experience
+    collection: the-park-connector-experience
+  - title: Sharing The Pcn
+    collection: sharing-the-pcn
+  - title: Whats Happening
+    collection: whats-happening
+  - title: Notices
+    url: /notices
+  - title: Contact Us
+    url: /contact-us/

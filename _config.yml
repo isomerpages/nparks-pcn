@@ -1,0 +1,59 @@
+title: NParks Park Connector Network
+url: ""
+favicon: /images/NParks%20Logo.png
+colors:
+  primary-color: "#FF9E18"
+  secondary-color: "#789904"
+  media-colors:
+    - title: media-color-one
+      color: "#789904"
+    - title: media-color-two
+      color: "#FF9E18"
+    - title: media-color-three
+      color: "#1A5632"
+    - title: media-color-four
+      color: "#B2292E"
+    - title: media-color-five
+      color: "#00838f"
+resources_name: media
+description: NParks Park Connector Network Website
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d3r48olyl3j26w.amplifyapp.com/
+prod: https://master.d3r48olyl3j26w.amplifyapp.com/
+is_government: true
+shareicon: /images/NParks Logo.png
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
