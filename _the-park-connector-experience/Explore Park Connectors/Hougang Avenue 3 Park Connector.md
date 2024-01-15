@@ -3,8 +3,9 @@ title: Hougang Avenue 3 Park Connector
 permalink: /hougang-avenue-3-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
-![](/images/hougang%20ave%203%20pc.jpg)
+![Hougang Ave 3 PC image](/images/Hougang_Ave_3_PC.JPG)
 
 ## Hougang Avenue 3 PC
 
