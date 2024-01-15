@@ -3,6 +3,7 @@ title: Siglap Park Connector
 permalink: /siglap-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
 ![](/images/siglap%20pc%2010.JPG)
 
@@ -22,8 +23,7 @@ Park users also have the option to rent and return bicycles or rollerblades at a
 | **Location** | Siglap Park Connector starts from&nbsp;Area C4 in East Coast Park, running across&nbsp;Marine Parade Road, East Coast Road, Changi Road, Sims Avenue East, Bedok North Road&nbsp;before ending at&nbsp;Bedok Reservoir Road. |  |
 | **Length of Park Connector** | 7.6 km   |  |
 | **Accessibility** | Over-head bridge across Bedok North Road has no ramp but cyclists can push their bicycles along the side of the bridge | |
-| **Bus Service** | Insert Text | |
-| **Get Directions** | [Click Here](https://www.onemap.gov.sg/v2/?lat=1.31576153898373&amp;lng=103.914682381278)  | |
+| **Get Directions** | [Click here](https://www.onemap.gov.sg/v2/?lat=1.31576153898373&amp;lng=103.914682381278)  | |
 
 
 #### Nearby Park Connectors
