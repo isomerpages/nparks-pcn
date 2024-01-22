@@ -3,6 +3,7 @@ title: Jurong Park Connector
 permalink: /jurong-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
 ![Jurong Park Connector](/images/jurong%20park%20connector.jpg)
 
@@ -40,8 +41,8 @@ Don’t forget to stop at the various landmarks along the way such as the Jurong
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Jurong Lake Gardens**
-**Jurong Central Park**
-**Jurong West Park Connector**
-**Bukit Batok Park Connector**
-**Ulu Pandan Park Connector**
+| **Jurong Lake Gardens** |||
+|**Jurong Central Park** |||
+|**Jurong West Park Connector** |||
+|**Bukit Batok Park Connector** |||
+|**Ulu Pandan Park Connector** |||
