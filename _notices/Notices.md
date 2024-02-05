@@ -149,7 +149,7 @@ beaches.&nbsp;</p>
 <br>
 </p>
 <p>A stretch of the South Bank remains closed till mid-2024 for the final
-phase of recovery and reconstructions works.</p>
+phase of recovery and reconstruction works.</p>
 <p></p>
 <p>Users can continue to access the Park Connector via multiple points.
 <br>
