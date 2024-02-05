@@ -156,7 +156,7 @@ phase of recovery and reconstructions works.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to map <a href="/files/NParks_Ulu_Pandan_PC_Poster_26_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
+<p>Please refer to map <a href="/files/Ulu_Pandan_PC_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
