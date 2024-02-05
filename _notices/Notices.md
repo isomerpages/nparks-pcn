@@ -24,7 +24,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ang Mo Kio Ave 5 Park Connector</strong> 
-<br><strong>-25 Apr 2023 to 30 Apr 2028</strong>
+<br><strong>-25 Apr 2023 to 30 Apr 2028</strong> 
 <br>
 <br>Works for Land Transport Authority's North-South Corridor project at the
 junction of Ang Mo Kio Ave 5 Park Connector with Ang Mo Kio Ave 6 have
@@ -79,7 +79,7 @@ during this construction period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Punggol Promenade Nature Walk</strong> 
-<br><strong>- 4 Dec 2023 to 30 Sep 2024</strong>
+<br><strong>- 4 Dec 2023 to 30 Sep 2024</strong> 
 <br>
 <br>The track along Punggol Promenade Nature Walk is partially closed for
 track widening works until 30 September 2024.</p>
@@ -147,11 +147,11 @@ beaches.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ulu Pandan Park Connector</strong> 
 <br>
-<br>A stretch of the South Bank remains closed till</p>
-<p>mid-2024 for the final phase of</p>
-<p>recovery and reconstruction works.
-<br>
-<br>Users can continue to access the Park Connector via multiple points.
+</p>
+<p>A stretch of the South Bank remains closed till mid-2024 for the final
+phase of recovery and reconstructions works.</p>
+<p></p>
+<p>Users can continue to access the Park Connector via multiple points.
 <br>
 </p>
 </td>
@@ -165,7 +165,7 @@ beaches.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Alexandra Canal Linear Park</strong> 
-<br><strong>- 25 January 2019 to Q1 2024</strong>
+<br><strong>- 25 January 2019 to Q1 2024</strong> 
 <br>
 <br>Alexandra Canal Linear Park&nbsp;near Margaret Drive will be closed for
 road construction works by HDB from 25 January 2019 to Q1 2024. (Please
@@ -201,7 +201,7 @@ January 2024 to 31 January 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Choa Chu Kang Park Connector</strong> 
-<br><strong>- 4 October 2021 to Q1 2025</strong>
+<br><strong>- 4 October 2021 to Q1 2025</strong> 
 <br>
 <br>A section of Choa Chu Kang Park Connector is closed for LTA's upgrading
 works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
