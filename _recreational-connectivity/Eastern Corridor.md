@@ -106,11 +106,11 @@ transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
+<img style="width: 60%;" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
 </div>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tampines Ave 9 Park Connector" src="/images/Tampines_Ave_9_Park_Connector__Credit_NParks_.JPG">
+<img style="width: 60%;" height="auto" width="100%" alt="Tampines Ave 9 Park Connector" src="/images/Tampines_Ave_9_Park_Connector__Credit_NParks_.JPG">
 </div>
 <h4>New Features</h4>
 <table>
