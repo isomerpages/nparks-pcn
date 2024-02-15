@@ -134,8 +134,8 @@ alongside a wide collection of shade tolerant plants including palms and
 aroids, leveraging on the shady conditions of the area. The garden is connected
 by meandering paths, with biodiversity-attracting and fragrant plants.
 It also features an activity area with a life-size beads maze made from
-upcycled tree logs for <a rel="noopener noreferrer nofollow" target="_blank">park visitors </a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>&nbsp;to improve their concentration and mindfulness.</p>
+upcycled tree logs for park visitors to improve their concentration and
+mindfulness.</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ upcycled tree logs for <a rel="noopener noreferrer nofollow" target="_blank">par
 <p>The 1,650 sqm Therapeutic Garden at Bedok Reservoir Park is the first
 therapeutic garden to be built over a former sand quarry. To reflect its
 heritage, stones and boulders has been incorporated into the garden’s features
-and amenities, such as the interactive rock garden whereby park visitors
+and amenities, such as the interactive rock garden where park visitors
 can engage in rock balancing activities.</p>
 </td>
 </tr>
