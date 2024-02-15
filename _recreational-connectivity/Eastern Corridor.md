@@ -9,32 +9,32 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Bedok Park Connector - Eastern Bank" src="/images/Hero___Bedok_Park_Connector__Eastern_Bank__Landscaping__Credit_NParks_.jpg">
 </div>
 <p></p>
-<p></p>
+<h2>Eastern Corridor</h2>
 <p>The Eastern Corridor is an 18 km route comprising park connectors that
 have been progressively completed since it was first announced in 2021.
 Half of the route is located along waterways, including those enhanced
-under <a rel="noopener noreferrer nofollow" target="_blank">national water agency </a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>&nbsp;PUB’s Active, Beautiful, Clean Waters (ABC Waters) Programme,
-offering park visitors a scenic cycling experience along waterscapes in
-the east. This provides more opportunities for the community to explore
-our parks and nature areas. Multi-tiered landscaping along the Eastern
-Corridor helps enhance greenery and attract biodiversity. This will bring
-the community closer to greenery, enabling them to benefit from the positive
-effects of nature on theialth and well-being. It will also connect communities
-and bring about a sense of space many times beyond our small island-city
-state. These efforts contribute to Singapore’s transformation into a&nbsp;
-<a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
+under national water agency&nbsp;PUB’s Active, Beautiful, Clean Waters
+(ABC Waters) Programme, offering park visitors a scenic cycling experience
+along waterscapes in the east. This provides more opportunities for the
+community to explore our parks and nature areas. Multi-tiered landscaping
+along the Eastern Corridor helps enhance greenery and attract biodiversity.
+This will bring the community closer to greenery, enabling them to benefit
+from the positive effects of nature on their health and well-being. It
+will also connect communities and bring about a sense of space many times
+beyond our small island-city state. These efforts contribute to Singapore’s
+transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
 <hr>
-<p>Getting to the Eastern Corridor</p>
+<h4>Getting to the Eastern Corridor</h4>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Park/Connectivity Point</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>&nbsp;</p>
+<p><strong>Park / Connectivity Point</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eastern Corridor Connectivity Point</p>
+<p><strong>Eastern Corridor Connectivity Point</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -104,18 +104,11 @@ state. These efforts contribute to Singapore’s transformation into a&nbsp;
 </tbody>
 </table>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>For Parks to add the links to the respective
-park pages</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>For Parks to add the links to the respective
-park pages</p>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
 </div>
-<p>New Features</p>
+<h4>New Features</h4>
 <table>
 <tbody>
 <tr>
@@ -181,7 +174,7 @@ corner</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Noteworthy Flora and Fauna Opportunities</p>
+<h4>Noteworthy Flora and Fauna Opportunities</h4>
 <table>
 <tbody>
 <tr>
@@ -272,5 +265,4 @@ on the head. You can sometimes see this bird along Sungei Tampines.</p>
 </tbody>
 </table>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SN(1]</a>To use the term 'park visitors' instead
-of 'users'</p>
+<p></p>
