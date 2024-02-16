@@ -10,6 +10,8 @@ description: ""
 </div>
 <p></p>
 <h2>Eastern Corridor</h2>
+<p></p>
+<p></p>
 <p>The Eastern Corridor is an 18 km route comprising park connectors that
 have been progressively completed since it was first announced in 2021.
 Half of the route is located along waterways, including those enhanced
@@ -118,6 +120,8 @@ transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pasir Ris Town Park Foot Reflexology</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a relaxing experience at the newly upgraded foot reflexology area
@@ -131,6 +135,11 @@ and Water Jasmine <em>(Wrightia religiosa) </em>plants<em>.</em>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sun Plaza Park Therapeutic Garden</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sun Plaza Park Therapeutic Gardens" src="/images/Sun_Plaza_Park_therapeutic_garden_Parkgoers_walking_along_naturalistic_pathway__Credit_NParks_.jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The 1,700 sqm Therapeutic Garden @ Sun Plaza Park features a garden brook,
@@ -145,6 +154,8 @@ mindfulness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Bedok Reservoir Park Therapeutic Garden</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The 1,650 sqm Therapeutic Garden at Bedok Reservoir Park is the first
@@ -157,6 +168,11 @@ can engage in rock balancing activities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Bedok Ria Crescent Playground</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Ria Crescent Playground" src="/images/Bedok_Ria_Crescent_Playground__Credit_NParks_.jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The park includes a children's playground, fitness facilities, a community
@@ -169,6 +185,11 @@ rainwater.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Eastwood Park Playground</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eastwood Park Playground" src="/images/Eastwood_Park_Playground__Credit_NParks_.jpeg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eastwood Park Playground has play structures and a fully furnished fitness
