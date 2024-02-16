@@ -108,10 +108,10 @@ transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Tampines Ave 9 Park Connector" src="/images/Tampines_Ave_9_Park_Connector__Credit_NParks_.JPG">
 </div>
+<h4></h4>
 <h4>New Features</h4>
 <table>
 <tbody>
@@ -183,8 +183,8 @@ corner</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Hilo Beauty Elephant Ear<em> (Caladium praetermissum)</em>
+<p>Hilo Beauty Elephant Ear</p>
+<p><em>(Caladium praetermissum)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,7 +196,6 @@ Garden in Sun Plaza Park</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Bread Flower</p>
 <p>(<em>Vallaris glabra)</em>
 </p>
@@ -236,7 +235,8 @@ streaks. This owl is a resident of Pasir Ris Park near the mangroves.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Collared Kingfisher (<em>Todiramphus chloris</em>)</p>
+<p>Collared Kingfisher</p>
+<p>(<em>Todiramphus chloris</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Collared Kingfishers are common and can be found in many habitats
@@ -247,7 +247,8 @@ blue back and wings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malayan Water Monitor (<em>Varanus salvator</em>)</p>
+<p>Malayan Water Monitor</p>
+<p>(<em>Varanus salvator</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Malayan Water Monitor is one of the most common monitor lizards that
