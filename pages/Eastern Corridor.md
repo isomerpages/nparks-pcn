@@ -31,7 +31,7 @@ beyond our small island-city state. These efforts contribute to Singapore’s
 transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
 <p></p>
 <p>Click <a href="/files/Eastern_Corridor_map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-download the Eastern Corridor map.</p>
+download the above Eastern Corridor map.</p>
 <hr>
 <h4>Getting to the Eastern Corridor</h4>
 <table>
