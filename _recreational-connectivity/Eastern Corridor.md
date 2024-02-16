@@ -225,7 +225,10 @@ corner</p>
 <p>Hilo Beauty Elephant Ear is an aroid herb that reaches to 1 m tall. The
 large green leaves are marked with irregular white, cream to light green
 spots. It can be grown as a houseplant or outdoors, as seen in the Therapeutic
-Garden in Sun Plaza Park</p>
+Garden in Sun Plaza Park.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/6/1635" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +241,10 @@ Garden in Sun Plaza Park</p>
 <p>Bread Flower is a climber which can usually be found on trellises or structures.
 It is a butterfly-attracting plant and produces fragrant flowers which
 smell like pandan. This plant can be found growing on the trellis at the
-Therapeutic Garden at Bedok Reservoir Park</p>
+Therapeutic Garden at Bedok Reservoir Park.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/flora/1/5/1529" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -252,6 +258,9 @@ Therapeutic Garden at Bedok Reservoir Park</p>
 with jagged leaf margins, up to 3 m long and 2 m wide. The undersurface
 of the leaves are covered with white hairs which give them a silvery or
 grey colour. It is usually grown under shaded areas in Sun Plaza Park.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/flora/4/3/4345" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,6 +274,9 @@ grey colour. It is usually grown under shaded areas in Sun Plaza Park.</p>
 <p>About 23 cm tall, the Sunda Scops Owl has a dusky-yellowish bill, brownish
 vermiculated upperparts and pale sandy-buffish underparts with fine blackish
 streaks. This owl is a resident of Pasir Ris Park near the mangroves.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/6/2/629" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -277,6 +289,9 @@ streaks. This owl is a resident of Pasir Ris Park near the mangroves.</p>
 throughout Singapore including parks and gardens. It can be distinguished
 by a white band around its neck and white underparts, with a turquoise
 blue back and wings.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/3/4/34" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -288,6 +303,9 @@ blue back and wings.</p>
 <p>The Malayan Water Monitor is one of the most common monitor lizards that
 can be found in Singapore. It can grow up to 3 m long and can be found
 in forests, mangrove swamps and man-made canals.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/8/4/842" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -299,6 +317,9 @@ in forests, mangrove swamps and man-made canals.</p>
 <p>The Grey Heron is commonly spotted in a variety of freshwater and coastal
 wetlands across Singapore. It has a wingspan of 2 m and has a black stripe
 on the head. You can sometimes see this bird along Sungei Tampines.</p>
+<p></p>
+<p><a href="https://www.nparks.gov.sg/florafaunaweb/fauna/1/7/172" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>
+</p>
 </td>
 </tr>
 </tbody>
