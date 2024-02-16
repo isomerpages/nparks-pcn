@@ -129,7 +129,9 @@ download the Eastern Corridor map.</p>
 <td rowspan="1" colspan="1">
 <p>Pasir Ris Town Park Foot Reflexology</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pasir Ris Town Park" src="/images/Pasir_Ris_Town_Park__Credit_NParks_.jpg">
+</div>
 <p></p>
 <p></p>
 </td>
@@ -326,7 +328,4 @@ on the head. You can sometimes see this bird along Sungei Tampines.</p>
 </table>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pasir Ris Town Park" src="/images/Pasir_Ris_Town_Park__Credit_NParks_.jpg">
-</div>
 <p></p>
