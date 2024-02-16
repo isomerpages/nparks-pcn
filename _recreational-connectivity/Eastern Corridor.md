@@ -11,6 +11,10 @@ description: ""
 <p></p>
 <h2>Eastern Corridor</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eastern Corridor Map" src="/images/Eastern_Corridor_map_isomer.png">
+</div>
+<p></p>
 <p></p>
 <p>The Eastern Corridor is an 18 km route comprising park connectors that
 have been progressively completed since it was first announced in 2021.
@@ -25,6 +29,9 @@ from the positive effects of nature on their health and well-being. It
 will also connect communities and bring about a sense of space many times
 beyond our small island-city state. These efforts contribute to Singapore’s
 transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
+<p></p>
+<p>Click <a href="/files/Eastern_Corridor_map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the Eastern Corridor map.</p>
 <hr>
 <h4>Getting to the Eastern Corridor</h4>
 <table>
