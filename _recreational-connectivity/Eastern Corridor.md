@@ -129,6 +129,8 @@ download the Eastern Corridor map.</p>
 <p>Pasir Ris Town Park Foot Reflexology</p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enjoy a relaxing experience at the newly upgraded foot reflexology area
@@ -163,6 +165,9 @@ mindfulness.</p>
 <p>Bedok Reservoir Park Therapeutic Garden</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bedok Reservoir Park Therapeutic Garden" src="/images/Bedok_Reservoir_Park_Therapeutic_Garden__Credit_NParks__isomer.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The 1,650 sqm Therapeutic Garden at Bedok Reservoir Park is the first
