@@ -117,6 +117,7 @@ download the Eastern Corridor map.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Tampines Ave 9 Park Connector" src="/images/Tampines_Ave_9_Park_Connector__Credit_NParks_.JPG">
 </div>
