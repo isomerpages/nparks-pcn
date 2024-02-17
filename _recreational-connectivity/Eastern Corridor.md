@@ -208,7 +208,7 @@ rainwater.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eastwood Park Playground has play structures and a fully furnished fitness
-corner</p>
+corner.</p>
 </td>
 </tr>
 </tbody>
