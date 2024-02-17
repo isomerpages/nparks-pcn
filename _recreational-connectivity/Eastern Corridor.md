@@ -122,7 +122,7 @@ download the above Eastern Corridor map.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Tampines Ave 9 Park Connector" src="/images/Tampines_Ave_9_Park_Connector__Credit_NParks_.JPG">
 </div>
 <h4></h4>
-<h4>New Features</h4>
+<h4>Features along the route</h4>
 <table>
 <tbody>
 <tr>
