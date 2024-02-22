@@ -30,6 +30,8 @@ will also connect communities and bring about a sense of space many times
 beyond our small island-city state. These efforts contribute to Singapore’s
 transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
 <p></p>
+<p>Watch the video on Eastern Corridor <a href="https://youtu.be/YCcnDTD1A1M?si=sZ0HjXeXsUUYYVav" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
 <p>Click <a href="/files/Eastern_Corridor_map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the above Eastern Corridor map.</p>
 <hr>
@@ -113,7 +115,6 @@ download the above Eastern Corridor map.</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Bedok Park Connector - Western Bank" src="/images/Bedok_Park_Connector__Western_Bank___Credit_NParks_.JPG">
 </div>
