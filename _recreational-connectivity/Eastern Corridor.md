@@ -29,8 +29,11 @@ from the positive effects of nature on their health and well-being. It
 will also connect communities and bring about a sense of space many times
 beyond our small island-city state. These efforts contribute to Singapore’s
 transformation into a&nbsp; <a href="https://www.nparks.gov.sg/about-us/city-in-nature" rel="noopener noreferrer nofollow" target="_blank">City in Nature</a>.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YCcnDTD1A1M?si=omzZLsJlkRxoBNCG"></iframe>
+</div>
 <p></p>
-<p>Watch the video on Eastern Corridor <a href="https://youtu.be/YCcnDTD1A1M?si=sZ0HjXeXsUUYYVav" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
 <p></p>
 <p>Click <a href="/files/Eastern_Corridor_map.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the above Eastern Corridor map.</p>
