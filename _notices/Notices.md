@@ -145,7 +145,7 @@ beaches.&nbsp;</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punggol Waterway</strong>
+<p><strong>Punggol Waterway</strong> 
 <br><strong>- 27 Nov 2023 to 31 Mar 2024</strong> 
 <br>
 <br>The track along Punggol Waterway is partially closed for track widening
