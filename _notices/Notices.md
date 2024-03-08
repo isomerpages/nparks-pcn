@@ -85,7 +85,7 @@ during this construction period.</p>
 track widening works until 30 September 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/wild-boars" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>More information can be found <a href="/files/PPNW_Closure_Notice_Phase_3__D231204__R2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
@@ -145,7 +145,7 @@ beaches.&nbsp;</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sungei Serangoon Park Connector</strong>
+<p><strong>Sungei Serangoon Park Connector</strong> 
 <br><strong>- 27 Nov 2023 to 30 Jun 2024</strong> 
 <br>
 <br>The track along Sungei Serangoon Park Connector is partially closed for
