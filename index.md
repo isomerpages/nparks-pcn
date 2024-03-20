@@ -13,7 +13,7 @@ sections:
       button: Explore the PCN
       url: /the-park-connector-experience/explore-park-connectors/explore/
   - infopic:
-      title: About Our PCNs
+      title: About Our PCN
       subtitle: Park Connector Network
       description: A large interlinking network of Park Connectors, you can easily
         park hop while indulging in various fun and recreational activities.
