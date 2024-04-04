@@ -1,5 +1,5 @@
 title: NParks Park Connector Network
-url: ""
+url: https://pcn.nparks.gov.sg
 favicon: /images/NParks%20Logo.png
 colors:
   primary-color: "#FF9E18"
@@ -57,3 +57,4 @@ shareicon: /images/NParks Logo.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
