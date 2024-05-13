@@ -9,10 +9,26 @@ variant: markdown
 ##### 17 May to 31 June 2024
 ![PCN Kindness Challenge 2024](/images/PCN_Kindness_Challenge_2024.png)
 
+Giving way to pedestrians along the path? Helping an elderly at the intersection? Kindness goes a long way on our trails and on the Park Connector Network (PCN)!
 
+The PCN Kindness Challenge is back again with style! Together with Singapore Kindness Movement (SKM), we are calling out to users of our Parks and PCN to join us in spreading graciousness and kindness on our Park Connectors. 😊
+
+Up for a challenge? Spot the Singa on the PCN! Gain some points by capturing AR icons of Singa and Phyl when using the NParks Explore a Route (NEAR) Mobile application! Accumulate points on the app and stand a chance to win grocery vouchers as well as merchandise from Singapore Kindness Movement. Top 3 winners will win $200 grocery voucher, a limited edition Singa plushie and other SKM merchandise. ✌🏻
 
 ![Singa Plushie](/images/Singa_Plushie_edited.png)
 
+Share your experience with a big smile! When visiting the park and PCN, take photos with your buddies and upload them on the NEAR app or social media. Include the hashtag **#pcnkindness** when posting on Facebook and Instagram. Remember to keep your post public to share your memories with everyone!
+
+This event will run from 17 May through 31st June 2024.
+
+We hope to see you and your kakis on the Park Connectors! Have fun and remember to stay gracious and share the path together!
+
+PCN Kindness Challenge  
+17 May – 31 June 2024
+
+🔗Download our NEAR mobile app here -&nbsp;[https://near.nparks.gov.sg/](https://near.nparks.gov.sg/)
+
+**#PCNKindness #NParksBuzz #ParkConnectorNetwork**
 
 ---
 
