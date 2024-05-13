@@ -110,7 +110,7 @@ memories with everyone!</p>
 <p>This event will run from 17 May through 31st June 2024.</p>
 <p>We hope to see you and your kakis on the Park Connectors! Have fun and
 remember to stay gracious and share the path together!</p>
-<p><strong>PCN Kindness Challenge</strong>
+<p><strong>PCN Kindness Challenge</strong> 
 <br><strong>17 May – 31 June 2024</strong>
 </p>
 <p>🔗Download our NEAR mobile app here via <a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://near.nparks.gov.sg/</a>
