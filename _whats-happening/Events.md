@@ -4,9 +4,18 @@ permalink: /do-more/events/
 description: ""
 variant: markdown
 ---
+
+## PCN Kindness Campaign 2024
+
+##### 17 May to 31 June 2024
+
+![Singa Plushie](/images/Singa_Plushie_edited.png)
+
+
+
 ---
 
-## PCN Kindness Campaign
+## PCN Kindness Campaign 2023
 ##### 24 June 2023 to 30 July 2023
 ![NEAR PCN Kindness Event](/images/login%20screen.png)
 We're excited to partner with Singapore Kindness Movement (SKM) once again for the Park Connector Network (PCN) Kindness Campaign 2023 – join us in spreading kindness and positivity on our park connectors! 😊  
