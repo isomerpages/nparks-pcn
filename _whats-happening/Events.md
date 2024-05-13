@@ -7,9 +7,11 @@ variant: markdown
 ## PCN Kindness Campaign 2024
 
 ##### 17 May to 31 June 2024
+![PCN Kindness Challenge 2024](/images/PCN_Kindness_Challenge_2024.png)
+
+
 
 ![Singa Plushie](/images/Singa_Plushie_edited.png)
-
 
 
 ---
