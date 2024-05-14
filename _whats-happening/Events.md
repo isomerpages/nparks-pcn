@@ -12,16 +12,15 @@ variant: tiptap
 <p>Giving way to pedestrians along the path? Helping an elderly at the intersection?
 Kindness goes a long way on our trails and on the Park Connector Network
 (PCN)!</p>
-<p>The PCN Kindness Challenge is back again with style! Together with Singapore
-Kindness Movement (SKM), we are calling out to users of our Parks and PCN
-to join us in spreading graciousness and kindness on our Park Connectors.
-😊</p>
-<p>Up for a challenge? Spot the Singa on the PCN! Gain some points by capturing
-AR icons of Singa and Phyl when using the NParks Explore a Route (NEAR)
-Mobile application! Accumulate points on the app and stand a chance to
-win grocery vouchers as well as merchandise from Singapore Kindness Movement.
-Top 3 winners will win $200 grocery voucher, a limited edition Singa plushie
-and other SKM merchandise. ✌🏻</p>
+<p>The PCN Kindness Challenge is back again with style! Together with <a href="https://www.facebook.com/kindnessSG/" rel="noopener noreferrer nofollow" target="_blank">Singapore Kindness Movement (SKM)</a>,
+we are calling out to users of our Parks and PCN to join us in spreading
+graciousness and kindness on our Park Connectors. 😊</p>
+<p>Up for a challenge? Spot the Singa and Phyll on the PCN! Gain some points
+by capturing AR icons of Singa and Phyll when using the NParks Explore
+a Route (NEAR) Mobile application! Accumulate points on the app and stand
+a chance to win grocery vouchers as well as merchandise from Singapore
+Kindness Movement. Top 3 winners will win $200 worth grocery voucher, a
+limited edition Singa plushie and other SKM merchandise. ✌🏻</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,7 +42,7 @@ and other SKM merchandise. ✌🏻</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>$200 Grocery Vouchers</p>
+<p>$200 worth of Grocery Vouchers</p>
 </li>
 <li>
 <p>Limited Edition Singa Plushie</p>
@@ -64,7 +63,7 @@ and other SKM merchandise. ✌🏻</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>$100 Grocery Vouchers</p>
+<p>$100 worth of Grocery Vouchers</p>
 </li>
 <li>
 <p>Limited Editon Singa Plushie</p>
@@ -82,7 +81,7 @@ and other SKM merchandise. ✌🏻</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>$50 Grocery Vouchers</p>
+<p>$50 worth of Grocery Vouchers</p>
 </li>
 <li>
 <p>Limited Edition Singa Plushie</p>
@@ -103,15 +102,15 @@ and other SKM merchandise. ✌🏻</p>
 </tbody>
 </table>
 <p>Share your experience with a big smile! When visiting the park and PCN,
-take photos with your buddies and upload them on the NEAR app or social
-media. Include the hashtag <strong>#pcnkindness</strong> when posting on
-Facebook and Instagram. Remember to keep your post public to share your
+take photos with your buddies and upload them on the NEAR app or on your
+social media. Include the hashtag <strong>#pcnkindness</strong> when posting
+on Facebook and Instagram. Remember to keep your post public to share your
 memories with everyone!</p>
-<p>This event will run from 17 May through 31st June 2024.</p>
+<p>This event will run from 17 May through 23rd June 2024.</p>
 <p>We hope to see you and your kakis on the Park Connectors! Have fun and
 remember to stay gracious and share the path together!</p>
 <p><strong>PCN Kindness Challenge</strong> 
-<br><strong>17 May – 31 June 2024</strong>
+<br><strong>17 May – 23 June 2024</strong>
 </p>
 <p>🔗Download our NEAR mobile app here via <a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://near.nparks.gov.sg/</a>
 </p>
