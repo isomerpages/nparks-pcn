@@ -21,86 +21,11 @@ a Route (NEAR) Mobile application! Accumulate points on the app and stand
 a chance to win grocery vouchers as well as merchandise from Singapore
 Kindness Movement. Top 3 winners will win $200 worth grocery voucher, a
 limited edition Singa plushie and other SKM merchandise. ✌🏻</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Prizes</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leaderboard - Top 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>$200 worth of Grocery Vouchers</p>
-</li>
-<li>
-<p>Limited Edition Singa Plushie</p>
-</li>
-<li>
-<p>SKM Merchandise
-<br>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Consolation Prize
-<br>[Ranked 4-10]</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>$100 worth of Grocery Vouchers</p>
-</li>
-<li>
-<p>Limited Editon Singa Plushie</p>
-</li>
-<li>
-<p>SKM Merchandise</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lucky Draw Winners - 20 winners with 100 points and above</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>$50 worth of Grocery Vouchers</p>
-</li>
-<li>
-<p>Limited Edition Singa Plushie</p>
-</li>
-<li>
-<p>SKM Merchandise</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singa Plushie" src="/images/Singa_Plushie_edited.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prizes" src="/images/SKM_Prizes.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p>Share your experience with a big smile! When visiting the park and PCN,
 take photos with your buddies and upload them on the NEAR app or on your
 social media. Include the hashtag <strong>#pcnkindness</strong> when posting
@@ -172,5 +97,5 @@ congratulations to the winners! 🥳</p>
 <p><a href="/files/C2C%20Challenge%20Announcements%20(2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the winners of past Challenges.</a>
 </p>
 <p>This challenge is organised in partnership with <strong>Explore a Route SG</strong>.
-Find out more about these ambassadors here: &nbsp;<a href="https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/explorearoute_sg/</a>
+Find out more about these ambassadors here: &nbsp;<a href="https://www.instagram.com/explorearoute_sg/?fbclid=IwAR11aDbP_WIRT5Pztt8kudLeBeYpNhaZzEYRwpcbQIiWD3sY8Y11dl_H2VI" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/explorearoute_sg</a>
 </p>
