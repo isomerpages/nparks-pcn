@@ -69,7 +69,7 @@ ending at the junction between Ang Mo Kio Ave 8 and Ang Mo Kio Ave 1.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.08km</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
