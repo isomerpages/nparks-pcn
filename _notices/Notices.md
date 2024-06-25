@@ -253,16 +253,10 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 <p>Western Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Jurong Park Connector</strong> 
-<br>
-</p>
-<p>A section of Jurong Park Connector is closed from 5 April 2023 to 31 March
-2024 for the development of Chinese and Japanese Gardens, part of Jurong
-Lake Gardens.</p>
-<p>Please refer to the map for the alternative route during this period.</p>
+<p>--------</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to map <a href="/files/31_Mar_2023_PCN_Closure_Notice_Jurong_PC_end_March_24.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
