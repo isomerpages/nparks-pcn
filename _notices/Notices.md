@@ -182,25 +182,6 @@ track widening works until 30 September 2024.</p>
 <p>Southern Ridges Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ulu Pandan Park Connector</strong> 
-<br>
-</p>
-<p>A stretch of the South Bank remains closed till mid-2024 for the final
-phase of recovery and reconstruction works.</p>
-<p></p>
-<p>Users can continue to access the Park Connector via multiple points.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please refer to map <a href="/files/Ulu_Pandan_PC_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Alexandra Canal Linear Park</strong> 
 <br><strong>- 25 January 2019 to Q1 2024</strong> 
 <br>
