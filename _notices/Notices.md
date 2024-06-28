@@ -215,6 +215,50 @@ January 2024 to 31 January 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ulu Pandan Park Connector</strong>
+</p>
+<p></p>
+<p>Sections of the Ulu Pandan Park Connector</p>
+<p>from Commonwealth Ave West to Clementi</p>
+<p>Rd (indicated in red) are partially closed for</p>
+<p>trench works from 1 July.</p>
+<p>Visitors can use a temporary diversion path</p>
+<p>along these sections or use the alternative</p>
+<p>route along Ulu Pandan (North Bank) Park</p>
+<p>Connector (indicated in yellow).</p>
+<p>Expected completion date: 10 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the alternative route <a href="/files/Ulu Pandan PC Notices (PDF)/100724_Ulu_Pandan_PC_PUB_Trial_Trench_Works_Signage.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ulu Pandan Park Connector</strong>
+</p>
+<p></p>
+<p>The section of Ulu Pandan Park Connector</p>
+<p>from Commonwealth Ave West to Clementi</p>
+<p>Rd (indicated in red) is closed for</p>
+<p>track works on 15 July 2024.</p>
+<p>Please use the alternative route along</p>
+<p>Ulu Pandan (North Bank) Park Connector</p>
+<p>(indicated in yellow).</p>
+<p>Expected completion date: End 15 July 2024</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the alternative route <a href="/files/Ulu Pandan PC Notices (PDF)/150724_Ulu_Pandan_PC_PUB_Reinstatement_Works_Signage.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Western Adventure Loop</p>
 </td>
 <td rowspan="1" colspan="1">
