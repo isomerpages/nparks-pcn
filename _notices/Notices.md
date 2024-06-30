@@ -182,25 +182,6 @@ track widening works until 30 September 2024.</p>
 <p>Southern Ridges Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ulu Pandan Park Connector</strong> 
-<br>
-</p>
-<p>A stretch of the South Bank remains closed till mid-2024 for the final
-phase of recovery and reconstruction works.</p>
-<p></p>
-<p>Users can continue to access the Park Connector via multiple points.
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please refer to map <a href="/files/Ulu_Pandan_PC_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Alexandra Canal Linear Park</strong> 
 <br><strong>- 25 January 2019 to Q1 2024</strong> 
 <br>
@@ -230,6 +211,50 @@ January 2024 to 31 January 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ulu Pandan Park Connector</strong>
+</p>
+<p></p>
+<p>Sections of the Ulu Pandan Park Connector</p>
+<p>from Commonwealth Ave West to Clementi</p>
+<p>Rd (indicated in red) are partially closed for</p>
+<p>trench works from 1 July.</p>
+<p>Visitors can use a temporary diversion path</p>
+<p>along these sections or use the alternative</p>
+<p>route along Ulu Pandan (North Bank) Park</p>
+<p>Connector (indicated in yellow).</p>
+<p>Expected completion date: 10 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the alternative route <a href="/files/Ulu Pandan PC Notices (PDF)/100724_Ulu_Pandan_PC_PUB_Trial_Trench_Works_Signage.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ulu Pandan Park Connector</strong>
+</p>
+<p></p>
+<p>The section of Ulu Pandan Park Connector</p>
+<p>from Commonwealth Ave West to Clementi</p>
+<p>Rd (indicated in red) is closed for</p>
+<p>track works on 15 July 2024.</p>
+<p>Please use the alternative route along</p>
+<p>Ulu Pandan (North Bank) Park Connector</p>
+<p>(indicated in yellow).</p>
+<p>Expected completion date: End 15 July 2024</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the alternative route <a href="/files/Ulu Pandan PC Notices (PDF)/150724_Ulu_Pandan_PC_PUB_Reinstatement_Works_Signage.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
