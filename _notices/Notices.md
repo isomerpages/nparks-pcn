@@ -150,31 +150,14 @@ beaches.&nbsp;</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punggol Waterway</strong> 
-<br><strong>- 27 Nov 2023 to 31 Mar 2024</strong> 
-<br>
-<br>The track along Punggol Waterway is partially closed for track widening
-works until 31 Mar 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More information can be found <a href="/files/PWW__31_mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>North Eastern Riverine Loop</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Sungei Serangoon Park Connector</strong> 
-<br><strong>- 27 Nov 2023 to 30 Jun 2024</strong> 
+<br><strong>- 27 Nov 2023 to 31 August 2024</strong> 
 <br>
 <br>The track along Sungei Serangoon Park Connector is partially closed for
-track widening works until 30 September 2024.</p>
+track widening works until 31 August 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information can be found <a href="/files/SSG_widening__30_Jun_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>More information can be found <a href="/files/Partial_Closure_of_SSPC__31_August_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
