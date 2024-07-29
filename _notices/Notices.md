@@ -28,8 +28,7 @@ variant: tiptap
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ang Mo Kio Ave 5 Park Connector</strong> 
-<br><strong>-25 Apr 2023 to 30 Apr 2028</strong> 
+<p><strong>Ang Mo Kio Ave 5 Park Connector – 25 Apr 2023 to 30 Apr 2028</strong> 
 <br>
 <br>Works for Land Transport Authority's North-South Corridor project at the
 junction of Ang Mo Kio Ave 5 Park Connector with Ang Mo Kio Ave 6 have
@@ -79,8 +78,7 @@ during this construction period.</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punggol Promenade Nature Walk</strong> 
-<br><strong>- 4 Dec 2023 to 30 Sep 2024</strong> 
+<p><strong>Punggol Promenade Nature Walk</strong>  <strong>–</strong>  <strong>4 Dec 2023 to 30 Sep 2024</strong> 
 <br>
 <br>The track along Punggol Promenade Nature Walk is partially closed for
 track widening works until 30 September 2024.</p>
@@ -146,8 +144,7 @@ beaches.&nbsp;</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sungei Serangoon Park Connector</strong> 
-<br><strong>- 27 Nov 2023 to 31 August 2024</strong> 
+<p><strong>Sungei Serangoon Park Connector</strong>  <strong>– 27 Nov 2023 to 31 August 2024</strong> 
 <br>
 <br>The track along Sungei Serangoon Park Connector is partially closed for
 track widening works until 31 August 2024.</p>
@@ -172,8 +169,7 @@ track widening works until 31 August 2024.</p>
 <p>Western Adventure Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Choa Chu Kang Park Connector</strong> 
-<br><strong>- 4 October 2021 to Q1 2025</strong> 
+<p><strong>Choa Chu Kang Park Connector</strong>  <strong>– 4 October 2021 to Q1 2025</strong> 
 <br>
 <br>A section of Choa Chu Kang Park Connector is closed for LTA's upgrading
 works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
