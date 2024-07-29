@@ -213,10 +213,9 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 </p>
 <p></p>
 <p>Works for Land Transport Authority's North-South Corridor project next
-to&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-pc" rel="noopener noreferrer nofollow" target="_blank">Ang Mo Kio Park Connector</a>&nbsp;have
-commenced. Sections of the park connector will be diverted. Interim paths
-will be constructed to ensure connectivity of our park connector during
-this construction period.</p>
+to Ang Mo Kio Park Connector&nbsp;have commenced. Sections of the park
+connector will be diverted. Interim paths will be constructed to ensure
+connectivity of our park connector during this construction period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -228,10 +227,10 @@ this construction period.</p>
 </p>
 <p></p>
 <p>Works for Land Transport Authority's North-South Corridor project at the
-junction of&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-ave-5-pc" rel="noopener noreferrer nofollow" target="_blank">Ang Mo Kio Ave 5 Park Connector</a>&nbsp;with
-Ang Mo Kio Ave 6 have commenced. A section of the park connector at this
-junction will be affected and diverted. An interim path will be constructed
-to ensure continued connectivity during this construction period.</p>
+junction of Ang Mo Kio Ave 5 Park Connector&nbsp;with Ang Mo Kio Ave 6
+have commenced. A section of the park connector at this junction will be
+affected and diverted. An interim path will be constructed to ensure continued
+connectivity during this construction period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -246,14 +245,14 @@ to ensure continued connectivity during this construction period.</p>
 project for the area near Ang Mo Kio Town Garden West.</p>
 <p>With this, a section of Ang Mo Kio Town Garden West will be closed, and
 the pond removed. The footpath within the construction area has also been
-closed and an interim path has been constructed to ensure continued connectivity.
-Our garden continues to be open and accessible to all even during this
+closed and an interim path has been constructed to ensure continued connectivity.</p>
+<p></p>
+<p>Our garden continues to be open and accessible to all even during this
 construction period.</p>
-<p><a href="https://www.nparks.gov.sg/-/media/peb/coast-to-coast/notices/amktgw-closure-notice.ashx?la=en&amp;hash=9C05A4D43DD026551409F0D5733BEAAD05980F8D" rel="noopener noreferrer nofollow" target="_blank">Click here for more information and alternative routes.</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="/files/AMKTGW_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information and alternative routes.</p>
 </td>
 </tr>
 </tbody>
