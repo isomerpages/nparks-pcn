@@ -212,13 +212,16 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 <p><strong>Diversion of sections of Ang Mo Kio Park Connector</strong>
 </p>
 <p></p>
-<p>Works for Land Transport Authority's North-South Corridor project next
-to Ang Mo Kio Park Connector&nbsp;have commenced. Sections of the park
-connector will be diverted. Interim paths will be constructed to ensure
-connectivity of our park connector during this construction period.</p>
+<p>Ang Mo Kio Park Connector along Ang Mo Kio Ave 6 is closed for the construction
+of the North-South Corridor and MRT station from 9 June 2024.</p>
+<p></p>
+<p>Visitors may use the surrounding routes to get around.</p>
+<p></p>
+<p>Expected completion date: End 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="/files/Ang_Mo_Kio_PC_closure_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.</p>
 </td>
 </tr>
 <tr>
@@ -228,9 +231,13 @@ connectivity of our park connector during this construction period.</p>
 <p></p>
 <p>Works for Land Transport Authority's North-South Corridor project at the
 junction of Ang Mo Kio Ave 5 Park Connector&nbsp;with Ang Mo Kio Ave 6
-have commenced. A section of the park connector at this junction will be
-affected and diverted. An interim path will be constructed to ensure continued
-connectivity during this construction period.</p>
+have commenced.</p>
+<p></p>
+<p>A section of the park connector at this junction will be affected and
+diverted.</p>
+<p></p>
+<p>An interim path will be constructed to ensure continued connectivity during
+this construction period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -243,9 +250,12 @@ connectivity during this construction period.</p>
 <p></p>
 <p>Works have commenced for Land Transport Authority's North-South Corridor
 project for the area near Ang Mo Kio Town Garden West.</p>
+<p></p>
 <p>With this, a section of Ang Mo Kio Town Garden West will be closed, and
-the pond removed. The footpath within the construction area has also been
-closed and an interim path has been constructed to ensure continued connectivity.</p>
+the pond removed.</p>
+<p></p>
+<p>The footpath within the construction area has also been closed and an
+interim path has been constructed to ensure continued connectivity.</p>
 <p></p>
 <p>Our garden continues to be open and accessible to all even during this
 construction period.</p>
