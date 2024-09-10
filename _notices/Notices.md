@@ -184,10 +184,15 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 <p>Western Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Jurong Park Connector</strong>  <strong>– 16 September 2024 to 19 September 2024</strong> 
+<br>
+<br>A section of Jurong Park Connector is closed for improvement works from
+16 September 2024 to 19 September 2024. For more information, refer to
+map</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_09_16_19_Jurong_PC_closure__Yuan_Ching_Rd_to_Corporation_Rd_.pdf" rel="noopener nofollow" target="_blank">Closure of Jurong PC (Yuan Ching Road to Corporation Road)</a>
+</p>
 </td>
 </tr>
 </tbody>
