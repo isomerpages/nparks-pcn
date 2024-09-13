@@ -141,20 +141,6 @@ beaches.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>North Eastern Riverine Loop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sungei Serangoon Park Connector</strong>  <strong>– 27 Nov 2023 to 31 August 2024</strong> 
-<br>
-<br>The track along Sungei Serangoon Park Connector is partially closed for
-track widening works until 31 August 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More information can be found <a href="/files/Partial_Closure_of_SSPC__31_August_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Southern Ridges Loop</p>
 </td>
 <td rowspan="1" colspan="1">
