@@ -45,21 +45,32 @@ during this construction period.</p>
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Whampoa Park Connector and Kallang Park Connector - October 2024 to April 2025</strong>
+</p>
+<p></p>
+<p>A section of Whampoa Park Connector and Kallang Park Connector at the
+Kolam Ayer Bridge will be closed for improvement works from October 2024
+to April 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Please click <a href="/files/Notice_on_Temporary_Closure_of_Kolam_Ayer_Bridge_and_PCs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+more information.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eastern Coastal Loop</p>
+<p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Kallang Park Connector - 21 October 2024 to 2Q 2027</strong>
+</p>
 <p></p>
+<p>A section of the Kallang Park Connector will be closed for construction
+works from 21 October 2024 to 2Q 2027.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click&nbsp;<a href="/files/Temp_Diversion_Path_Wayfinding_Proposal_14102024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
+more information.</p>
 </td>
 </tr>
 <tr>
