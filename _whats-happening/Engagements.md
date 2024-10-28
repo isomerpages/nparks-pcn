@@ -4,6 +4,31 @@ permalink: /whats-happening/engagements/
 description: PCN public engagements
 variant: markdown
 ---
+#### Pilot for Revised PCN Typology Phase 2
+<br>
+
+To better enhance the user experience along our Park Connector Network (PCN), the National Parks Board (NParks) started piloting a revised PCN typology in September 2022 that segregates selected stretches of the PCN into pedestrian-only paths (POP) and shared paths (SP). NParks also enhanced the clarity of paths through newly designed ground imprints that clearly reflect the user groups allowed on each path, as well as the user group that is accorded priority within each path. <br><br> Phase 1 of the revised PCN typology pilot was implemented between 2022 and 2023 for approximately 30km of park connectors along the Round-Island-Route Eastern Coastal Corridor and Pasir Panjang Park. <br><br>NParks will be implementing Phase 2 of the pilot progressively from along approximately 20km of park connector paths in: <br>
+
+*   Tanjong Rhu PC, Gardens by the Bay, Marina Barrage, Singapore River Promenade
+*   Punggol PC
+*   Pasir Ris Park
+*   Ulu Sembawang PC
+
+<br>
+
+| Shared Path | Segregated / Separated Path |  |
+| -------- | -------- | -------- |
+| ![Pilot-shared path](/images/pilot-shared%20path.jpeg)    | ![Pilot - segregated path](/images/pilot-segregated%20path.png) 
+
+<br>
+
+Based on surveys and feedback, NParks has further improved the clarity of the ground imprints by including directional arrows for Phase 2. These complement the "Keep Left" PCN etiquette and guide users on which side of the path they should be using when moving in different directions. &nbsp;NParks will continue to work with LTA and other stakeholders to raise public awareness on the revised PCN typology and encourage good PCN etiquette.
+
+<br>
+
+NParks will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
+<br>
+
 ### Visioning the North-South Corridor
 
 ![rochor_sungei road](/images/rochor_sungei%20road%20v1.jpg)
