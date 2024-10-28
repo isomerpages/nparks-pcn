@@ -18,7 +18,7 @@ To better enhance the user experience along our Park Connector Network (PCN), th
 
 | Shared Path | Segregated / Separated Path |  |
 | -------- | -------- | -------- |
-| ![Pilot-shared path](/images/pilot-shared%20path.jpeg)    | ![Pilot - segregated path](/images/pilot-segregated%20path.png) 
+| ![Shared Path](/images/Shared_Path.png)   | ![Segregated Path](/images/Segregated_Path.png)
 
 <br>
 
