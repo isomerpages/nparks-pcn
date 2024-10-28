@@ -62,7 +62,7 @@ more information.</p>
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Kallang Park Connector - 21 October 2024 to 2nd Half  2027</strong>
+<p><strong>Kallang Park Connector - 21 October 2024 to 2nd Half 2027</strong>
 </p>
 <p></p>
 <p>A section of the Kallang Park Connector will be closed for construction
