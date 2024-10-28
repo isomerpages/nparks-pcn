@@ -1,6 +1,7 @@
 ---
 title: Types of Paths
 permalink: /sharing-the-pcn/top/
+variant: markdown
 ---
 We advise park users to stay on their designated paths. In our parks and along our park connectors, you will encounter these types of paths:
 
@@ -53,30 +54,26 @@ Within Attention Zones, cyclists and PMD users should slow down and give way to 
 
 
 
-#### Pilot for Revised PCN Typology
+#### Pilot for Revised PCN Typology Phase 2
+<br>
 
-|  |  |  |
-| -------- | -------- | -------- |
-| To better enhance the user experience along our Park Connector Network, we are piloting a revised park connector typology that will segregate paths into **pedestrians-only paths** and **shared paths** at selected stretches that are sufficiently wide and used primarily for recreation, such as along canals and coastal routes.
+To better enhance the user experience along our Park Connector Network (PCN), the National Parks Board (NParks) started piloting a revised PCN typology in September 2022 that segregates selected stretches of the PCN into pedestrian-only paths (POP) and shared paths (SP). NParks also enhanced the clarity of paths through newly designed ground imprints that clearly reflect the user groups allowed on each path, as well as the user group that is accorded priority within each path. <br><br> Phase 1 of the revised PCN typology pilot was implemented between 2022 and 2023 for approximately 30km of park connectors along the Round-Island-Route Eastern Coastal Corridor and Pasir Panjang Park. <br><br>NParks will be implementing Phase 2 of the pilot progressively from along approximately 20km of park connector paths in: <br>
+
+*   Tanjong Rhu PC, Gardens by the Bay, Marina Barrage, Singapore River Promenade
+*   Punggol PC
+*   Pasir Ris Park
+*   Ulu Sembawang PC
+
+<br>
 
 | Shared Path | Segregated / Separated Path |  |
 | -------- | -------- | -------- |
-| ![Pilot-shared path](/images/pilot-shared%20path.jpeg)    | ![Pilot - segregated path](/images/pilot-segregated%20path.png) 
+| ![Shared Path](/images/Shared_Path.png)   | ![Segregated Path](/images/Segregated_Path.png)
 
+<br>
 
+Based on surveys and feedback, NParks has further improved the clarity of the ground imprints by including directional arrows for Phase 2. These complement the "Keep Left" PCN etiquette and guide users on which side of the path they should be using when moving in different directions. &nbsp;NParks will continue to work with LTA and other stakeholders to raise public awareness on the revised PCN typology and encourage good PCN etiquette.
 
+<br>
 
-
-|  This pilot will be implemented progressively from August 2022 along approximately 30km of park connector paths in: |  |  |
-| -------- | -------- | -------- |
-| • Changi Beach Park  |  |  |
-| • Changi Bay PC |  |  |
-| • Coastal PC |  |  |
-| • East Coast Park  |  |  |
-| • Pasir Panjang Park  |  |  |
-
-We will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
-
-Please click on the [FormSG survey link](https://form.gov.sg/63b64b75009b500012c0895d) to share your feedback on the revised typology. Survey findings will help in our ongoing review of the PCN typology.
-
-We will continue to work with LTA and other stakeholders to raise public awareness of good PCN etiquette, so as to provide a more pleasant and safer experience in our PCN and parks.
+NParks will review the outcome of the pilot, including public feedback received, before deciding if this revised typology should be refined further and implemented at other park connectors.
