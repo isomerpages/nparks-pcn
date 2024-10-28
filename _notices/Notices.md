@@ -165,6 +165,12 @@ beaches.&nbsp;</p>
 <p>Please use the alternative route</p>
 <p>(marked in orange). For more information, refer to the map.</p>
 <p></p>
+<p><strong>Pandan Gardens Park Connector</strong>
+</p>
+<p></p>
+<p>A section of the cycling track on the Bridge is narrowed to facilitate
+maintenance works from 1 November 2024 to 31 March 2025.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Ulu Pandan PC Notices (PDF)/Ulu_Pandan__North_Bank__PC_Vehicular_Entrance_Closure_until_201224.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of Ulu Pandan Park Connector Map.</a>
