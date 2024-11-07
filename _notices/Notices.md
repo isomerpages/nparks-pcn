@@ -66,7 +66,7 @@ more information.</p>
 </p>
 <p></p>
 <p>A section of the Kallang Park Connector will be closed for construction
-works from 21 October 2024 to 2Q 2027.</p>
+works from 21 October 2024 to 2nd Half 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click&nbsp;<a href="/files/B2CP2_Temporary_Diversion_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
