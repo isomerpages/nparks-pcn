@@ -89,10 +89,26 @@ more information.</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punggol Promenade Nature Walk</strong>  <strong>–</strong>  <strong>4 Dec 2023 to 30 Sep 2024</strong> 
+<p><strong>Lorong Halus PC - 23 Nov 2024 to 30 Jun 2025</strong>
+</p>
+<p></p>
+<p>The track along Lor Halus Park Connector &nbsp;is partially closed for
+track MRT works until 30 June 2025.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information can be found <a href="/files/Partial_Track_closure_Lor_Halus.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North Eastern Riverine Loop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Punggol Promenade Nature Walk</strong>  <strong>–</strong>  <strong>4 Dec 2023 to 31 Dec 2024</strong> 
 <br>
 <br>The track along Punggol Promenade Nature Walk is partially closed for
-track widening works until 30 September 2024.</p>
+track widening works until 31 December 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More information can be found <a href="/files/PPNW_Closure_Notice_Phase_3__D231204__R2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
