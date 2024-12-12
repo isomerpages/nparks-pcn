@@ -28,6 +28,22 @@ variant: tiptap
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Paya Lebar Park Connector </strong>
+</p>
+<p></p>
+<p>A section of Paya Lebar Park Connector will be closed for maintenance
+from 16 to 20 December 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="/files/6_Dec_2024_Paya_Lebar_PC_Closure_Notice_cce.pdf" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Central Urban Loop</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ang Mo Kio Ave 5 Park Connector – 25 Apr 2023 to 30 Apr 2028</strong> 
 <br>
 <br>Works for Land Transport Authority's North-South Corridor project at the
