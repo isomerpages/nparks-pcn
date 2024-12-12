@@ -28,7 +28,7 @@ variant: tiptap
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paya Lebar Park Connector </strong>
+<p><strong>Paya Lebar Park Connector</strong>
 </p>
 <p></p>
 <p>A section of Paya Lebar Park Connector will be closed for maintenance
