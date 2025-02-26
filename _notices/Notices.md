@@ -28,22 +28,6 @@ variant: tiptap
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paya Lebar Park Connector</strong>
-</p>
-<p></p>
-<p>A section of Paya Lebar Park Connector will be closed for maintenance
-from 16 to 20 December 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click <a href="/files/6_Dec_2024_Paya_Lebar_PC_Closure_Notice_cce.pdf" rel="noopener nofollow" target="_blank">here</a> for
-more information.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Central Urban Loop</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Ang Mo Kio Ave 5 Park Connector – 25 Apr 2023 to 30 Apr 2028</strong> 
 <br>
 <br>Works for Land Transport Authority's North-South Corridor project at the
@@ -94,14 +78,18 @@ more information.</p>
 <p>Eastern Coastal Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tanjong Rhu Promenade - 31 Dec 2024 to 2 Jan 2025</strong>
+<p><strong>Tanjong Rhu Promenade - 3 March to 14 March 2025</strong>
 </p>
 <p></p>
-<p>The Lookout Tower and Pier along Tanjong Rhu Promenade will be closed
-from 31 Dec 2024 to 2 Jan 2025.</p>
+<p>Sections of Tanjong Rhu Promenade are temporarily closed for improvement
+works from 3 March to 14 March 2025 between 8.00am to 6.30pm. No works
+will be done on Saturday or Sunday.
+<br>
+<br>During this time, please follow the directions from safety marshals for
+alternative routes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/18_Dec_2024_Tanjong_Rhu_Promenade_Lookout_Tower_Closure_on_31_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/24_Feb_2025_Tanjong_Rhu_Promenade_Temporary_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 </td>
 </tr>
