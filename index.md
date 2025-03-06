@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NParks Park Connector Network
+title: National Parks Board
 description: NParks Park Connector Network Website
 image: /images/NParks Logo.png
 permalink: /
