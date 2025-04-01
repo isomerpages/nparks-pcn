@@ -3,7 +3,7 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: NParks
-feedback: https://www.nparks.gov.sg/feedback-and-enquiry
+feedback: https://www.nparks.gov.sg/contact-us
 contacts:
   - content:
       - phone: 1800 471 7300
