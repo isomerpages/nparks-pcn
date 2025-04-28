@@ -1,6 +1,7 @@
 ---
 title: Learn the etiquette
 permalink: /sharing-the-pcn/lte/
+variant: markdown
 ---
 ##   Promoting Graciousness on our PCN!
 
