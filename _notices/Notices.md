@@ -226,10 +226,14 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 <p>Western Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p>A section of Jurong Park Connector is closed on 30 April 2025 from 5pm
+to 11pm to facilitate an Election Rally at the open field along Boon Lay
+Way beside Chinese Garden MRT Station. Please refer to the map for the
+alternative route during this period.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Please click <a href="https://cms.isomer.gov.sg/files/24_Feb_2025_Tanjong_Rhu_Promenade_Temporary_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+more information.</p>
 </td>
 </tr>
 </tbody>
