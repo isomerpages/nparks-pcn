@@ -232,7 +232,7 @@ Way beside Chinese Garden MRT Station. Please refer to the map for the
 alternative route during this period.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="https://cms.isomer.gov.sg/files/24_Feb_2025_Tanjong_Rhu_Promenade_Temporary_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/Jurong_PC_Closure_Notice____for_Rally.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information.</p>
 </td>
 </tr>
