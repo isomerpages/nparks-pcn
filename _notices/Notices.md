@@ -95,6 +95,22 @@ more information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Eastern Coastal Loop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Loyang Park Connector - 15 June 2025 to 3rd Quarter 2029</strong>
+</p>
+<p></p>
+<p>A section of Loyang Park Connector beside Loyang Ave is closed for upgrading
+works from 15 June 2025.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More information can be found <a href="/files/Temporary_Closure_Notice_for_Selarang_Canal_PCN.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Northern Explorer Loop</p>
 </td>
 <td rowspan="1" colspan="1">
