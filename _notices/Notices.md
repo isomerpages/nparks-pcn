@@ -65,11 +65,11 @@ more information.</p>
 <p><strong>Kallang Park Connector - 21 October 2024 to 2nd Half 2027</strong>
 </p>
 <p></p>
-<p>A section of the Kallang Park Connector will be closed for construction
-works from 21 October 2024 to 2nd Half 2027.</p>
+<p>A section of the Kallang Park Connector and St Michael’s estate will be
+closed for construction works from 21 October 2024 to 2nd Half 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click&nbsp;<a href="/files/B2CP2_Temporary_Diversion_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
+<p>Please click&nbsp;<a href="/files/20250530_PIE_Link_MarThoma_Closure.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
 </td>
 </tr>
@@ -331,4 +331,33 @@ more information and alternative routes.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
+<h3><strong>Beware of Impersonation Scams</strong></h3>
+<p><strong>19 June 2025</strong>
+</p>
+<p>Government officials will NEVER do these things over a phone call:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ask you to transfer money;</p>
+</li>
+<li>
+<p>Ask you to disclose bank log-in details;</p>
+</li>
+<li>
+<p>Ask you to install mobile apps from unofficial app stores;</p>
+</li>
+<li>
+<p>Transfer your call to Police.</p>
+</li>
+</ol>
+<p>If you receive an SMS from the government, make sure it is sent from the
+<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>SMS Sender ID*.</p>
+<p>Scammers may cite your personal information (e.g. name or NRIC number)
+to appear legitimate. Do not automatically trust someone just because he/she
+has your personal information.</p>
+<p>Call the 24/7 ScamShield Helpline at 1799 to check if you are unsure if
+something is a scam.</p>
+<p>*Exceptions apply for National Service call-ups and emergency services.
+Read more about&nbsp;<a href="https://www.sms.gov.sg/exceptions" rel="noopener noreferrer nofollow" target="_blank">the exceptions.</a> For more information
+on how to protect yourself against scams, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg.</a>
+</p>
