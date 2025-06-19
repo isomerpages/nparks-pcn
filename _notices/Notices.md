@@ -65,8 +65,8 @@ more information.</p>
 <p><strong>Kallang Park Connector - 21 October 2024 to 2nd Half 2027</strong>
 </p>
 <p></p>
-<p>A section of the Kallang Park Connector will be closed for construction
-works from 21 October 2024 to 2nd Half 2027.</p>
+<p>A section of the Kallang Park Connector and St Michael’s estate will be
+closed for construction works from 21 October 2024 to 2nd Half 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click&nbsp;<a href="/files/20250530_PIE_Link_MarThoma_Closure.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
