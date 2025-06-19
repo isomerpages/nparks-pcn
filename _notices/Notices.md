@@ -69,7 +69,7 @@ more information.</p>
 works from 21 October 2024 to 2nd Half 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click&nbsp;<a href="/files/B2CP2_Temporary_Diversion_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
+<p>Please click&nbsp;<a href="/files/20250530_PIE_Link_MarThoma_Closure.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
 </td>
 </tr>
