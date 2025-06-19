@@ -45,12 +45,12 @@ during this construction period.</p>
 <p>Central Urban Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Whampoa Park Connector and Kallang Park Connector - October 2024 to April 2025</strong>
+<p><strong>Whampoa Park Connector and Kallang Park Connector - October 2024 to 2nd Half 2027</strong>
 </p>
 <p></p>
 <p>A section of Whampoa Park Connector and Kallang Park Connector at the
-Kolam Ayer Bridge will be closed for improvement works from October 2024
-to April 2025.</p>
+Kolam Ayer Bridge will be closed for improvement works from 21 October
+2024 to 2nd Half 2027.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/Notice_on_Temporary_Closure_of_Kolam_Ayer_Bridge_and_PCs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
