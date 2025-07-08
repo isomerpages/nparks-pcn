@@ -16,10 +16,10 @@ Changi Airport Runway 3 and Terminal 5.</p>
 <p>At the East Coast Park towards Coastal Park Connector next to Changi Coast
 Walk, you can take a leisurely stroll amidst the lush greenery whilst enjoying
 the cool sea breeze.</p>
-<p>The Changi Airport Connector (link:&nbsp;<a href="https://www.changiairport.com/en/discover/changi-airport-connector.html" rel="noopener noreferrer nofollow" target="_blank">https://www.changiairport.com/en/discover/changi-airport-connector.html</a>)
-is a cycling and jogging path that features the Changi Jurassic Mile. It
-was opened by Changi Airport, and links the airport to East Coast Park
-and the Park Connector Network.
+<p>The <a href="https://www.changiairport.com/en/experience/attractions-directory/changi-airport-connector-map.html" rel="noopener nofollow" target="_blank">Changi Airport Connector</a> is
+a cycling and jogging path that features the Changi Jurassic Mile. It was
+opened by Changi Airport, and links the airport to East Coast Park and
+the Park Connector Network.
 <br>
 </p>
 <p>
@@ -163,12 +163,11 @@ Coast Park</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Changi Bay Park Connector</strong>
+<p><strong><a href="https://pcn.nparks.gov.sg/changi-bay-pc/" rel="noopener nofollow" target="_blank">Changi Bay Park Connector</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/changi-bay-pc/" rel="noopener nofollow" target="_blank">Visit here</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -176,12 +175,11 @@ Coast Park</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>East Coast Park</strong>
+<p><strong><a href="https://www.nparks.gov.sg/visit/parks/park-detail/east-coast-park" rel="noopener nofollow" target="_blank">East Coast Park</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park" rel="noopener noreferrer nofollow" target="_blank">Visit here</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -189,12 +187,11 @@ Coast Park</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Changi Beach Park</strong>
+<p><strong><a href="https://www.nparks.gov.sg/visit/parks/park-detail/changi-beach-park/" rel="noopener nofollow" target="_blank">Changi Beach Park</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park" rel="noopener noreferrer nofollow" target="_blank">Visit here</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
