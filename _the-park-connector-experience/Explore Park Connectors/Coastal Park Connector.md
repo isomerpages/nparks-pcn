@@ -3,43 +3,203 @@ title: Coastal Park Connector
 permalink: /coastal-pc/
 description: ""
 third_nav_title: Explore Park Connectors
-variant: markdown
+variant: tiptap
 ---
-![Coastal Park Connector](/images/coastal%20park%20connector.png)
-
-## Coastal Park Connector
-
-Coastal Park Connector starts from Changi Beach Park Car Park 7 and ends at East Coast Park.&nbsp;This 15km park&nbsp;connector runs&nbsp;along Aviation Park Road and Tanah Merah Coast Road,&nbsp;alongside the&nbsp;future Changi Airport Runway 3 and Terminal 5.
-
-At the East Coast Park towards Coastal Park Connector next to Changi Coast Walk, you can take a leisurely stroll amidst the lush greenery whilst enjoying the cool sea breeze.
-
-The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/discover/changi-airport-connector.html](https://www.changiairport.com/en/discover/changi-airport-connector.html)) is a cycling and jogging path that features the Changi Jurassic Mile. It was opened by Changi Airport, and links the airport to East Coast Park and the Park Connector Network. <br>
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coastal Park Connector" src="/images/coastal%20park%20connector.png">
+</div>
+<h2>Coastal Park Connector</h2>
+<p>Coastal Park Connector starts from Changi Beach Park Car Park 7 and ends
+at East Coast Park.&nbsp;This 15km park&nbsp;connector runs&nbsp;along
+Aviation Park Road and Tanah Merah Coast Road,&nbsp;alongside the&nbsp;future
+Changi Airport Runway 3 and Terminal 5.</p>
+<p>At the East Coast Park towards Coastal Park Connector next to Changi Coast
+Walk, you can take a leisurely stroll amidst the lush greenery whilst enjoying
+the cool sea breeze.</p>
+<p>The Changi Airport Connector (link:&nbsp;<a href="https://www.changiairport.com/en/discover/changi-airport-connector.html" rel="noopener noreferrer nofollow" target="_blank">https://www.changiairport.com/en/discover/changi-airport-connector.html</a>)
+is a cycling and jogging path that features the Changi Jurassic Mile. It
+was opened by Changi Airport, and links the airport to East Coast Park
+and the Park Connector Network.
 <br>
-
-![Changi Coastal Park Connector Extension](/images/changi%20coastal%20park%20connector%20extension.jfif)
-
+</p>
+<p>
 <br>
-
-#### Park Connector Information
-
-|  |  |  |
-| -------- | -------- | -------- |
-| **Location** | Coastal Park Connector starts from Changi Beach Park Car Park 7 and runs along Aviation Park Road and Tanah Merah Coast Road before ending at East Coast Park |  |
-| **Length of Park Connector** | 15.0 km  |  |
-| **Opening Hours** | 24 hours daily |  |
-| **Lighting Hours** | 7.00pm – 7.00am |  |
-| **Accessibility** | Wheelchair accessible | |
-| **Bus Service** | SBS Transit Bus&nbsp;Service&nbsp;35 | |
-| **Get Directions** | [Click here](https://www.onemap.gov.sg/?lat=1.3283511&amp;lng=104.020197) | |
-
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changi Coastal Park Connector Extension" src="/images/changi%20coastal%20park%20connector%20extension.jfif">
+</div>
+<p>
 <br>
-
-#### Nearby Parks / Park Connectors
-
-|   |  |  |
-| -------- | -------- | -------- |
-| **Changi Bay Park Connector** | [Visit here](https://pcn.gov.sg/changi-bay-pc/) | |
-| **East Coast Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park) | |
-| **Changi Beach Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
+</p>
+<h4>Park Connector Information</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Location</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coastal Park Connector starts from Changi Beach Park Car Park 7 and runs
+along Aviation Park Road and Tanah Merah Coast Road before ending at East
+Coast Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Length of Park Connector</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15.0 km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 hours daily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lighting Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.00pm – 7.00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Accessibility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wheelchair accessible</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bus Service</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SBS Transit Bus&nbsp;Service&nbsp;35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Get Directions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.onemap.gov.sg/?lat=1.3283511&amp;lng=104.020197" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<h4>Nearby Parks / Park Connectors</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Changi Bay Park Connector</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/changi-bay-pc/" rel="noopener nofollow" target="_blank">Visit here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>East Coast Park</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park" rel="noopener noreferrer nofollow" target="_blank">Visit here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Changi Beach Park</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park" rel="noopener noreferrer nofollow" target="_blank">Visit here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
