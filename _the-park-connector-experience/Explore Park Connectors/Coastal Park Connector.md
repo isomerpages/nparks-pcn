@@ -3,6 +3,7 @@ title: Coastal Park Connector
 permalink: /coastal-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
 ![Coastal Park Connector](/images/coastal%20park%20connector.png)
 
@@ -39,6 +40,6 @@ The Changi Airport Connector (link:&nbsp;[https://www.changiairport.com/en/disco
 
 |   |  |  |
 | -------- | -------- | -------- |
-| **Changi Bay Park Connector** | [Visit here](pcn.gov.sg/changi-bay-pc/) | |
+| **Changi Bay Park Connector** | [Visit here](https://pcn.gov.sg/changi-bay-pc/) | |
 | **East Coast Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/east-coast-park) | |
 | **Changi Beach Park** | [Visit here](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-beach-park) | |
