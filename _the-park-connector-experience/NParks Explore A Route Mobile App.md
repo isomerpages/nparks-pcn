@@ -10,7 +10,7 @@ reality (AR)-enabled mobile application, designed to complement the C2C
 Trail, the Round Island Route (RIR), as well as the Park Connector Network
 (PCN) for an interactive curated walking experience island-wide.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEAR App" src="/images/Cover%20Image.png">
+<img style="width: 60%;" height="auto" width="100%" alt="NEAR App" src="/images/Cover%20Image.png">
 </div>
 <p><a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Click </a><strong><a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 <a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">to download the NEAR mobile app!</a>
@@ -25,7 +25,7 @@ Trail, the Round Island Route (RIR), as well as the Park Connector Network
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Explore PCN" src="/images/Explore.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Explore PCN" src="/images/Explore.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ enjoy the interesting sights and attractions along the way!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Participate in Events" src="/images/Participate%20in%20Events.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Participate in Events" src="/images/Participate%20in%20Events.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,6 +48,7 @@ make sure that your phone has enough juice to last!</p>
 </tr>
 </tbody>
 </table>
+<h3><strong>Download the App</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,4 +63,5 @@ make sure that your phone has enough juice to last!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/C2C_T_Cs_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions of use of the NParks Explore A Route mobile application</a>
+</p>
