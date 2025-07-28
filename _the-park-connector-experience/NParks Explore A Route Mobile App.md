@@ -48,7 +48,9 @@ make sure that your phone has enough juice to last!</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Download the App</strong></h3>
+<h3><strong>Download the NEAR app</strong></h3>
+<p><strong>More than 100,000 users have downloaded the app – be part of the NEAR community today!</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
