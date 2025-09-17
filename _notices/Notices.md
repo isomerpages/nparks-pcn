@@ -221,7 +221,8 @@ works from 15 September 2025 to Q3 2027.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to the map for the alternative route during this period.</p>
+<p>Please refer to the <a href="/files/1_D122_PCN_closure_advance_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
+route during this period.</p>
 </td>
 </tr>
 <tr>
