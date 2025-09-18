@@ -209,6 +209,24 @@ beaches.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Southern Ridges Loop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Alexandra-Queensway Park Connector</strong>
+</p>
+<p></p>
+<p>A section of Alexandra-Queensway Park Connector is closed for upgrading
+works from 15 September 2025 to Q3 2027.</p>
+<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to the <a href="/files/1_D122_PCN_closure_advance_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
+route during this period.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Western Adventure Loop</p>
 </td>
 <td rowspan="1" colspan="1">
