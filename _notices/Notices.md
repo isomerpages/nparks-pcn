@@ -230,16 +230,11 @@ beaches.&nbsp;</p>
 </p>
 <p></p>
 <p>A section of Ulu Pandan Park Connector is closed for improvement works
-from 17 to 29 November 2025. Please refer to the map for the alternative
-route during this period.</p>
+from 17 to 29 November 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please refer to the <a href="/files/UPPC_section_closure_17_29_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
 route during this period.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
