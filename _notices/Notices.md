@@ -234,18 +234,8 @@ from 17 to 29 November 2025. Please refer to the map for the alternative
 route during this period.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PPNW_Closure_Notice_Phase_3__D231204__R2.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of Ulu Pandan Park Connector Section Map</a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Please refer to the <a href="/files/UPPC_section_closure_17_29_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
+route during this period.</p>
 <p></p>
 <p></p>
 <p></p>
