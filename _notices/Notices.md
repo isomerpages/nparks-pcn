@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h5>Park Connector Network Temporary Closures</h5>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -18,6 +19,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Affected Park Connector</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -39,6 +43,9 @@ during this construction period.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,6 +61,9 @@ closed for construction works from 21 October 2024 to 2nd Half 2027.</p>
 <td rowspan="1" colspan="1">
 <p>Please click&nbsp;<a href="/files/20250530_PIE_Link_MarThoma_Closure.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,6 +85,9 @@ alternative routes.</p>
 <p>Please click <a href="/files/24_Feb_2025_Tanjong_Rhu_Promenade_Temporary_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -93,6 +106,9 @@ works from 8 June 2025.</p>
 <p>More information can be found <a href="/files/Temporary_Closure_Notice_for_Selarang_Canal_PCN_1_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -100,6 +116,9 @@ works from 8 June 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>--------</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -120,6 +139,9 @@ track MRT works until 30 June 2025.</p>
 <p>More information can be found <a href="/files/Partial_Track_closure_Lor_Halus.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,6 +156,9 @@ track widening works until 31 December 2024.</p>
 <td rowspan="1" colspan="1">
 <p>More information can be found <a href="/files/PPNW_Closure_Notice_Phase_3__D231204__R2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -150,6 +175,9 @@ and do not stray into the vegetation.</p>
 <td rowspan="1" colspan="1">
 <p>More information on wild boars can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/wild-boars" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -171,6 +199,9 @@ etiquette and remind them not to remove marine life indiscriminately.&nbsp;</p>
 find out more about our intertidal area, and what to do when you explore
 such areas.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,25 +217,42 @@ beaches.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>More information on box jellyfish can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/box-jellyfish" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Southern Ridges Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ulu Pandan (North Bank) Park Connector</strong>
+<p><strong>Ulu Pandan Park Connector</strong>
 </p>
 <p></p>
-<p>A section of the Ulu Pandan Park Connector</p>
-<p>(marked in red) is closed for improvement</p>
-<p>works from 10 October to 20 December 2024.</p>
-<p></p>
-<p>Please use the alternative route</p>
-<p>(marked in orange). For more information, refer to the map.</p>
+<p>A section of Ulu Pandan Park Connector is closed for improvement works
+from 17 to 29 November 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ulu Pandan PC Notices (PDF)/Ulu_Pandan__North_Bank__PC_Vehicular_Entrance_Closure_until_201224.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of Ulu Pandan Park Connector Map.</a>
-</p>
+<p>Please refer to the <a href="/files/UPPC_section_closure_17_29_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
+route during this period.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -224,6 +272,9 @@ works from 15 September 2025 to Q3 2027.</p>
 <p>Please refer to the <a href="/files/1_D122_PCN_closure_advance_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
 route during this period.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,20 +290,22 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 <p><a href="/files/Closure%20of%20CCK%20PCN_Ave%203%20Notice%20until%20Q1%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of CCK PCN</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Western Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A section of Jurong Park Connector is closed on 30 April 2025 from 5pm
-to 11pm to facilitate an Election Rally at the open field along Boon Lay
-Way beside Chinese Garden MRT Station. Please refer to the map for the
-alternative route during this period.</p>
+<p>--------</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Jurong_PC_Closure_Notice____for_Rally.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
-more information.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
