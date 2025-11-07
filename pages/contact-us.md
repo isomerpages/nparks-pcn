@@ -6,10 +6,9 @@ agency_name: NParks
 feedback: https://www.nparks.gov.sg/contact-us
 contacts:
   - content:
-      - phone: 1800 471 7300
+      - phone: ""
       - email: ""
-      - other: You can also submit feedback via the NParks website
-          (www.nparks.gov.sg/feedback) or the OneService Mobile App
-          (www.oneservice.sg).
-    title: NParks Helpline
+      - other: If you have a query, feedback, or wish to report a problem related to
+          this website, please visit https://www.nparks.gov.sg/contact-us
+    title: Feedback and enquiries
 ---
