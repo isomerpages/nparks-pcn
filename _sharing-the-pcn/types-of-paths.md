@@ -57,12 +57,19 @@ Within Attention Zones, cyclists and PMD users should slow down and give way to 
 #### Pilot for Revised PCN Typology Phase 2
 <br>
 
-To better enhance the user experience along our Park Connector Network (PCN), the National Parks Board (NParks) started piloting a revised PCN typology in September 2022 that segregates selected stretches of the PCN into pedestrian-only paths (POP) and shared paths (SP). NParks also enhanced the clarity of paths through newly designed ground imprints that clearly reflect the user groups allowed on each path, as well as the user group that is accorded priority within each path. <br><br> Phase 1 of the revised PCN typology pilot was implemented between 2022 and 2023 for approximately 30km of park connectors along the Round-Island-Route Eastern Coastal Corridor and Pasir Panjang Park. <br><br>NParks will be implementing Phase 2 of the pilot progressively from along approximately 20km of park connector paths in: <br>
+To better enhance the user experience along our Park Connector Network (PCN), the National Parks Board (NParks) started piloting a revised PCN typology in September 2022 that segregates selected stretches of the PCN into pedestrian-only paths (POP) and shared paths (SP). NParks also enhanced the clarity of paths through newly designed ground imprints that clearly reflect the user groups allowed on each path, as well as the user group that is accorded priority within each path. <br><br> Phase 1 of the revised PCN typology pilot was implemented between 2022 and 2023 for approximately 30km of park connectors along the Round-Island-Route Eastern Coastal Corridor and Pasir Panjang Park. <br><br>NParks will be implementing Phase 2 of the pilot progressively along the following park connector paths: <br>
 
-*   Tanjong Rhu PC, Gardens by the Bay, Marina Barrage, Singapore River Promenade
+
+*   Tanjong Rhu PC
+*   Gardens By the Bay
+*   Marina Barrage
+*   Singapore River Promenade
 *   Punggol PC
 *   Pasir Ris Park
 *   Ulu Sembawang PC
+*   Sembawang PC
+*   Bedok PC
+*   Ulu Pandan PC
 
 <br>
 
