@@ -226,40 +226,6 @@ beaches.&nbsp;</p>
 <p>Southern Ridges Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ulu Pandan Park Connector</strong>
-</p>
-<p></p>
-<p>A section of Ulu Pandan Park Connector is closed for improvement works
-from 17 to 29 November 2025.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please refer to the <a href="/files/UPPC_section_closure_17_29_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
-route during this period.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Southern Ridges Loop</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Alexandra-Queensway Park Connector</strong>
 </p>
 <p></p>
