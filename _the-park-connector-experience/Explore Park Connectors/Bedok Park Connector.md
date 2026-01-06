@@ -3,6 +3,7 @@ title: Bedok Park Connector
 permalink: /bedok-pc/
 description: ""
 third_nav_title: Explore Park Connectors
+variant: markdown
 ---
 ![](/images/bedok%20pc.JPG)
 
@@ -48,6 +49,6 @@ Opening Hours:
 
 
 #### Notices
-1. Bedok Park Connector between Laguna88 to Upper East Coast Road (marked in black) will be closed for Thomson East Coast mrt line work by LTA. Expected completion date is Dec 2024.
-2. Bedok Park Connector between Eastwood Park Playground to Bedok Junction (marked in red) will be closed for ABC water work by PUB. Expected completion date is 2nd Quarter 2023. Click here for more information.
+1. Bedok Park Connector between Laguna88 to Upper East Coast Road (marked in [black](/files/7_Feb_2024_Bedok_PC_Closure_Notice_____Compatibility_Mode.pdf)) will be closed for Thomson East Coast mrt line work by LTA. Expected completion date is Q4 2026.
+
 <br>
