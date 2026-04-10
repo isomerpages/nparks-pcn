@@ -4,7 +4,9 @@ title: National Parks Board
 description: NParks Park Connector Network Website
 image: /images/NParks Logo.png
 permalink: /
-notification: ""
+notification: ℹ️ As part of streamlining our digital services, we will be
+  decommissioning the NEAR app on 24 April 2026 (Fri). Read more at 'The Park
+  Connector Experience' → 'NParks Explore A Route (NEAR) Mobile App'
 sections:
   - hero:
       title: Park Connector Network
