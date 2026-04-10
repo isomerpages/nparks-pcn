@@ -7,8 +7,10 @@ variant: tiptap
 <h3><strong>Decommissioning of NEAR app on 24 April 2026</strong></h3>
 <p>As part of streamlining our digital services, we will be decommissioning
 the NEAR app on <strong>24 April 2026 (Fri)</strong>.</p>
-<p>You may wish to download your NEAR App data before 24 April 2026.
+<h4><strong>Download your NEAR app data</strong></h4>
+<p>You may wish to download your NEAR App data <strong>before 24 April 2026</strong>.
 <br>Click here to view the guide.</p>
+<p></p>
 <p>Please visit our <a href="website" rel="noopener nofollow" target="_blank">website</a> for
 more information on our Parks, Gardens, and the Park Connector Network.
 <br>
