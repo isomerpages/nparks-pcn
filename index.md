@@ -6,7 +6,7 @@ image: /images/NParks Logo.png
 permalink: /
 notification: ℹ️ As part of streamlining our digital services, we will be
   decommissioning the NEAR app on 24 April 2026 (Fri). Read more at 'The Park
-  Connector Experience' → 'NParks Explore A Route (NEAR) Mobile App'
+  Connector Experience' → 'NParks Explore A Route (NEAR) Mobile App'.
 sections:
   - hero:
       title: Park Connector Network
