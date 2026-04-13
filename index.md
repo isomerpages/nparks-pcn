@@ -32,13 +32,4 @@ sections:
       url: https://pcn.nparks.gov.sg/know-our-pcn/island-wide-routes
       image: /images/Island%20Wide%20Routes.jpeg
       alt: Image alt text
-  - infopic:
-      title: NEAR Mobile App
-      subtitle: NParks Explore A Route
-      description: Experience an interactive walking experience curated across 36 KM
-        stretch of parks and PCN with NParks own AR-enabled mobile application!
-      button: Download Now
-      image: /images/Phyll NEAR_1x1 Phyll NEAR 2.png
-      alt: NParks NEAR App
-      url: https://pcn.nparks.gov.sg/the-pcn-experience/near/
 ---
