@@ -30,6 +30,6 @@ sections:
         connectors, trails and footpaths.
       button: Check them out!
       url: https://pcn.nparks.gov.sg/know-our-pcn/island-wide-routes
-      image: /images/Island%20Wide%20Routes.jpeg
+      image: /images/Ulu Pandan 2.jpeg
       alt: Image alt text
 ---
