@@ -18,4 +18,10 @@ the NEAR app on <strong>24 April 2026 (Fri)</strong>.</p>
 more information on our Parks, Gardens, and the Park Connector Network.
 <br>
 <br>If you have any feedback, please get in touch with us <a href="" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
+<h4><strong>Interactive Map (NParks Island-wide Routes)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS__2.png">
+</div>
+<p>Click <a href="https://experience.arcgis.com/experience/5ecb68ccb6324da29dbb580871c9957b" rel="noopener nofollow" target="_blank">here</a> to
+view all NParks island-wide routes on the NParks ArcGIS Online interactive
+map.</p>
