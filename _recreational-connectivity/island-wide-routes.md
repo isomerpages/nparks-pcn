@@ -30,7 +30,7 @@ route, and encourage them to explore different networks.</p>
 piloted along the Eastern Corridor.</p>
 <h4><strong>Eastern Corridor Colour Banding Implementation Route</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/251119_EasternCorridor.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/251119_EasternCorridor.png">
 </div>
 <p>NParks will review the outcome of the pilot, including public feedback
 received, before progressively expanding the colour banding system across
