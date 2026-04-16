@@ -11,9 +11,9 @@ distances. These routes complement the Park Connector Network (PCN).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_routes_2025_PCNWebsite_01.jpg">
 </div>
 <p><em>Map is subject to change. </em>Download the map <a href="https://go.gov.sg/pcnroutes-2025" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h4><strong>Interactive Map</strong></h4>
+<h4><strong>Interactive Map (NParks Island-wide Routes)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS__2.png">
 </div>
 <p>Click <a href="https://experience.arcgis.com/experience/5ecb68ccb6324da29dbb580871c9957b" rel="noopener nofollow" target="_blank">here</a> to
 view all NParks island-wide routes on the NParks ArcGIS Online interactive
