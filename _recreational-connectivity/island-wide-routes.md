@@ -16,8 +16,8 @@ distances. These routes complement the Park Connector Network (PCN).</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS_.png">
 </div>
 <p>Click <a href="https://experience.arcgis.com/experience/5ecb68ccb6324da29dbb580871c9957b" rel="noopener nofollow" target="_blank">here</a> to
-view all Park Connector Network trails based on your GPS location on our
-interactive map on ArcGIS Online.</p>
+view all NParks island-wide routes on the NParks ArcGIS Online interactive
+map.</p>
 <h4><strong>Proposed Colour Banding System</strong>&nbsp;</h4>
 <p>NParks is introducing a colour banding system on PCN directional signage
 and lampposts to improve wayfinding, inform park users of their current
