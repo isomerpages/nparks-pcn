@@ -15,16 +15,9 @@ Singapore, linking up nature areas, parks and park connectors from&nbsp;<strong>
 the west, <strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc" rel="noopener noreferrer nofollow" target="_blank">Lornie Nature Corridor</a></strong>&nbsp;near
 the centre, and to&nbsp;<strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coney-island-park" rel="noopener noreferrer nofollow" target="_blank">Coney Island Park</a></strong>&nbsp;in
 the northeast.</p>
-<p>You can choose to explore the Trail on your own using the NParks Explore
-a Route (NEAR) mobile app or&nbsp;C2C (Central) online Trail Guide.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="NEAR App" src="/images/Cover%20Image.png">
-</div>
-<p><strong><a href="https://near.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Click here to download the NEAR mobile app</a></strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="C2C Trail Guide" src="/images/C2C%20Trail%20Guide%20-%20Cover%20Artwork.png">
 </div>
-<p><strong><a href="/files/C2C_Trail_Guide_181224.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download C2C (Central) online Trail Guide</a></strong>
+<p><strong><a href="/files/C2C_Trail_Guide_2026__c_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download C2C (Central) online Trail Guide</a></strong>
 </p>
 <p></p>
