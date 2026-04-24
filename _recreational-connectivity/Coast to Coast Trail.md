@@ -18,6 +18,5 @@ the northeast.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="C2C Trail Guide" src="/images/C2C%20Trail%20Guide%20-%20Cover%20Artwork.png">
 </div>
-<p><strong><a href="/files/C2C_Trail_Guide_2026__c_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download C2C (Central) online Trail Guide</a></strong>
+<p><a href="/files/C2C_Trail_Guide_2026__c_.pdf" rel="noopener nofollow" target="_blank">Click here to download C2C (Central) online Trail Guide.</a>
 </p>
-<p></p>
