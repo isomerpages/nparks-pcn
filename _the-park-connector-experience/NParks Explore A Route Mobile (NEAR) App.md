@@ -4,20 +4,22 @@ permalink: /the-pcn-experience/near/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Decommissioning of NEAR app on 24 April 2026</strong></h3>
-<p>As part of streamlining our digital services, we will be decommissioning
-the NEAR app on <strong>24 April 2026 (Fri)</strong>.</p>
-<h4><strong>Download your NEAR app data</strong></h4>
-<p>You may wish to download your NEAR App data <strong>before 24 April 2026</strong>.</p>
-<p><a href="/files/NEAR app/Guide_to_Download_Your_NEAR_App_Data.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to download your NEAR app data</a>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/C2C%20Hero.jpg">
+</div>
+<p>Do you enjoy taking nice long walks in lush greenery, or exploring the
+outdoor spaces around you? Then visit the Coast-to-Coast (C2C) Trail&nbsp;(Central)&nbsp;for
+a curated walking experience across the island!</p>
+<p>The Coast-to-Coast Trail (Central) is a 36 km trail that spans across
+Singapore, linking up nature areas, parks and park connectors from&nbsp;<strong><a href="https://www.nparks.gov.sg/juronglakegardens" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens</a></strong>&nbsp;in
+the west, <strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc" rel="noopener noreferrer nofollow" target="_blank">Lornie Nature Corridor</a></strong>&nbsp;near
+the centre, and to&nbsp;<strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coney-island-park" rel="noopener noreferrer nofollow" target="_blank">Coney Island Park</a></strong>&nbsp;in
+the northeast.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="C2C Trail Guide" src="/images/C2C%20Trail%20Guide%20-%20Cover%20Artwork.png">
+</div>
+<p><a href="/files/C2C_Trail_Guide_2026__c_.pdf" rel="noopener nofollow" target="_blank">Click here to download C2C (Central) online Trail Guide.</a>
 </p>
-<h4><strong>Frequently Asked Questions (FAQs)</strong></h4>
-<p><a href="/files/NEAR app/Frequently_Asked_Questions___NEAR_App__7April2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Read our FAQs here.</a>
-</p>
-<p>Please visit our <a href="website" rel="noopener nofollow" target="_blank">website</a> for
-more information on our Parks, Gardens, and the Park Connector Network.
-<br>
-<br>If you have any feedback, please get in touch with us <a href="" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Interactive Map (NParks Island-wide Routes)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS__2.png">
