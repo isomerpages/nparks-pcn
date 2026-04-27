@@ -1,6 +1,6 @@
 ---
 title: NParks Explore A Route (NEAR) Mobile App
-permalink: /near/
+permalink: /the-pcn-experience/near/
 variant: tiptap
 description: ""
 ---
