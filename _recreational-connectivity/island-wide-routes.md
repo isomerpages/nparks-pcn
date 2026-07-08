@@ -8,12 +8,12 @@ multiple park connectors and trails, which provide opportunities for you
 to explore outdoor spaces and walk or cycle in natural spaces for longer
 distances. These routes complement the Park Connector Network (PCN).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/All_routes_2025_PCNWebsite_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Island wide map" src="/images/All_routes_2025_PCNWebsite_01.jpg">
 </div>
 <p><em>Map is subject to change. </em>Download the map <a href="https://go.gov.sg/pcnroutes-2025" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Interactive Map (NParks Island-wide Routes and PCN Loops)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Island_wide_Routes__ArcGIS__3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Map on island wide routes and PCN loops" src="/images/Island_wide_Routes__ArcGIS__3.png">
 </div>
 <p>Click <a href="https://experience.arcgis.com/experience/5ecb68ccb6324da29dbb580871c9957b" rel="noopener nofollow" target="_blank">here</a> to
 view all NParks island-wide routes on the NParks ArcGIS Online interactive
@@ -23,14 +23,14 @@ map.</p>
 and lampposts to improve wayfinding, inform park users of their current
 route, and encourage them to explore different networks.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/251119_CBT1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Colour banding on directional signage and lamposts" src="/images/251119_CBT1.png">
 </div>
 <p></p>
 <p>From November 2025 to February 2026, the colour banding system will be
 piloted along the Eastern Corridor.</p>
 <h4><strong>Eastern Corridor Colour Banding Implementation Route</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/251119_EasternCorridor.png">
+<img style="width: 60%;" height="auto" width="100%" alt="colour banding implemented at eastern corridor" src="/images/251119_EasternCorridor.png">
 </div>
 <p>NParks will review the outcome of the pilot, including public feedback
 received, before progressively expanding the colour banding system across
