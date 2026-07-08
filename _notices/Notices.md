@@ -71,15 +71,10 @@ more information.</p>
 <p>Eastern Coastal Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tanjong Rhu Promenade - 31 December 2025 to 2 January 2026</strong>
-</p>
-<p></p>
-<p>Tanjong Rhu Lookout Tower and Pier will be closed for an event from 31
-December 2025 to 2 January 2026.</p>
+<p>--------</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Tanjong_Rhu_Promenade_Lookout_Tower_Closure_on_31_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
