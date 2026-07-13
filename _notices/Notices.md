@@ -81,13 +81,18 @@ more information.</p>
 <p>Eastern Coastal Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--------</p>
+<p><strong>Bedok Park Connector - 13 June 2026 to 31 December 2026</strong>
+</p>
+<p></p>
+<p>Bedok Park Connector near Blk 772A Bedok reservoir and Blk 965D Tampines
+GreenOpal will be closed for bridge construction.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Please refer to <a href="/files/Bedok_PCN_Closure_and_Path_Diversion_Plan_Rev_5.pdf" rel="noopener noreferrer nofollow" target="_blank">closure notice </a>for
+more information.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
