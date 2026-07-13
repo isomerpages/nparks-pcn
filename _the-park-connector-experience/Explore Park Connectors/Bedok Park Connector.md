@@ -49,6 +49,7 @@ Opening Hours:
 
 
 #### Notices
-1. Bedok Park Connector between Laguna88 to Upper East Coast Road (marked in [black](/files/7_Feb_2024_Bedok_PC_Closure_Notice_____Compatibility_Mode.pdf)) will be closed for Thomson East Coast mrt line work by LTA. Expected completion date is Q4 2026.
+1. Bedok Park Connector between Laguna88 to Upper East Coast Road (marked in [black](/files/7_Feb_2024_Bedok_PC_Closure_Notice_____Compatibility_Mode.pdf)) will be closed for Thomson East Coast MRT line work by LTA. Expected completion date is Q4 2026.
+2. Bedok Park Connector near Blk 772A Bedok reservoir and Blk 965D Tampines GreenOpal (as circled in the [notice](/files/Bedok_PCN_Closure_and_Path_Diversion_Plan_Rev_5.pdf)) will be closed for bridge construction. Expected completion date is 31 December 2026.
 
 <br>
