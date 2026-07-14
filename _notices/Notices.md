@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h5>Park Connector Network Temporary Closures</h5>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -19,6 +20,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Affected Park Connector</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -46,6 +50,9 @@ during this construction period.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,6 +64,9 @@ during this construction period.</p>
 <p></p>
 <p>A section of the Kallang Park Connector and St Michael’s estate will be
 closed for construction works from 21 October 2024 to 2nd Half 2027.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click&nbsp;<a href="/files/20250530_PIE_Link_MarThoma_Closure.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
@@ -71,14 +81,40 @@ more information.</p>
 <p>Eastern Coastal Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tanjong Rhu Promenade - 31 December 2025 to 2 January 2026</strong>
+<p><strong>Bedok Park Connector - 13 June 2026 to 31 December 2026</strong>
 </p>
 <p></p>
-<p>Tanjong Rhu Lookout Tower and Pier will be closed for an event from 31
-December 2025 to 2 January 2026.</p>
+<p>Bedok Park Connector near Blk 772A Bedok reservoir and Blk 965D Tampines
+GreenOpal will be closed for bridge construction.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <a href="/files/Tanjong_Rhu_Promenade_Lookout_Tower_Closure_on_31_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to <a href="/files/Bedok_PCN_Closure_and_Path_Diversion_Plan_Rev_5.pdf" rel="noopener noreferrer nofollow" target="_blank">closure notice </a>for
+more information.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eastern Coastal Loop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bedok Park Connector - 7 Febuary 2026 to 31 December 2026</strong>
+</p>
+<p></p>
+<p>Bedok Park Connector between Laguna88 to Upper East Coast Road will be
+closed for Thomson East Coast MRT line work by LTA. Expected completion
+date is Q4 2026.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to <a href="/files/7_Feb_2024_Bedok_PC_Closure_Notice_____Compatibility_Mode.pdf" rel="noopener noreferrer nofollow" target="_blank">closure notice</a> for
 more information.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,6 +133,9 @@ more information.</p>
 works from 8 June 2025.</p>
 <p></p>
 <p>During this time, please follow the signs onsite for the alternative path.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More information can be found <a href="/files/Temporary_Closure_Notice_for_Selarang_Canal_PCN_1_.pdf" rel="noopener nofollow" target="_blank">here</a>
@@ -119,22 +158,6 @@ works from 8 June 2025.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>North Eastern Riverine Loop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lorong Halus PC - 23 Nov 2024 to 30 Jun 2025</strong>
-</p>
-<p></p>
-<p>The track along Lor Halus Park Connector &nbsp;is partially closed for
-track MRT works until 30 June 2025.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More information can be found <a href="/files/Partial_Track_closure_Lor_Halus.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -144,14 +167,17 @@ track MRT works until 30 June 2025.</p>
 <p>North Eastern Riverine Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punggol Promenade Nature Walk</strong>  <strong>–</strong>  <strong>4 Dec 2023 to 31 Dec 2024</strong> 
-<br>
-<br>The track along Punggol Promenade Nature Walk is partially closed for
-track widening works until 31 December 2024.</p>
+<p><strong>Lorong Halus PC - 23 Nov 2024 to 31 Dec 2026</strong>
+</p>
+<p></p>
+<p>The track along Lor Halus Park Connector is partially closed for track
+MRT works until 31 Dec 2026.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information can be found <a href="/files/PPNW_Closure_Notice_Phase_3__D231204__R2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,6 +193,9 @@ track widening works until 31 December 2024.</p>
 <br>Wild boars have been spotted in the area. Please keep a safe distance
 and observe them from afar. Please keep to the designated walking paths
 and do not stray into the vegetation.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More information on wild boars can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/wild-boars" rel="noopener noreferrer nofollow" target="_blank">here</a>
@@ -191,6 +220,9 @@ staff and volunteers to educate the public on intertidal biodiversity,
 etiquette and remind them not to remove marine life indiscriminately.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Click <a href="http://www.nparks.gov.sg/biodiversity/our-ecosystems/coastal-and-marine/intertidal" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about our intertidal area, and what to do when you explore
 such areas.</p>
@@ -209,6 +241,9 @@ such areas.</p>
 <br>Box Jellyfish have been spotted in Singapore waters in the recent months.
 For your own safety, please take precautions before heading to one of our
 beaches.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More information on box jellyfish can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/box-jellyfish" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -231,6 +266,9 @@ works from 15 September 2025 to Q3 2027.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Please refer to the <a href="/files/1_D122_PCN_closure_advance_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">map</a> for the alternative
 route during this period.</p>
 </td>
@@ -249,6 +287,9 @@ route during this period.</p>
 works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Closure%20of%20CCK%20PCN_Ave%203%20Notice%20until%20Q1%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of CCK PCN</a>
 </p>
 </td>
@@ -262,6 +303,9 @@ works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>--------</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

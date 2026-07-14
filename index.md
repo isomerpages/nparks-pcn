@@ -29,5 +29,5 @@ sections:
       button: Check them out!
       url: https://pcn.nparks.gov.sg/know-our-pcn/island-wide-routes
       image: /images/Ulu Pandan 2.jpeg
-      alt: Image alt text
+      alt: Ulu Pandan Park Connector
 ---
