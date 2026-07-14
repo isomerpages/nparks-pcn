@@ -103,6 +103,29 @@ more information.</p>
 <p>Eastern Coastal Loop</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Bedok Park Connector - 7 Febuary 2026 to 31 December 2026</strong>
+</p>
+<p></p>
+<p>Bedok Park Connector between Laguna88 to Upper East Coast Road will be
+closed for Thomson East Coast MRT line work by LTA. Expected completion
+date is Q4 2026.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to <a href="/files/7_Feb_2024_Bedok_PC_Closure_Notice_____Compatibility_Mode.pdf" rel="noopener noreferrer nofollow" target="_blank">closure notice</a> for
+more information.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eastern Coastal Loop</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Loyang Park Connector - 8 June 2025 to 3rd Quarter 2029</strong>
 </p>
 <p></p>
