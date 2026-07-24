@@ -212,6 +212,28 @@ and do not stray into the vegetation.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Punggol Promenade Punggol Point Walk</strong> 
 <br>
+<br>The Punggol Point Park will be closed for upgrading from 11 August 2026.</p>
+<p></p>
+<p>Expected completion date: 31 Dec 2027&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please refer to <a href="/files/6_Jul_2026_Punggol_Point_Park___park_closure_sign__003_.pdf" rel="noopener nofollow" target="_blank">closure notice </a>for
+more information.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North Eastern Riverine Loop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Punggol Promenade Punggol Point Walk</strong> 
+<br>
 <br>An intertidal area is a fragile habitat. Where necessary, NParks will
 manage access to&nbsp;selected beaches during peak periods to avoid overcrowding.
 Entry to the beaches will be allowed only through designated access points
