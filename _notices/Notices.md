@@ -214,7 +214,7 @@ and do not stray into the vegetation.</p>
 <br>
 <br>The Punggol Point Park will be closed for upgrading from 11 August 2026.</p>
 <p></p>
-<p>Expected completion date: 31 Dec 2027&nbsp;</p>
+<p>Expected completion date: 31 December 2027&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
