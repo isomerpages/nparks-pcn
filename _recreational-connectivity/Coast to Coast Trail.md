@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/C2C%20Hero.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Photo of park users on C2C Trail" src="/images/C2C%20Hero.jpg">
 </div>
 <p>Do you enjoy taking nice long walks in lush greenery, or exploring the
 outdoor spaces around you? Then visit the Coast-to-Coast (C2C) Trail&nbsp;(Central)&nbsp;for
