@@ -303,17 +303,13 @@ route during this period.</p>
 <p>Western Adventure Loop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Choa Chu Kang Park Connector</strong>  <strong>– 4 October 2021 to Q1 2025</strong> 
-<br>
-<br>A section of Choa Chu Kang Park Connector is closed for LTA's upgrading
-works from 4 October 2021 to Q1 2025. For more information, refer to map</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Closure%20of%20CCK%20PCN_Ave%203%20Notice%20until%20Q1%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Closure of CCK PCN</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
