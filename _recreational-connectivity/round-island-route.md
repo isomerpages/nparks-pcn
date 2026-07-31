@@ -4,7 +4,7 @@ permalink: /know-our-pcn/rir/
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RIR" src="/images/Round%20Island%20Hero%20downsized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RIR imprint" src="/images/Round%20Island%20Hero%20downsized.jpg">
 </div>
 <p>The Round Island Route (RIR), a continuous 150km park connector, is part
 of NParks’ overall plans to curate a 360km island-wide network of recreational
@@ -34,7 +34,7 @@ encircles Singapore in the east.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Round%20Island%20Route%20Phase%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="RIR Map" src="/images/Round%20Island%20Route%20Phase%201.png">
 </div>
 <p><sup>(Above) Map of the Round Island Route (Phase 1), including key elements</sup>
 </p>
@@ -68,7 +68,7 @@ also shelters along the RIR nodes for you to take a break during your journey.</
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RIR-signpost1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="RIR signpost" src="/images/RIR-signpost1.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,7 +187,7 @@ Rower’s Bay.</p>
 <p>Cycling bridges at <a href="https://pcn.nparks.gov.sg/changi-bay-pc/" rel="noopener noreferrer nofollow" target="_blank">Changi Bay</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/changi%20bay%20cycling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cycling bridge" src="/images/changi%20bay%20cycling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +200,7 @@ ensuring visitors’ safety.</p>
 <td rowspan="1" colspan="1">
 <p>Boardwalk and lookout pavilion at Changi Bay</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/3LPA5658.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Boardwalk" src="/images/3LPA5658.JPG">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +213,7 @@ you to soak in the tranquil scenery.</p>
 <td rowspan="1" colspan="1">
 <p>Sengkang Riverside Bridge</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/3LPA5686.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Bridge" src="/images/3LPA5686.JPG">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ residents and also brings everyone closer to nature.</p>
 <td rowspan="1" colspan="1">
 <p>Marine tiles</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/Sengkang%20Riverside%20Bridge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Coast" src="/images/Sengkang%20Riverside%20Bridge.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,7 +259,7 @@ can find these living treasures!</p>
 <td rowspan="1" colspan="1">
 <p>Sepetir (<em>Sindora wallichii</em>)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/3LPA5693.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Sindora wallichii" src="/images/3LPA5693.JPG">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,7 +273,7 @@ Tree at Cranwell Road.</p>
 <td rowspan="1" colspan="1">
 <p>Sea Beam (<em>Maranthes corymbosa</em>)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Alt text for image on Isomer site" src="/images/sea%20beam.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Maranthes corymbosa" src="/images/sea%20beam.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
