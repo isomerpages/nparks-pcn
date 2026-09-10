@@ -303,13 +303,22 @@ route during this period.</p>
 <p>Western Adventure Loop</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ulu Pandan Park Connector</strong>
+</p>
 <p></p>
+<p>A section of Ulu Pandan Park Connector
+<br>(marked in red) will be closed on 5 Oct 2026 to facilitate the repair
+work at the joint area of the end of the Cycling Bridge to the start of
+the Cycling Path. <strong><br></strong>
+</p>
+<p>Expected completion date: 19 Oct 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Please use the alternative <a href="/files/PCN_Closure_Notice.pdf" rel="noopener noreferrer nofollow" target="_blank">route</a> 
+<br>(marked in orange) during this period.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
