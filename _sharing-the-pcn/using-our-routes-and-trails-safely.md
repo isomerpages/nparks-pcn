@@ -1,6 +1,7 @@
 ---
 title: Using Our Routes and Trails Safely
 permalink: /sharingpcn/
+variant: markdown
 ---
 ![Alt text for image on Isomer site](/images/Ulu%20Pandan%202.jpeg)
 
@@ -59,5 +60,3 @@ Do note that cycling and use of PMDs and PABs are not allowed at the following l
 *   Rifle Range Nature Park
 *    Wallace Trail at Dairy Farm Nature Park
 *   All hiking trails at Chestnut Nature Park
-
-For more information, you may refer to our [Frequently Asked Questions](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/park-connector-network/00-pcn-overview-page/faqs-on-pcn-etiquette-and-usage.ashx)
