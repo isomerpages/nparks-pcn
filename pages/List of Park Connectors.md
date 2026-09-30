@@ -68,20 +68,26 @@ variant: markdown
 | [Punggol Promenade Nature Walk](https://pcn.nparks.gov.sg/punggol-promenade-nature-walk/)     |  | |
 | [Punggol Promenade Punggol Point Walk](https://pcn.nparks.gov.sg/punggol-promenade-punggol-point-walk/)     |  | |
 | [Punggol Promenade Riverside Walk](https://pcn.nparks.gov.sg/punggol-promenade-riverside-walk/)     |  | |
-| [Punggol Waterway](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway)     |  | |
+| [Punggol Waterway](https://pcn.nparks.gov.sg/punggol-waterway/)     |  | |
 | [Punggol Waterway Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway-park)     |  | |
-| [Riverside Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/riverside-pc)     |  | |
+| [Riverside Park Connector](https://pcn.nparks.gov.sg/riverside-pc/)     |  | |
+[Rochor Canal Park Connector](https://pcn.nparks.gov.sg/rochor-canal-pc/)
+[Rower’s Bay](https://pcn.nparks.gov.sg/rowers-bay/)
+[Seletar West Park Connector](https://pcn.nparks.gov.sg/seletar-west-pc/)
 | [Sembawang Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sembawang-park)     |  | |
-| [Sembawang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sembawang-pc)     |  | |
+| [Sembawang Park Connector](https://pcn.nparks.gov.sg/sembawang-pc/)
 | [Sengkang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sengkang-riverside-park)     |  | |
-| [Serangoon Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/serangoon-pc)     |  | |
-| [Siglap Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/siglap-pc)     |  | |
-| [Simei Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/simei-pc)     |  | |
-| [Simpang Kiri Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/simpang-kiri-pc)     |  | |
-| [Springleaf Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/springleaf-park-connector)     |  | |
-| [Stadium Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/stadium-pc)     |  | |
+| [Serangoon Park Connector](https://pcn.nparks.gov.sg/serangoon-pc/)     |  | |
+| [Siglap Park Connector](https://pcn.nparks.gov.sg/siglap-pc/)     |  | |
+| [Simei Park Connector](https://pcn.nparks.gov.sg/simei-pc/)     |  | |
+| [Simpang Kiri Park Connector](https://pcn.nparks.gov.sg/simpang-kiri-pc/)     |  | |
+[Sims Avenue Park Connector](https://pcn.nparks.gov.sg/sims-ave-pc/)
+[Singapore River Promenade](https://pcn.nparks.gov.sg/singapore-river-promenade/)
+| [Springleaf Park Connector](https://pcn.nparks.gov.sg/springleaf-pc/)     |  | |
+| [Stadium Park Connector](https://pcn.nparks.gov.sg/stadium-pc/)     |  | |
 | [Sun Plaza Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sun-plaza-park)     |  | |
-| [Sungei Serangoon Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/sungei-serangoon-pc)     |  | |
+| [Sungei Serangoon Park Connector](https://pcn.nparks.gov.sg/sungei-serangoon-pc/)     |  | |
+[Sungei Simpang Kanan Park Connector](https://pcn.nparks.gov.sg/sungei-simpang-kanan-pc/)
 | [Tampines-Loyang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-loyang-pc)     |  | |
 | [Tampines Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tampines-pc)     |  | |
 | [Tanjong Rhu Promenade](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/tanjong-rhu-promenade)     |  | |
