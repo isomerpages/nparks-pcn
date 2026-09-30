@@ -7,60 +7,60 @@ variant: markdown
 | **List of Park Connectors** |  |  |
 | -------- | -------- | -------- |
 | [Adam Park Connector](https://pcn.nparks.gov.sg/adam-pc/)
-| [Admiralty West Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/admiralty-west-pc)     |  | |
-| [Alexandra Canal Linear Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-canal-linear-park)     |  | |
-| [Alexandra Garden Trail](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-garden-trail)     |  | |
-| [Alexandra Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-pc)     |  | |
-| [Ang-Mo Kio Avenue 5 Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-ave-5-pc)     |  | |
-| [Ang Mo Kio Avenue 8 Linear Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-avenue-8-linear-park)     |  | |
-| [Ang Mo Kio Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/ang-mo-kio-pc)     |  | |
-| [Ang Mo Kio Town Garden West](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/ang-mo-kio-town-garden-west)     |  | |
-| [Balam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/balam-pc)     |  | |
-| [Bedok Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bedok-reservoir-park)     |  | |
+| [Admiralty West Park Connector](https://pcn.nparks.gov.sg/admiralty-west-pc/)
+| [Alexandra Canal Linear Park](https://pcn.nparks.gov.sg/alexandra-canal-linear-park/)
+| [Alexandra Garden Trail](https://pcn.nparks.gov.sg/alexandra-garden-trail/)
+| [Alexandra Park Connector](https://pcn.nparks.gov.sg/alexandra-pc/)
+| [Ang-Mo Kio Avenue 5 Park Connector](https://pcn.nparks.gov.sg/ang-mo-kio-ave5-pc/)  |  | |
+| [Ang Mo Kio Avenue 8 Linear Park](https://pcn.nparks.gov.sg/ang-mo-kio-ave-8-pc/)
+| [Ang Mo Kio Park Connector](https://pcn.nparks.gov.sg/ang-mo-kio-pc/)
+| [Ang Mo Kio Town Garden West](https://pcn.nparks.gov.sg/ang-mo-kio-town-garden-west-pc/)    |  | |
+| [Balam Park Connector](https://pcn.nparks.gov.sg/balam-pc/)
+| [Bedok Reservoir Park](https://pcn.nparks.gov.sg/bedok-pc/)
 | [Bedok Town Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bedok-town-park)     |  | |
 | [Bishan-Ang Mo Kio Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bishan---ang-mo-kio-park)     |  | |
-| [Buangkok Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/buangkok-pc)     |  | |
-| [Bukit Batok East Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-east-pc)     |  | |
+| [Buangkok Park Connector](https://pcn.nparks.gov.sg/buangkok-pc/)
+| [Bukit Batok East Park Connector](https://pcn.nparks.gov.sg/bukit-batok-east-pc/)     |  | |
 | [Bukit Batok Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-batok-nature-park)     |  | |
-| [Bukit Batok Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-pc)     |  | |
-| [Bukit Batok West Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-batok-west-pc)     |  | |
-| [Bukit Panjang (Woodlands Road to KJE) Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-panjang-woodlands-road-to-kje-pc)     |  | |
-| [Bukit Timah Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/bukit-timah-pc)     |  | |
-| [Canberra Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/canberra-pc)     |  | |
-| [Central Catchment Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/central-catchment-pc)     |  | |
-| [Changi Bay Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/changi-bay-pc)     |  | |
+| [Bukit Batok Park Connector](https://pcn.nparks.gov.sg/bukit-batok-pc/)  |  | |
+| [Bukit Batok West Park Connector](https://pcn.nparks.gov.sg/bukit-batok-west-pc/)     |  | |
+| [Bukit Panjang Park Connector](https://pcn.nparks.gov.sg/bukit-panjang-pc/)     |  | |
+| [Bukit Timah Park Connector](https://pcn.nparks.gov.sg/bukit-timah-pc/)     |  | |
+| [Canberra Park Connector](https://pcn.nparks.gov.sg/canberra-pc/)     |  | |
+| [Central Catchment Park Connector](https://pcn.nparks.gov.sg/central-catchment-pc/)     |  | |
+| [Changi Bay Park Connector](https://pcn.nparks.gov.sg/changi-bay-pc/)     |  | |
 | [Changi Beach Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/changi-beach-park)     |  | |
 | [Choa Chu Kang Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/choa-chu-kang-park)     |  | |
-| [Choa Chu Kang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/choa-chu-kang-pc)     |  | |
-| [Choa Chu Kang North Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/chua-chu-kang-north-pc)     |  | |
+| [Choa Chu Kang Park Connector](https://pcn.nparks.gov.sg/choa-chu-kang-pc/)     |  | |
+| [Choa Chu Kang North Park Connector](https://pcn.nparks.gov.sg/choa-chu-kang-north-pc/)    |  | |
 | [Clementi Woods Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/clementi-woods-park)     |  | |
-| [Coastal Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/coastal-pc)     |  | |
-| [Dairy Farm Nature Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/dairy-farm-nature-park)     |  | |
-| [Dairy Farm Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/dairy-farm-pc)     |  | |
+| [Coastal Park Connector](https://pcn.nparks.gov.sg/coastal-pc/)    |  | |
+| [Dairy Farm Nature Park](https://www.nparks.gov.sg/visit/parks/park-detail/dairy-farm-nature-park)     |  | |
+| [Dairy Farm Park Connector](https://pcn.nparks.gov.sg/dairy-farm-pc/)     |  | |
 | [East Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/east-coast-park)     |  | |
-| [Geylang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/geylang-pc)     |  | |
-| [Henderson Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/henderson-pc)     |  | |
-| [Hillview Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hillview-pc)     |  | |
-| [Hougang Ave 3 Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/hougang-avenue-3-pc)     |  | |
-| [Jalan Pelikat Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jalan-pelikat-pc)     |  | |
+| [Geylang Park Connector](https://pcn.nparks.gov.sg/geylang-pc/)
+| [Henderson Park Connector](https://pcn.nparks.gov.sg/henderson-pc/)     |  | |
+| [Hillview Park Connector](https://pcn.nparks.gov.sg/hillview-pc/)   |  | |
+| [Hougang Ave 3 Park Connector](https://pcn.nparks.gov.sg/hougang-avenue-3-pc/)     |  | |
+| [Jalan Pelikat Park Connector](https://pcn.nparks.gov.sg/jalan-pelikat-pc/)     |  | |
 | [Jurong Central Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/jurong-central-park)     |  | |
-| [Jurong Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-pc)     |  | |
-| [Jurong West Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/jurong-west-pc)     |  | |
-| [Kallang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/kallang-pc)     |  | |
+| [Jurong Park Connector](https://pcn.nparks.gov.sg/jurong-pc/)     |  | |
+| [Jurong West Park Connector](https://pcn.nparks.gov.sg/jurong-west-pc/)  |  | |
+| [Kallang Park Connector](Kallang Park Connector](https://pcn.nparks.gov.sg/kallang-pc/)     |  | |
 | [Kallang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kallang-riverside-park)     |  | |
-| [Khatib Bongsu Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/khatib-bongsu-pc)     |  | |
-| [Lornie Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc)     |  | |
-| [Lorong Halus Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lorong-halus-pc)     |  | |
+| [Khatib Bongsu Park Connector](https://pcn.nparks.gov.sg/khatib-bongsu-pc/)     |  | |
+| [Lornie Park Connector](https://pcn.nparks.gov.sg/lornie-pc/)     |  | |
+| [Lorong Halus Park Connector](https://pcn.nparks.gov.sg/lorong-halus-pc/)    |  | |
 | [Lower Seletar Reservoir Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/lower-seletar-reservoir-park)     |  | |
-| [Loyang Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/loyang-pc)     |  | |
-| [Mandai Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/mandai-pc)     |  | |
+| [Loyang Park Connector](https://pcn.nparks.gov.sg/loyang-pc/)     |  | |
+| [Mandai Park Connector](https://pcn.nparks.gov.sg/mandai-pc/)     |  | |
 | [Marsiling Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/marsiling-park)     |  | |
-| [Marsiling Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/marsiling-pc)     |  | |
-| [Old Upper Thomson Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/old-upper-thomson-pc)     |  | |
-| [Pandan Gardens Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pandan-gardens-pc)     |  | |
-| [Pang Sua Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pang-sua-pc)     |  | |
+| [Marsiling Park Connector](https://pcn.nparks.gov.sg/marsiling-pc/)     |  | |
+| [Old Upper Thomson Park Connector]((https://pcn.nparks.gov.sg/old-upper-thomson-pc/)     |  | |
+| [Pandan Gardens Park Connector](https://pcn.nparks.gov.sg/pandan-gardens-pc/)     |  | |
+| [Pang Sua Park Connector](https://pcn.nparks.gov.sg/pang-sua-pc/)     |  | |
 | [Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park)     |  | |
-| [Pasir Ris Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pasir-ris-pc)     |  | |
+| [Pasir Ris Park Connector](https://pcn.nparks.gov.sg/pasir-ris-pc/)     |  | |
 | [Pasir Ris Town Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-town-park)     |  | |
 | [Paya Lebar Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/paya-lebar-pc)     |  | |
 | [Pelton Canal Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pelton-canal-pc)     |  | |
