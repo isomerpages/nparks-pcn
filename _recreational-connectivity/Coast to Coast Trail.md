@@ -11,10 +11,9 @@ variant: tiptap
 outdoor spaces around you? Then visit the Coast-to-Coast (C2C) Trail&nbsp;(Central)&nbsp;for
 a curated walking experience across the island!</p>
 <p>The Coast-to-Coast Trail (Central) is a 36 km trail that spans across
-Singapore, linking up nature areas, parks and park connectors from&nbsp;<strong><a href="https://www.nparks.gov.sg/juronglakegardens" rel="noopener noreferrer nofollow" target="_blank">Jurong Lake Gardens</a></strong>&nbsp;in
-the west, <strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/lornie-pc" rel="noopener noreferrer nofollow" target="_blank">Lornie Nature Corridor</a></strong>&nbsp;near
-the centre, and to&nbsp;<strong><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coney-island-park" rel="noopener noreferrer nofollow" target="_blank">Coney Island Park</a></strong>&nbsp;in
-the northeast.</p>
+Singapore, linking up nature areas, parks and park connectors from Jurong
+Lake Gardens&nbsp;in the west,&nbsp;Lornie Nature Corridor near the centre,
+and to Coney Island Park&nbsp;in the northeast.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="C2C Trail Guide" src="/images/C2C%20Trail%20Guide%20-%20Cover%20Artwork.png">
 </div>
