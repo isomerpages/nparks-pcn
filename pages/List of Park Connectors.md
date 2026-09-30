@@ -46,7 +46,7 @@ variant: markdown
 | [Jurong Central Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/jurong-central-park)     |  | |
 | [Jurong Park Connector](https://pcn.nparks.gov.sg/jurong-pc/)     |  | |
 | [Jurong West Park Connector](https://pcn.nparks.gov.sg/jurong-west-pc/)  |  | |
-| [Kallang Park Connector](Kallang Park Connector](https://pcn.nparks.gov.sg/kallang-pc/)     |  | |
+| [Kallang Park Connector](https://pcn.nparks.gov.sg/kallang-pc/)     |  | |
 | [Kallang Riverside Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/kallang-riverside-park)     |  | |
 | [Khatib Bongsu Park Connector](https://pcn.nparks.gov.sg/khatib-bongsu-pc/)     |  | |
 | [Lornie Park Connector](https://pcn.nparks.gov.sg/lornie-pc/)     |  | |
@@ -62,12 +62,12 @@ variant: markdown
 | [Pasir Ris Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-park)     |  | |
 | [Pasir Ris Park Connector](https://pcn.nparks.gov.sg/pasir-ris-pc/)     |  | |
 | [Pasir Ris Town Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/pasir-ris-town-park)     |  | |
-| [Paya Lebar Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/paya-lebar-pc)     |  | |
-| [Pelton Canal Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/pelton-canal-pc)     |  | |
+| [Paya Lebar Park Connector](https://pcn.nparks.gov.sg/paya-lebar-pc/)     |  | |
+| [Pelton Canal Park Connector](https://pcn.nparks.gov.sg/pelton-canal-pc/)     |  | |
 | [Punggol Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-park)     |  | |
-| [Punggol Promenade Nature Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-nature-walk)     |  | |
-| [Punggol Promenade Punggol Point Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-punggol-point-walk)     |  | |
-| [Punggol Promenade Riverside Walk](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/punggol-promenade-riverside-walk)     |  | |
+| [Punggol Promenade Nature Walk](https://pcn.nparks.gov.sg/punggol-promenade-nature-walk/)     |  | |
+| [Punggol Promenade Punggol Point Walk](https://pcn.nparks.gov.sg/punggol-promenade-punggol-point-walk/)     |  | |
+| [Punggol Promenade Riverside Walk](https://pcn.nparks.gov.sg/punggol-promenade-riverside-walk/)     |  | |
 | [Punggol Waterway](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway)     |  | |
 | [Punggol Waterway Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/punggol-waterway-park)     |  | |
 | [Riverside Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/riverside-pc)     |  | |
