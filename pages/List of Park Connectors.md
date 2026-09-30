@@ -2,10 +2,11 @@
 title: List of Park Connectors
 permalink: /the-pcn-experience/glossary/
 description: ""
+variant: markdown
 ---
 | **List of Park Connectors** |  |  |
 | -------- | -------- | -------- |
-| [Adam Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/adam-pc)     |  | |
+| [Adam Park Connector](https://pcn.nparks.gov.sg/adam-pc/)
 | [Admiralty West Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/admiralty-west-pc)     |  | |
 | [Alexandra Canal Linear Park](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-canal-linear-park)     |  | |
 | [Alexandra Garden Trail](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/alexandra-garden-trail)     |  | |
