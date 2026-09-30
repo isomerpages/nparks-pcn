@@ -198,8 +198,7 @@ and do not stray into the vegetation.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information on wild boars can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/wild-boars" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -245,9 +244,7 @@ etiquette and remind them not to remove marine life indiscriminately.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="http://www.nparks.gov.sg/biodiversity/our-ecosystems/coastal-and-marine/intertidal" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about our intertidal area, and what to do when you explore
-such areas.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +265,7 @@ beaches.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>More information on box jellyfish can be found&nbsp;<a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/box-jellyfish" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
