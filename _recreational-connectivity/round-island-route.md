@@ -102,8 +102,8 @@ also shelters along the RIR nodes for you to take a break during your journey.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pcn.nparks.gov.sg/rowers-bay/" rel="noopener noreferrer nofollow" target="_blank">Rower’s Bay</a>
-</p>
+<p>Rower’s Bay</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Traffic junction nearest the trellis at Rower’s Bay. The RIR path is opposite
@@ -115,11 +115,10 @@ Rower’s Bay.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/parks/park-detail/sengkang-riverside-park" rel="noopener noreferrer nofollow" target="_blank">Sengkang Riverside Park</a>
-</p>
+<p>Sengkang Riverside Park</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exit of Sengkang Riverside Park near Sengkang West Way
+<p>Exit of near Sengkang West Way
 <br>Sengkang Riverside Park Carpark</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,8 +127,7 @@ Rower’s Bay.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/parks/park-detail/pasir-ris-park" rel="noopener noreferrer nofollow" target="_blank">Pasir Ris Park</a>
-</p>
+<p>Pasir Ris Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Toilet A2</p>
@@ -140,12 +138,11 @@ Rower’s Bay.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/parks/park-detail/changi-beach-park" rel="noopener noreferrer nofollow" target="_blank">Changi Beach Park</a>
-</p>
+<p>Changi Beach Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pedestrian bridge at Changi Point coastal walk
-<br>Changi Beach Park Carpark 7</p>
+<br>Carpark 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,8 +150,7 @@ Rower’s Bay.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/parks/park-detail/east-coast-park" rel="noopener noreferrer nofollow" target="_blank">East Coast Park</a>
-</p>
+<p>East Coast Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Area H near Changi Coastal Walk
